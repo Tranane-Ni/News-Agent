@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-20 08:29
+**最后更新时间**: 2025-11-20 09:12
+
+---
+
+## 🆕 最新更新 (2025-11-20 09:12)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Redis源代码中存在潜伏13年的10级漏洞，可能允许远程代码执行](https://www.infoq.cn/article/HNfN4wwNHlkE7JsT3sV7?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 16:39
+
+#### [新加坡出行巨头 Grab 如何用 AutoMQ 重塑 Kafka 流平台](https://www.infoq.cn/article/lp3VOCztFMYNo2bCVt2C?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 16:32
+
+#### [WebAssembly 3.0 发布，64 位内存、垃圾回收全都有，先别激动，组件模型还没做完！](https://www.infoq.cn/article/GXafcQPIxv1N1Hj20q8t?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 16:24
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [字节张楠、张宏江、田渊栋······极客公园创新大会 2026 嘉宾阵容更新！](http://www.geekpark.net/news/356673)
+**发布时间**: 2025-11-20 16:33
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Saudia Arabia Reaches Strategic AI Partnership with U.S., Boosts Committed Investment to $1 Trillion](https://www.tmtpost.com/7773655.html)
+**发布时间**: 2025-11-20 12:25
 
 ---
 
