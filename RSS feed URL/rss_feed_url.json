@@ -48,6 +48,12 @@
         "rss": "https://feed.mix.sina.com.cn/api/roll/get?pageid=155&lid=1686&num=10"
     },
     {
+        "name": "多知网",
+        "category": "Education",
+        "language": "zh",
+        "rss": "https://www.duozhi.com/feed"
+    }
+    {
         "name": "InfoQ 中文站",
         "category": "Technology",
         "language": "zh",
