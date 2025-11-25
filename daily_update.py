@@ -1127,9 +1127,12 @@ RSS_LINKS_PLACEHOLDER
     feed_count = 0
 
     if os.path.exists('feed'):
-        if os.getenv('GITHUB_ACTIONS') == 'true':
-            base_url = "https://zskksz.asia/News-Agent"
-        else:
+        # ✅ 动态获取你的GitHub用户名和仓库名
+            github_repo = os.getenv('GITHUB_REPOSITORY', 'username/News-Agent')
+            username = github_repo.split('/')[0]
+            repo_name = github_repo.split('/')[1] if '/' in github_repo else 'News-Agent'
+            base_url = f"https://{username}.github.io/{repo_name}"
+    else:
             base_url = "."  # 本地预览
 
         # 定义增强版RSS文件映射，包含更多元数据
