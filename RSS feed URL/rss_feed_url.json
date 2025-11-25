@@ -48,10 +48,10 @@
         "rss": "https://feed.mix.sina.com.cn/api/roll/get?pageid=155&lid=1686&num=10"
     },
     {
-        "name": "多知网",
+        "name": "百度新闻",
         "category": "Education",
         "language": "zh",
-        "rss": "https://www.duozhi.com/feed"
+        "rss": "http://news.baidu.com/n?cmd=1&class=civilnews&tn=rss"
     },
     {
         "name": "InfoQ 中文站",
