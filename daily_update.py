@@ -1135,7 +1135,7 @@ RSS_LINKS_PLACEHOLDER
             else:
                 username = github_repo
                 repo_name = 'News-Agent'
-             base_url = f"https://{username}.github.io/{repo_name}"
+            base_url = f"https://{username}.github.io/{repo_name}"
         else:
             base_url = "."  # 本地预览
 
