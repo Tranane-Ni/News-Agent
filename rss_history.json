@@ -1587,24 +1587,6 @@
       }
     },
     "Technology": {
-      "e1d54e5f5bdf0877fc174de71aa9fc4587ab56fa1edc0583754ada4066b04fe2": {
-        "title": "谁会成为AI时代的苹果公司？",
-        "link": "https://www.tmtpost.com/7738355.html",
-        "published_date": "Sun, 26 Oct 2025 16:17:00 GMT",
-        "first_seen": "2025-10-26T08:24:30.366652"
-      },
-      "40669868ac1da459bc01148a141ef1cceb93dd1d77754aca1f079a4ad358d2f2": {
-        "title": "AI视频，抖音的又一批门徒",
-        "link": "https://www.tmtpost.com/7738202.html",
-        "published_date": "Sun, 26 Oct 2025 15:19:00 GMT",
-        "first_seen": "2025-10-26T08:24:30.366797"
-      },
-      "2ea0672a0e258f59f72aa6087195624aeb31d7bdc9c252d849b0fb04e4b3314f": {
-        "title": "谁还在为李佳琦们买单？",
-        "link": "https://www.tmtpost.com/7738353.html",
-        "published_date": "Sun, 26 Oct 2025 13:57:00 GMT",
-        "first_seen": "2025-10-26T08:24:30.366916"
-      },
       "ff1ab64132aafb62599587cbf2da9116371b341b4f3e397c65a17763818fdd90": {
         "title": "8888元一桌的高端婚宴，全是预制菜？",
         "link": "http://www.huxiu.com/article/4796518.html?f=wangzhan",
@@ -12626,6 +12608,24 @@
         "link": "http://www.huxiu.com/article/4808514.html?f=wangzhan",
         "published_date": "Tue, 25 Nov 2025 13:30:00 GMT",
         "first_seen": "2025-11-25T07:40:56.659586"
+      },
+      "19d19bf84f58459544aedb2856c92e51dec358e90cb371d98b032585f74de9ff": {
+        "title": "二十五载聚智启新章，中国股权投资年度大会深圳将启",
+        "link": "https://www.tmtpost.com/7780713.html",
+        "published_date": "Tue, 25 Nov 2025 16:50:00 GMT",
+        "first_seen": "2025-11-25T08:57:22.790980"
+      },
+      "d6ea7c07544d0f04cfefa4a5e7f44386e18a462593ee59dc82f7b7612deb2689": {
+        "title": "用 Tasker 在桌面上随机回顾微信读书笔记",
+        "link": "https://sspai.com/prime/story/wechat-read-annotations-widget-tasker",
+        "published_date": "Tue, 25 Nov 2025 15:42:00 GMT",
+        "first_seen": "2025-11-25T08:57:22.791089"
+      },
+      "df8d1788dd00410e89ee53098453aeeafbc1604d3890452b424417c4b552d350": {
+        "title": "Matrix 圆桌｜聊聊那些让你离不开的「平台独占」",
+        "link": "https://sspai.com/post/104030",
+        "published_date": "Tue, 25 Nov 2025 15:00:00 GMT",
+        "first_seen": "2025-11-25T08:57:22.791276"
       }
     },
     "Finance": {},
@@ -12791,13 +12791,31 @@
         "link": "http://baijiahao.baidu.com/s?id=1849658637441434691",
         "published_date": "Tue, 25 Nov 2025 07:40:00 GMT",
         "first_seen": "2025-11-25T07:40:56.616069"
+      },
+      "64e1508912e83833962f7ae24c8de17e771538ab3c4ce31bf0f6be288c88f346": {
+        "title": "越南网络达人沪上行：无界对话感知中国创新活力",
+        "link": "http://baijiahao.baidu.com/s?id=1849660470198714893",
+        "published_date": "Tue, 25 Nov 2025 08:57:00 GMT",
+        "first_seen": "2025-11-25T08:57:22.739778"
+      },
+      "217d44b05bcfacd4241921db6ba2c76bf925b58e8f0c403c2e90cdf7ede52902": {
+        "title": "广东深圳一男孩疑似在天台边缘徘徊玩耍，目击者：看到..",
+        "link": "http://baijiahao.baidu.com/s?id=1849656835864433861",
+        "published_date": "Tue, 25 Nov 2025 08:57:00 GMT",
+        "first_seen": "2025-11-25T08:57:22.739910"
+      },
+      "1859d0126cd6674f6eefef805b3ebf966455709934ebbf79a59fa9a245280af5": {
+        "title": "大娄山、苗岭、武陵山、乌蒙山 四大山系成因概要",
+        "link": "http://baijiahao.baidu.com/s?id=1849013891579526632",
+        "published_date": "Tue, 25 Nov 2025 08:57:00 GMT",
+        "first_seen": "2025-11-25T08:57:22.740069"
       }
     }
   },
   "last_update": {
-    "AI": "2025-11-25T07:40:56.614251",
-    "Technology": "2025-11-25T07:41:45.126590",
-    "Finance": "2025-11-25T07:40:56.459003",
-    "Education": "2025-11-25T07:40:56.617308"
+    "AI": "2025-11-25T08:57:22.739097",
+    "Technology": "2025-11-25T08:57:22.799268",
+    "Finance": "2025-11-25T08:57:22.629307",
+    "Education": "2025-11-25T08:57:22.756920"
   }
 }
