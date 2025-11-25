@@ -1126,18 +1126,18 @@ RSS_LINKS_PLACEHOLDER
     total_size = 0
     feed_count = 0
     
-        if os.path.exists('feed'):
-            if os.getenv('GITHUB_ACTIONS') == 'true':
-                # 动态获取GitHub用户名和仓库名
-                github_repo = os.getenv('GITHUB_REPOSITORY', 'username/News-Agent')
-                if '/' in github_repo:
-                    username, repo_name = github_repo.split('/', 1)
-                else:
-                    username = github_repo
-                    repo_name = 'News-Agent'
-                base_url = f"https://{username}.github.io/{repo_name}"
+    if os.path.exists('feed'):
+        if os.getenv('GITHUB_ACTIONS') == 'true':
+            # 动态获取GitHub用户名和仓库名
+            github_repo = os.getenv('GITHUB_REPOSITORY', 'username/News-Agent')
+            if '/' in github_repo:
+                username, repo_name = github_repo.split('/', 1)
             else:
-                base_url = "."  # 本地预览
+                username = github_repo
+                repo_name = 'News-Agent'
+             base_url = f"https://{username}.github.io/{repo_name}"
+        else:
+            base_url = "."  # 本地预览
 
         # 定义增强版RSS文件映射，包含更多元数据
         # ✅ 动态加载RSS配置，支持所有分类
