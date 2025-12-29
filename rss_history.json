@@ -2832,21 +2832,45 @@
         "link": "https://www.qbitai.com/2025/12/366118.html",
         "published_date": "Mon, 29 Dec 2025 05:37:00 GMT",
         "first_seen": "2025-12-29T08:37:51.610709"
+      },
+      "e449b64e98c0f1c7e1af1604f3260687dd2bc74d6755fb812ca22c02c810cdcf": {
+        "title": "AI引爆内存荒：手机电脑不仅要涨价，还要减配",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-11",
+        "published_date": "Mon, 29 Dec 2025 16:55:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.083199"
+      },
+      "3bf52e6d769ffcd43f040dd527b2c0b78700f91abb9546fa68cebb653b1f7343": {
+        "title": "全景视觉的Depth Anything来了！Insta360推出DAP，200万数据打造全场景360°空间智能新高度",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-10",
+        "published_date": "Mon, 29 Dec 2025 16:49:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.083410"
+      },
+      "69f587d00e70ab0350f86c7fe1e0daa08db0b095915066e929e44f0acf03c6ff": {
+        "title": "九章云极完成新一轮战略融资，持续巩固全球智算云第一梯队地位",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-9",
+        "published_date": "Mon, 29 Dec 2025 16:42:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.083571"
+      },
+      "d53eed5df6e830b67b7d21cb66b83def13634a8234d85c19cc9d2e4a0b89afd8": {
+        "title": "全球首个具身 VLTA 多模态数据集开源，加速具身智能真实世界落地",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-29-12",
+        "published_date": "Mon, 29 Dec 2025 14:20:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.083822"
+      },
+      "cf3b4ae4e982699a0a481f56315dd7049f5911cd64a36a9a58b81c95dca9f6f3": {
+        "title": "特斯拉上海急招Robotaxi人才",
+        "link": "https://www.qbitai.com/2025/12/366215.html",
+        "published_date": "Mon, 29 Dec 2025 09:08:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.083994"
+      },
+      "2682855d466ffd43b8b0ac752d4aa1e3c1cfcc0b8bed204ca7ad1f9ad15d011d": {
+        "title": "国资战略入股九章云极 加码先进AI基础设施攻坚",
+        "link": "https://www.qbitai.com/2025/12/366209.html",
+        "published_date": "Mon, 29 Dec 2025 08:52:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.084247"
       }
     },
     "Technology": {
-      "825d6d70af554e9459f96223a96d1a2511f0ae6e81351e34a975ed3d5500b8c0": {
-        "title": "Intel偷塔英伟达，比Google狠多了，直接挖角台积电核心人物",
-        "link": "https://www.tmtpost.com/7788009.html",
-        "published_date": "Sat, 29 Nov 2025 15:51:00 GMT",
-        "first_seen": "2025-11-29T08:48:49.544510"
-      },
-      "5174852e380a94a0dd9b1401d7e9b1c843220001da78f76c182d05fd8ab8a850": {
-        "title": "壁垒极高的海外大储也开始内卷了，“元凶”原来是他俩？",
-        "link": "https://www.tmtpost.com/7788010.html",
-        "published_date": "Sat, 29 Nov 2025 15:50:00 GMT",
-        "first_seen": "2025-11-29T08:48:49.544632"
-      },
       "e98907081e8a5f073aa9933884124bfea17a397e6e4ad176490b22474f6f810f": {
         "title": "烧钱六年，Dojo 被判死刑：马斯克自研超算梦是怎么走进死胡同的？",
         "link": "https://www.infoq.cn/article/eHzPHWwpBcP0NRizhiId?utm_source=rss&utm_medium=article",
@@ -12950,34 +12974,166 @@
         "link": "https://www.infoq.cn/article/N6S6vuVmhY54Rgtd4AWF?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 29 Dec 2025 16:12:00 GMT",
         "first_seen": "2025-12-29T08:38:00.990778"
+      },
+      "ccd0b968376103e3874c3cfebee621b7cc5faa82d37092e1d6d05f89bb5d6874": {
+        "title": "重整之路彻底终结！*ST长药三年造假，退市终成“无解”局",
+        "link": "https://www.tmtpost.com/7825047.html",
+        "published_date": "Mon, 29 Dec 2025 22:10:00 GMT",
+        "first_seen": "2025-12-29T23:24:06.455335"
+      },
+      "ef7fd177e0a0cde19acbf01005714ec5f1703e156a8484cdd3310b15e01a93d8": {
+        "title": "“非完全人形”机器人正在攻入家庭场景",
+        "link": "https://www.tmtpost.com/7824659.html",
+        "published_date": "Mon, 29 Dec 2025 20:42:00 GMT",
+        "first_seen": "2025-12-29T23:24:06.455345"
+      },
+      "0d6fc25773c00a1e60e4c406ff89c8e837e9778338fe0d2190a3efafda2f5c4c": {
+        "title": "XR专利第一案，输赢双方都不服",
+        "link": "https://www.tmtpost.com/7824577.html",
+        "published_date": "Mon, 29 Dec 2025 20:30:00 GMT",
+        "first_seen": "2025-12-29T23:24:06.455353"
+      },
+      "f57e6bbc9d9c4010ffbaa2e358ec3cace177e124182b4dad9351b95a6bf4dabc": {
+        "title": "2025黄金狂潮背后的中国故事",
+        "link": "https://www.tmtpost.com/7767187.html",
+        "published_date": "Mon, 29 Dec 2025 20:28:00 GMT",
+        "first_seen": "2025-12-29T23:24:06.455361"
+      },
+      "b3ebc174c387e169735fa79e240115bc1124684758a2a037f42bc247d4da3cd2": {
+        "title": "2025，机器人“铁军”元年：资本抢滩，量产开跑",
+        "link": "https://www.tmtpost.com/7824615.html",
+        "published_date": "Mon, 29 Dec 2025 20:26:00 GMT",
+        "first_seen": "2025-12-29T23:24:06.455370"
+      },
+      "1819af7d60a7d4b2f9625e2930d761d0133adc5e441a182851faaa97566f2c80": {
+        "title": "QPU要想取代GPU，2026年太关键",
+        "link": "https://www.tmtpost.com/7824870.html",
+        "published_date": "Mon, 29 Dec 2025 20:26:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.189997"
+      },
+      "c2a7c6c4ffdc9b55b6a7138122db5e137236b7204569006eb6fd2a85c6e76f78": {
+        "title": "短剧抄袭，走到头了？",
+        "link": "https://www.tmtpost.com/7824007.html",
+        "published_date": "Mon, 29 Dec 2025 20:25:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.190197"
+      },
+      "585f01f4c655d63313b993ad2119388c7693863f97cc7e4e964912c620c1baae": {
+        "title": "2025小游戏年终研判：新打法付费激活率飙升108%，“内容+社交”带动日均100万次新增？",
+        "link": "https://www.tmtpost.com/7824166.html",
+        "published_date": "Mon, 29 Dec 2025 20:25:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.190672"
+      },
+      "d909577aa5d1008cf6b01935af40e95095b69b7f7d64fb52af277a9ba0f0124f": {
+        "title": "巴菲特谢幕，手握万亿资金的继任者，是否会加速拥抱AI？",
+        "link": "https://www.tmtpost.com/7823981.html",
+        "published_date": "Mon, 29 Dec 2025 20:24:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.191052"
+      },
+      "170539c1399939f8c098bdfebba4b4c41c880f9aee5b1691cc0c39fb677795f7": {
+        "title": "豆包，正在成为「新字节」",
+        "link": "https://www.tmtpost.com/7824417.html",
+        "published_date": "Mon, 29 Dec 2025 20:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.191392"
+      },
+      "b9b849710ed0e73388c7c634424bb40815c17314179de96cd8f5ec06fc594d81": {
+        "title": "2025数字医疗年度创新白皮书：AI落地应用成主旋律，脑机接口进入临床试验高峰",
+        "link": "https://www.tmtpost.com/7824290.html",
+        "published_date": "Mon, 29 Dec 2025 20:23:00 GMT",
+        "first_seen": "2025-12-29T23:24:06.455259"
+      },
+      "20703835264d69f8e6a8ec370bfd3b1a01e05836e8ca9631d5de59b73f835454": {
+        "title": "GEO爆火，AI被广告“入侵”",
+        "link": "https://www.tmtpost.com/7824796.html",
+        "published_date": "Mon, 29 Dec 2025 20:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.192425"
+      },
+      "c04013c04eef3f17cf2b9e93073dfda01681dbf771ff503fbc9385e64a80b313": {
+        "title": "真实的墨西哥",
+        "link": "https://www.tmtpost.com/7824810.html",
+        "published_date": "Mon, 29 Dec 2025 20:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.192699"
+      },
+      "ff72a68108e815772082e35f58f41004b2a6b36544173cf87e6d25e29f854055": {
+        "title": "推理专用芯片，火了",
+        "link": "https://www.tmtpost.com/7824866.html",
+        "published_date": "Mon, 29 Dec 2025 20:23:00 GMT",
+        "first_seen": "2025-12-29T23:24:06.455326"
+      },
+      "0df261b36078e477ba8bdf4ee637da089b6a162f37a79fb7d236192d24183811": {
+        "title": "《湘菜发展报告2025》发布：超千亿规模，高性价比、土菜、市井湘菜持续出圈",
+        "link": "https://www.tmtpost.com/7824776.html",
+        "published_date": "Mon, 29 Dec 2025 20:23:00 GMT",
+        "first_seen": "2025-12-29T23:24:06.455290"
+      },
+      "9ffdfbddecec2c90c0673c966e25a428af8941b6432c68f866f35901db9f2698": {
+        "title": "AI手串、AI调香、AI照相机……AI养活小摊贩？",
+        "link": "https://www.tmtpost.com/7824814.html",
+        "published_date": "Mon, 29 Dec 2025 20:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.194524"
+      },
+      "90eece5fd4a0b6a7744b0b36696577b7bec3635bb37783a8c29bc645cd3d11ff": {
+        "title": "从何小鹏蹲求电池到曾毓群率队破冰，小鹏与宁王为何“攻守易形”？",
+        "link": "https://www.tmtpost.com/7824780.html",
+        "published_date": "Mon, 29 Dec 2025 20:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.195228"
+      },
+      "2eae8f4c9fcdb8da8ee3d6f78c4d5918eb32b13f6837aa36c37f2d6c6ff6edef": {
+        "title": "枫清科技高雪峰：AI爆火了两年后，它对人类的替代非常有限",
+        "link": "https://www.infoq.cn/article/1evtNyxCOyMmod9P4kRO?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Dec 2025 18:43:00 GMT",
+        "first_seen": "2025-12-29T23:24:06.455303"
+      },
+      "7cdb8a2bf701bbf17138c6aebbdf7203d4fc57cc4107e6bd9f5546299369c137": {
+        "title": "关于 AI Infra 的一切，中国企业给出了答案",
+        "link": "https://www.infoq.cn/article/2tsspiYyfwKrT7y3DlfT?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Dec 2025 18:24:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.196976"
+      },
+      "cbc6b1f64a60628388997e5d275abd5f4aa0608d584b5c440fbd17b9f9426d97": {
+        "title": "裁4000人换来的AI全白搞？Salesforce悄悄改架构：用 “老技术”故障少还省钱，网友怒喊：CEO零遣散费滚蛋",
+        "link": "https://www.infoq.cn/article/OQr03sb0YVLv9afA0JlT?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Dec 2025 18:00:00 GMT",
+        "first_seen": "2025-12-29T23:24:06.455316"
+      },
+      "2168ed920b3807cd71b3e948fbb5c803a89a0dc3466aa72100bd916c6f03584b": {
+        "title": "从数日鏖战到数小时完成：商汤揭秘如何用数据驱动 Agent 搞定复杂标书生成",
+        "link": "https://www.infoq.cn/article/xRUYrVgUlZQMRjJ1MM4F?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Dec 2025 16:39:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.199532"
+      },
+      "430df178852c9c62407091ce7198ffe233a52614b308b3225c9be16b076f70d6": {
+        "title": "Akamai云计算CTO：当AI成为核心负载，云计算架构开始“向外生长”",
+        "link": "https://www.infoq.cn/article/NkZcLyFoaP62KkQa5Mr7?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Dec 2025 16:36:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.200678"
+      },
+      "d3dab8c9fdff80ef0ef90dccd13b1b2bf4a11b9361de5e500bcb56d780477b6a": {
+        "title": "【AICon 热点论坛回顾】Agent 开始创造长期价值：四个真实业务场景里的答案",
+        "link": "https://www.infoq.cn/article/94ag061VWqRBk6qVeOBi?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 29 Dec 2025 09:10:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.202092"
+      },
+      "f21f1ecacdd3ac5aa21450403ee4d36824b1222499ba956d55dbba3a569ba97b": {
+        "title": "折叠屏要做成什么样，才算一台新时代的「折叠屏旗舰」？",
+        "link": "https://sspai.com/post/104926",
+        "published_date": "Mon, 29 Dec 2025 18:00:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.203152"
+      },
+      "ef64afab62c9c8829b2aa6761af2bc2ce649ddbf9e4b6959b0ff987842392cea": {
+        "title": "派评 | 近期值得关注的 App",
+        "link": "https://sspai.com/post/104984",
+        "published_date": "Mon, 29 Dec 2025 17:40:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.204038"
+      },
+      "e3b425858cebf5e883612ab3883df698d37b28d6005044a73815b7bac87511d8": {
+        "title": "分红分的是谁的钱？",
+        "link": "http://www.huxiu.com/article/4821498.html?f=wangzhan",
+        "published_date": "Mon, 29 Dec 2025 16:00:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.204636"
       }
     },
     "Finance": {},
     "Education": {
-      "9a7fb19f70160aaeb566915658f56d468c9e36fee11e6576824df913193060a8": {
-        "title": "LABUBU们又来啦！泡泡玛特南京路再开全新旗舰店..",
-        "link": "http://baijiahao.baidu.com/s?id=1850107148199643847",
-        "published_date": "Sat, 29 Nov 2025 08:48:00 GMT",
-        "first_seen": "2025-11-29T08:48:49.469275"
-      },
-      "8baa2a8c2e62c61ad97843fa846c9a15995df1f3b2e8ecc20c11a47248f13ab7": {
-        "title": "花木时光里成浦东冬日新地标，浪漫冰场限时开启",
-        "link": "http://baijiahao.baidu.com/s?id=1850048241117593132",
-        "published_date": "Sat, 29 Nov 2025 08:48:00 GMT",
-        "first_seen": "2025-11-29T08:48:49.469419"
-      },
-      "c4dc8684aa0393eb60b85ea4f7315669f46f4e319592d3e2c2681ee563dc08d8": {
-        "title": "福建这处窑址，补上了陶瓷史关键一页",
-        "link": "http://baijiahao.baidu.com/s?id=1850086078316689016",
-        "published_date": "Sat, 29 Nov 2025 08:48:00 GMT",
-        "first_seen": "2025-11-29T08:48:49.469553"
-      },
-      "011d0c4dce1af01dcdc9f15dd7ef13905c755c0485f13b5f4cf1aa8c1bfc5462": {
-        "title": "广东深圳：走进反邪教警示教育基地 筑牢群众思想“防..",
-        "link": "http://baijiahao.baidu.com/s?id=1850026278660829867",
-        "published_date": "Sat, 29 Nov 2025 08:48:00 GMT",
-        "first_seen": "2025-11-29T08:48:49.469750"
-      },
       "b85ebff82f7ff3e0bb8d6a3c32e7971433ee7498249e0bf5dcefab9dc769e75d": {
         "title": "青春赋能乡村振兴 福建举行2025年“新农人”风采..",
         "link": "http://baijiahao.baidu.com/s?id=1850130464576293689",
@@ -16571,13 +16727,67 @@
         "link": "http://baijiahao.baidu.com/s?id=1852174940342974667",
         "published_date": "Mon, 29 Dec 2025 08:37:00 GMT",
         "first_seen": "2025-12-29T08:38:00.909601"
+      },
+      "08c211fc8513cef4e26fe1cb84a04d0f660dc802d8a2a912d6103e507e6d24eb": {
+        "title": "网络达人体验晴隆“村GT” 直言“贵州氛围太优秀”",
+        "link": "http://baijiahao.baidu.com/s?id=1852853631487181836",
+        "published_date": "Mon, 29 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.110228"
+      },
+      "15d43df85e7d1ba2273ba93af2ff049bad17d25704f7f0ffde77938e0c80bf70": {
+        "title": "福建一摄影大赛一等奖作品被指“AI生成”，官方回应",
+        "link": "http://baijiahao.baidu.com/s?id=1852857938216259955",
+        "published_date": "Mon, 29 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.110370"
+      },
+      "72e8323c79303e1e7f18dc2272933c97ded2de2469c13de9a39dc14621c4b591": {
+        "title": "2024影像盘点｜用眼睛去捕捉 用情感去构思—摄影..",
+        "link": "http://baijiahao.baidu.com/s?id=1852716863271197962",
+        "published_date": "Mon, 29 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.110526"
+      },
+      "6e367765a4178deb92f4155484ea5ba2edfc1937816063cf8b41b0ffd6319e89": {
+        "title": "顶级教育品牌兰生落子南大，这所九年一贯制公办学校计..",
+        "link": "http://baijiahao.baidu.com/s?id=1852819845989571093",
+        "published_date": "Mon, 29 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.110712"
+      },
+      "cbc4ce0337f1524501510b905e56862aff0d25e982445a9f058cf65923720d89": {
+        "title": "“十四五”收官看贵州｜一路高歌行 “文化的贵州”",
+        "link": "http://baijiahao.baidu.com/s?id=1852649323667761113",
+        "published_date": "Mon, 29 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.110964"
+      },
+      "31a8639b56ec3d4a714c67ada90490fb2eeae2bd52919c832b7aab4f512d9a7b": {
+        "title": "以温情勾勒旅程：东航MU250航班上，一份“上海美..",
+        "link": "http://baijiahao.baidu.com/s?id=1852824213161292620",
+        "published_date": "Mon, 29 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.111311"
+      },
+      "5a9ec1c2db5bd2c3c3849d44bd4fcaa7ad34a21607bc3b743b9ce6ef01ced22c": {
+        "title": "「天眼电台·声游贵州（50）」你听过雪落南国的声音..",
+        "link": "http://baijiahao.baidu.com/s?id=1852846060285810573",
+        "published_date": "Mon, 29 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.111695"
+      },
+      "33bacc3e875e2e7a34c84e8760c1a445fb7967221a1b230d6894fbfc31778527": {
+        "title": "「图话贵州十四五·全域旅游篇（6）」民族风 乡土情..",
+        "link": "http://baijiahao.baidu.com/s?id=1852830960462973857",
+        "published_date": "Mon, 29 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.112118"
+      },
+      "8ae40810d17989e8bce30db4b6bb539950114d858926802513627216caeeb0f3": {
+        "title": "火把助燃 贵州·村GT赛车巡游引爆黔西南晴隆夜空",
+        "link": "http://baijiahao.baidu.com/s?id=1852853631486841168",
+        "published_date": "Mon, 29 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-29T23:23:57.112618"
       }
     }
   },
   "last_update": {
-    "AI": "2025-12-29T08:38:00.901441",
-    "Technology": "2025-12-29T08:38:00.998524",
-    "Finance": "2025-12-29T08:37:51.497288",
-    "Education": "2025-12-29T08:38:00.916844"
+    "AI": "2025-12-29T23:23:57.103302",
+    "Technology": "2025-12-29T23:24:06.459396",
+    "Finance": "2025-12-29T23:23:56.974278",
+    "Education": "2025-12-29T23:23:57.120286"
   }
 }
