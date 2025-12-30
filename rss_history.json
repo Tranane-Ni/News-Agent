@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b6c2d64ca3f93407e17cc8d5b7b9dd3cc000adaaac6a0a901226ed14039c660d": {
-        "title": "居然有21%的ICLR 2026评审纯用AI生成…",
-        "link": "https://www.qbitai.com/2025/11/357579.html",
-        "published_date": "Sun, 30 Nov 2025 06:57:00 GMT",
-        "first_seen": "2025-11-30T08:45:10.925146"
-      },
       "ad02f63cdf15cf78d2cea303c8f84fd65f9c54211c36fec61bdd76a2ad64c5a5": {
         "title": "15岁拿下量子物理博士，他马不停蹄转战AI医学，誓言「创造超人类」",
         "link": "https://www.jiqizhixin.com/articles/2025-11-30-5",
@@ -2850,21 +2844,45 @@
         "link": "https://www.jiqizhixin.com/articles/2025-12-30-6",
         "published_date": "Tue, 30 Dec 2025 15:10:00 GMT",
         "first_seen": "2025-12-30T08:36:15.135356"
+      },
+      "994f53c87c8cf902412d504cfac1504e0749105fd5381716968a387a39e922c2": {
+        "title": "摩尔线程天使投资人：对近期AI的四十个观察",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-11",
+        "published_date": "Tue, 30 Dec 2025 20:43:00 GMT",
+        "first_seen": "2025-12-30T23:23:49.027942"
+      },
+      "adcfc53868cf2dc53ae824f0fdb8bc65c0a187c0695668c2c0fd0a647727e318": {
+        "title": "三维空间太难懂？RoboTracer让机器人理解复杂空间指令，推理3D空间轨迹，开放世界也能精确行动",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-10",
+        "published_date": "Tue, 30 Dec 2025 20:24:00 GMT",
+        "first_seen": "2025-12-30T23:23:49.028144"
+      },
+      "2a312a96bc845847af9924bfa4c8396314ecc2972fe2cd18ab245bd753f76e91": {
+        "title": "LSTM提出者点赞，引力波探测高效工具，国内团队开发DCL-xLSTM",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-9",
+        "published_date": "Tue, 30 Dec 2025 17:57:00 GMT",
+        "first_seen": "2025-12-30T23:23:49.028343"
+      },
+      "7b502daad03a6d611c4df3f8a7a34289e1f13dc6a6572c925539289917aa1e07": {
+        "title": "腾讯混元开源翻译模型1.5，端侧可部署，效果超越商用API",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-30-8",
+        "published_date": "Tue, 30 Dec 2025 17:54:00 GMT",
+        "first_seen": "2025-12-30T23:23:49.028549"
+      },
+      "ceaa284f3c8b1ffca3b6f7bf567e2701493904c42baab195e41236ed54540285": {
+        "title": "华为云CEO周跃峰：要避免AI成为“泡沫” 必须要提升行业生产力",
+        "link": "https://www.qbitai.com/2025/12/366277.html",
+        "published_date": "Tue, 30 Dec 2025 09:26:00 GMT",
+        "first_seen": "2025-12-30T23:23:49.028832"
+      },
+      "2ebbca1fb04e2a233921497a12251169f95d79886a28543a561b2847b5535f79": {
+        "title": "特斯拉4680电池黄了！曾毓群早告诉过马斯克：永远不会成功",
+        "link": "https://www.qbitai.com/2025/12/366266.html",
+        "published_date": "Tue, 30 Dec 2025 09:19:00 GMT",
+        "first_seen": "2025-12-30T23:23:49.029171"
       }
     },
     "Technology": {
-      "cc38c3763155739465c76a3e601707dda19db52e9722546b7be996af1c18bc2f": {
-        "title": "对话卡尔动力CEO韦峻青：自动驾驶卡车赛道即将形成商业闭环 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7788529.html",
-        "published_date": "Sun, 30 Nov 2025 15:06:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.056268"
-      },
-      "baab8846bddc2ef4a1f2e5c77021c1635506b425f6910674ff2e62340da0716c": {
-        "title": "央行定调稳定币违法，相比欧美中国为何走“禁止”这条路？| 马上评",
-        "link": "https://www.tmtpost.com/7788487.html",
-        "published_date": "Sun, 30 Nov 2025 14:12:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.056394"
-      },
       "52eaa90da3be209116d45a328337cc5e529a99f153b53b01f3c409231e26a8f9": {
         "title": "【钛晨报】央行牵头多部门联合部署，持续严打虚拟货币交易炒作；中国移动为何被调出上证50指数？市场人士释疑；国家航天局设立商业航天司",
         "link": "https://www.tmtpost.com/7788631.html",
@@ -13268,64 +13286,184 @@
         "link": "https://sspai.com/post/104978",
         "published_date": "Tue, 30 Dec 2025 15:00:00 GMT",
         "first_seen": "2025-12-30T08:36:15.249764"
+      },
+      "63fb01c5444058111c1f71c1acea93c0cd15976d5f432b958940d3546b98ad38": {
+        "title": "L3级自动驾驶上路，我们离“放手”开车还有多远？",
+        "link": "http://www.huxiu.com/article/4822221.html?f=wangzhan",
+        "published_date": "Tue, 30 Dec 2025 22:06:00 GMT",
+        "first_seen": "2025-12-30T23:24:07.778781"
+      },
+      "fcf2d2050523cff31fb60fcb3f2302c057052b16183dbf5320c1f83a465506fe": {
+        "title": "垄断全球70%存储芯片，韩国如何从贫困农业国崛起成世界第二半导体强国？",
+        "link": "http://www.huxiu.com/article/4821156.html?f=wangzhan",
+        "published_date": "Tue, 30 Dec 2025 20:00:00 GMT",
+        "first_seen": "2025-12-30T23:24:07.778710"
+      },
+      "e91e5daa291795432c50fdc2cdd25cd6d63210b2789dad0c77806e2062101c33": {
+        "title": "年入百万的青藤精英也扛不住，美国的 “斩杀线” 到底有多狠？",
+        "link": "http://www.huxiu.com/article/4822129.html?f=wangzhan",
+        "published_date": "Tue, 30 Dec 2025 17:29:00 GMT",
+        "first_seen": "2025-12-30T23:24:07.778791"
+      },
+      "e00292124c71b78245203cce6b956f89339078fefa3b4e0a7c6012e52f40baf5": {
+        "title": "从热搜报告中，我发现了跟过往不同的三个深层变化......",
+        "link": "http://www.huxiu.com/article/4821404.html?f=wangzhan",
+        "published_date": "Tue, 30 Dec 2025 14:00:00 GMT",
+        "first_seen": "2025-12-30T23:24:07.778800"
+      },
+      "d76aedc13715bcfdb02a0853cb7ac543967f1fed03198ccfb1358aeba7dcede3": {
+        "title": "Exclusive: “I believe in humanity, not AI,\" Fei-Fei Li Tells NextFin Founder",
+        "link": "https://www.tmtpost.com/7826776.html",
+        "published_date": "Tue, 30 Dec 2025 21:53:00 GMT",
+        "first_seen": "2025-12-30T23:24:07.778814"
+      },
+      "1a1607a8f6b09d91d1bdf0e5df815f8c7694005084290a2440c7bf487cd2bfd5": {
+        "title": "3000万“急救”+1.3亿“抹账”，*ST惠程惊险保壳后真考验才刚开始",
+        "link": "https://www.tmtpost.com/7826675.html",
+        "published_date": "Tue, 30 Dec 2025 21:22:00 GMT",
+        "first_seen": "2025-12-30T23:24:07.778825"
+      },
+      "20f375f5bb2e3360f34bf0a3a234c987756f1999bf0ce197acfd37c63ba51c3f": {
+        "title": "“AI具身家庭机器人”第一股上市了，95%收入在海外",
+        "link": "https://www.tmtpost.com/7826614.html",
+        "published_date": "Tue, 30 Dec 2025 21:20:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.460697"
+      },
+      "bb2e1a2061b69841e1bf27c46cae7236ac0df394157ff29b462be9ae2ad0bd77": {
+        "title": "监管亮剑“财技保壳”，谁在退市边缘“裸泳”？| 焦点",
+        "link": "https://www.tmtpost.com/7826640.html",
+        "published_date": "Tue, 30 Dec 2025 21:10:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.461136"
+      },
+      "e81b17033abd8ade3e0f326f2946a3d355be6b2cdb17ab0c343bcb8b47f599aa": {
+        "title": "理想、小鹏造“未来”，蔚来、零跑抢“明天”",
+        "link": "https://www.tmtpost.com/7825921.html",
+        "published_date": "Tue, 30 Dec 2025 19:17:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.461642"
+      },
+      "b56f5193d6ef0a733f201ea6fe7a25b04c0d0741e4ededcbf2f65d78670e2fa9": {
+        "title": "Meta数十亿美元买走中国AI团队，我们该鼓掌还是警醒？",
+        "link": "https://www.tmtpost.com/7826383.html",
+        "published_date": "Tue, 30 Dec 2025 19:17:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.462106"
+      },
+      "c6a97cb03b97b35bd028ddc55bb4021f95c65445a110d7fe2ccea19dd4578c17": {
+        "title": "全民玩AI时代，能否催生下一场“技术革命”？",
+        "link": "https://www.tmtpost.com/7826394.html",
+        "published_date": "Tue, 30 Dec 2025 19:16:00 GMT",
+        "first_seen": "2025-12-30T23:24:07.778735"
+      },
+      "3af216afe8f29beba53ba3580f30305ecae1e8c2edd7401a2e0ddde48c655a1d": {
+        "title": "淘天宠物赏音：宠物品牌要想破圈，\"有心有颜有科技\"都不能少 | 2025T-EDGE",
+        "link": "https://www.tmtpost.com/7826541.html",
+        "published_date": "Tue, 30 Dec 2025 19:13:00 GMT",
+        "first_seen": "2025-12-30T23:24:07.778750"
+      },
+      "828d4270d99d7c0bda66f68e42516a2ffe51c0a8e37ecf6d5a984d4c2c4ea98e": {
+        "title": "2025年，大公司的头号公敌是它",
+        "link": "https://www.tmtpost.com/7826406.html",
+        "published_date": "Tue, 30 Dec 2025 19:12:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.463899"
+      },
+      "3b235938b4e45654ddb8d56ee6302f070ac9ac8c67ec51a71b4ee05a03c01740": {
+        "title": "台积电2nm，交卷了",
+        "link": "https://www.tmtpost.com/7826451.html",
+        "published_date": "Tue, 30 Dec 2025 19:12:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.464357"
+      },
+      "14bba3f4bdead90f38c4ab94358b350034d2d16d30d5439d608f0d663e447b4f": {
+        "title": "贾国龙需要认错，但不必后悔硬刚罗永浩",
+        "link": "https://www.tmtpost.com/7826476.html",
+        "published_date": "Tue, 30 Dec 2025 19:09:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.464898"
+      },
+      "b0abbf3b56fd1ae47ae306e252c00e9869dfccc59ef49625d220fb4d5a3e06c7": {
+        "title": "中式面馆，为何难出顶流？",
+        "link": "https://www.tmtpost.com/7826400.html",
+        "published_date": "Tue, 30 Dec 2025 19:08:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.465395"
+      },
+      "065c03484668b7264c0a4a3183e214164d976f9a229daddb0bdbdfdfd5fcafec": {
+        "title": "倒计时一天！张朝阳再启跨年演讲，用数理公式演算“我们所居住的太阳系”",
+        "link": "https://www.tmtpost.com/7826094.html",
+        "published_date": "Tue, 30 Dec 2025 18:33:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.466299"
+      },
+      "fd7fced97463f330a956a9087d23f6882e0ed1cbf9df8a185276d16f45e03008": {
+        "title": "征祥医药张文宏教授牵头，抗流感新药济可舒由完成临床研发 | 公司动态",
+        "link": "https://www.tmtpost.com/7821940.html",
+        "published_date": "Tue, 30 Dec 2025 18:14:00 GMT",
+        "first_seen": "2025-12-30T23:24:07.778761"
+      },
+      "9f105bcf907afa0509959a9b6b3bae94b3b64a91587dcb036b0cf3f0d33324c0": {
+        "title": "走到IPO门口，中国大模型终于算了一回账",
+        "link": "https://www.tmtpost.com/7826316.html",
+        "published_date": "Tue, 30 Dec 2025 17:53:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.467883"
+      },
+      "ca2769a7e2c046b370d7430ad7abbe40cd620135f13aa2bc0f9e685edd652607": {
+        "title": "剧集宣发2025：集体上强度，长短齐上桌",
+        "link": "https://www.tmtpost.com/7826253.html",
+        "published_date": "Tue, 30 Dec 2025 17:53:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.468675"
+      },
+      "c55bb49d8378a992cc1ee472fa7f9e124275391761942563cc6d5ecfd4352b22": {
+        "title": "揭密MiniMax不为人知的B面",
+        "link": "https://www.tmtpost.com/7824963.html",
+        "published_date": "Tue, 30 Dec 2025 17:51:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.469297"
+      },
+      "9d1e4558d7c53108af75fbbcf997b1235010e54538fbb27e5aed92c9a5605108": {
+        "title": "2026，保持悲观的乐观主义",
+        "link": "https://www.tmtpost.com/7826002.html",
+        "published_date": "Tue, 30 Dec 2025 17:49:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.470011"
+      },
+      "4907362538b3207b8a64c184b6fb62faaa2f3925b756c2699a6a4cab0930cebf": {
+        "title": "自建充电桩退场，车企迎来“无感补能”新赛点？",
+        "link": "https://www.tmtpost.com/7826248.html",
+        "published_date": "Tue, 30 Dec 2025 17:47:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.470962"
+      },
+      "65b74d2a5ebc94e8edaaf19fbe13ad7916bc13b6523da110ffa9a172abe5484f": {
+        "title": "模力工场026周 AI 应用榜：告别散兵游勇，看 AI 应用如何组队破局",
+        "link": "https://www.infoq.cn/article/AbvVy9kUiAPwT0cVDCyy?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 20:00:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.472460"
+      },
+      "0f037cb49d88ab2622de43dde33ce36804055c46edf119748533168d228a0710": {
+        "title": "腾讯混元开源翻译模型1.5，端侧可部署，效果超越商用API",
+        "link": "https://www.infoq.cn/article/jPBQa2PLqigECgqqYQOP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 18:56:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.473679"
+      },
+      "84684df5730caeffc6ce97ab1d429c70f1874781272611cdd6b9a279d8293c0d": {
+        "title": "传快手副总裁、基础大模型及推荐模型负责人周国睿将离职，Meta、TikTok 成潜在下家",
+        "link": "https://www.infoq.cn/article/HQtrpR6V6fj2MMXCBY42?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 18:26:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.475309"
+      },
+      "84dcf190e82e99524817201ff6c165d1956d07cada1e54b6b9767398c08cc50a": {
+        "title": "AI泡沫后只剩这两类公司杀出重围！昆仑万维CEO方汉：明年唯一技术赛点在Agent",
+        "link": "https://www.infoq.cn/article/tgX28uIFyFfgMomo8vFA?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Dec 2025 16:38:00 GMT",
+        "first_seen": "2025-12-30T23:24:07.778772"
+      },
+      "9f8a3d5cb182591618f2313e69421713273dcc4b0306306fa28fefc3d6aadf31": {
+        "title": "社区速递 124 | 怪奇物语盲盒开箱，几块钱搞定「干眼症」？",
+        "link": "https://sspai.com/post/105004",
+        "published_date": "Tue, 30 Dec 2025 16:51:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.478220"
+      },
+      "ab9223048c79c2d87bbc142989f5d9a7a67018b8809f97079e92d430f91705dd": {
+        "title": "Times New American: 闲话美国国务院「换字体」事件",
+        "link": "https://sspai.com/prime/story/times-new-american",
+        "published_date": "Tue, 30 Dec 2025 15:41:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.479821"
       }
     },
     "Finance": {},
     "Education": {
-      "2a7234ad1f33f581ff21e6aaf2fe9e8ee1ba911caa54c3742317a7f4f2b80a24": {
-        "title": "中国旅游集团旗下天津市内免税店正式启幕 共筑北方国..",
-        "link": "http://baijiahao.baidu.com/s?id=1850119046202004288",
-        "published_date": "Sun, 30 Nov 2025 08:45:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.016449"
-      },
-      "e6d313f08ccc35cfa6241e98237dbd33b1f725f7cd725dbd5fadd254147bd5a1": {
-        "title": "364种鸟类安家！来崇明东滩这场公益文化节，解锁“..",
-        "link": "http://baijiahao.baidu.com/s?id=1850112471570137163",
-        "published_date": "Sun, 30 Nov 2025 08:45:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.016599"
-      },
-      "8a38ad048b4195f79f7ed2dd6a097ba391c6d8eb43c4cd322a542791c65bb1cc": {
-        "title": "“贵州各市（州）行政中心所在地实现高铁通达”催生旅..",
-        "link": "http://baijiahao.baidu.com/s?id=1850141351211924355",
-        "published_date": "Sun, 30 Nov 2025 08:45:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.016771"
-      },
-      "48506fcc5f44a8ee69b99553fd2365e6f086e346fb6f62ef4381d68d1886062f": {
-        "title": "冬趣满申城！商场“花式上新”解锁魔都消费活力密码",
-        "link": "http://baijiahao.baidu.com/s?id=1850100210325476681",
-        "published_date": "Sun, 30 Nov 2025 08:45:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.016974"
-      },
-      "7f3d519b907e1f63ce22f3bc76734068881fadf1565800e4c60831dc35771430": {
-        "title": "大师论道：街区更新，从“打卡地”回归“生活场”",
-        "link": "http://baijiahao.baidu.com/s?id=1850021562362665596",
-        "published_date": "Sun, 30 Nov 2025 08:45:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.017232"
-      },
-      "da2aa476d9c59f5249a1e7b4d5707c516ee1fe0973ca8d6a5a458d8e1a175d90": {
-        "title": "其一，还有其二 | 陈学勇",
-        "link": "http://baijiahao.baidu.com/s?id=1850199884472818244",
-        "published_date": "Sun, 30 Nov 2025 08:45:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.017470"
-      },
-      "7ef3a6cea048d492d568bac702c0ed2abe06ffd4bb6ed6c69d36da8c7b173049": {
-        "title": "居全国首位！“十四五”期间，广东对全国外贸增长贡献..",
-        "link": "http://baijiahao.baidu.com/s?id=1850007045033037141",
-        "published_date": "Sun, 30 Nov 2025 08:45:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.017861"
-      },
-      "daca6867a97ab99d3543452813c33ac0d4429d19e16d29f7454d3d4e7262be77": {
-        "title": "上海乐高乐园游客破百万！未来将启动二期扩建…",
-        "link": "http://baijiahao.baidu.com/s?id=1850192025513392636",
-        "published_date": "Sun, 30 Nov 2025 08:45:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.018191"
-      },
-      "4e00a7aae7f12ead4d3962f38bb7fbf268108b8134b8693bf5d2251e51e2af39": {
-        "title": "跑进静安、遇见繁华！在“上马”静安段，邂逅摩登与诗..",
-        "link": "http://baijiahao.baidu.com/s?id=1850035457027585957",
-        "published_date": "Sun, 30 Nov 2025 08:45:00 GMT",
-        "first_seen": "2025-11-30T08:45:11.018683"
-      },
       "aa3b080997677f903d72ee91ce518bc5a4996bdd85b4ebc501a441b4a6bc82a4": {
         "title": "内陆开放再添国际“快车道”——重庆至布达佩斯全程时..",
         "link": "http://baijiahao.baidu.com/s?id=1850206779901447490",
@@ -16937,13 +17075,85 @@
         "link": "http://baijiahao.baidu.com/s?id=1852808651640195550",
         "published_date": "Tue, 30 Dec 2025 08:36:00 GMT",
         "first_seen": "2025-12-30T08:36:15.162808"
+      },
+      "343ab9f7e37d6aac526094163dd3f143c20ce9471fda64335d756471f5d3007c": {
+        "title": "回访“打工皇帝”郑国霖：半年去了30多个景区，收入..",
+        "link": "http://baijiahao.baidu.com/s?id=1852913849087868599",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.387782"
+      },
+      "4cc9b6b0511e6fed02209f74b7b0a623725867bb70b67b495db178838cb600eb": {
+        "title": "第二届“燃情冰雪·品味民俗”京津冀冬季旅游文化季暨..",
+        "link": "http://baijiahao.baidu.com/s?id=1852923190184690018",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.387814"
+      },
+      "25cd9adc6cdef62e28c1f8168820da5b5ddb2275fc3427588ca97ea64d1c0f4c": {
+        "title": "国际与国内客源双增长，上海乐高乐园成游客在沪游玩新..",
+        "link": "http://baijiahao.baidu.com/s?id=1852930773226344859",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.387828"
+      },
+      "fc46f03494b4b8853fa36fc73866d17649b84fc6ed599f6360c94f2bac014236": {
+        "title": "赏冬韵品年味！“宠粉”重庆推出超千场文旅活动邀你过..",
+        "link": "http://baijiahao.baidu.com/s?id=1852929816447216420",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.387841"
+      },
+      "38462833f73063f8fecdd9652e71b5dbe3627a4c3f539a86aa86b4661523bea5": {
+        "title": "元旦玩转上海，超350个点位邀你共创上海文旅“必打..",
+        "link": "http://baijiahao.baidu.com/s?id=1852883533335630179",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.387852"
+      },
+      "53b9d0671fd8525b2e8c6ca6aae424be2794a5e9027f6d2d8b1aedc09a4f13af": {
+        "title": "江海关红色播种者胡实声：播下一粒种，燎原一片火",
+        "link": "http://baijiahao.baidu.com/s?id=1852974323329626148",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.387863"
+      },
+      "1fd0c59361e27fcd2f9cfa42d3ef450f6ff409a5496dc42beac92cd40f5ac382": {
+        "title": "起猛了！“福建舰”亮相哈尔滨？",
+        "link": "http://baijiahao.baidu.com/s?id=1852820389171058361",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.387874"
+      },
+      "d6da8acc263d77aef843456ff34405410a8f97ab41570a04c0251a70ff81d167": {
+        "title": "新装备、新突破！新域新质作战力量比重提升 中国军队..",
+        "link": "http://baijiahao.baidu.com/s?id=1852837554162280516",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.387886"
+      },
+      "3e163f308f4ed23a9fbe7636bf21d70925a8bdb74bd0d725c4f1bddd06f0ab24": {
+        "title": "贵州的“海”有多美？两千米高原之巅给出了答案 Ho..",
+        "link": "http://baijiahao.baidu.com/s?id=1852952025109912618",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.387898"
+      },
+      "2dee1788c306bf1ccf0c264ac9931d149dc4203022440fd7463a5da310e27e0d": {
+        "title": "畅享速度与激情！黔西南晴隆“村GT”超燃",
+        "link": "http://baijiahao.baidu.com/s?id=1852853631487099462",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:58.387909"
+      },
+      "d74f7bc0287ed7dd15db52db20dabdacdc367a970f9764ef7e95af28ab069882": {
+        "title": "折上叠券深夜嗨购、乌镇戏剧节剧目进商场、多元主题装..",
+        "link": "http://baijiahao.baidu.com/s?id=1852930711884690434",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:49.061560"
+      },
+      "7e1291398737ae54ebbf035c008ddba6e79a63421f11188764e22c9323737a80": {
+        "title": "广西乡土T台秀演绎别样民族风情",
+        "link": "http://baijiahao.baidu.com/s?id=1852843796010905476",
+        "published_date": "Tue, 30 Dec 2025 23:23:00 GMT",
+        "first_seen": "2025-12-30T23:23:49.061857"
       }
     }
   },
   "last_update": {
-    "AI": "2025-12-30T08:36:15.155120",
-    "Technology": "2025-12-30T08:36:24.515250",
-    "Finance": "2025-12-30T08:36:15.030702",
-    "Education": "2025-12-30T08:36:15.170081"
+    "AI": "2025-12-30T23:23:49.051275",
+    "Technology": "2025-12-30T23:24:07.780191",
+    "Finance": "2025-12-30T23:23:48.921364",
+    "Education": "2025-12-30T23:23:58.391406"
   }
 }
