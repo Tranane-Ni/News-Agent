@@ -2628,57 +2628,51 @@
         "link": "https://www.qbitai.com/2026/01/366621.html",
         "published_date": "Tue, 06 Jan 2026 05:41:00 GMT",
         "first_seen": "2026-01-06T08:37:57.885923"
+      },
+      "a58bc122ccf14b97a0d9f211ea0ca249e605b158394f3bc5d29e5475541fde29": {
+        "title": "英伟达展示台式AI超算DGX Spark新能力：能跑千亿参数模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-10",
+        "published_date": "Tue, 06 Jan 2026 20:55:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.510439"
+      },
+      "b38fd39e5ca75f4381310dea21b80161272626f671fe8e6cbdeaf724ca68a70d": {
+        "title": "密瓜智能获数千万元天使轮融资：植根开源基因，驱动异构算力效率跃升",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-9",
+        "published_date": "Tue, 06 Jan 2026 18:15:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.510625"
+      },
+      "f1a2256702918de9454165ff8f57b265481a2b003adc6a86591d340fea49bf9f": {
+        "title": "刚刚，智元提出SOP，让VLA模型在真实世界实现可扩展的在线进化",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-8",
+        "published_date": "Tue, 06 Jan 2026 18:11:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.510813"
+      },
+      "00cfa7955b26d9807920dc5bde7c931fde3b1812edc8610512508e767f680292": {
+        "title": "独家解读｜2025年AI五大趋势与底层数据革命",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-7",
+        "published_date": "Tue, 06 Jan 2026 18:02:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.510996"
+      },
+      "92ae63b2dc33bff011e646322997e84e06c3ae8982807adb9d952fbdf1626ae8": {
+        "title": "开源1万小时具身智能数据，这家公司是为了什么？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-6",
+        "published_date": "Tue, 06 Jan 2026 17:56:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.511216"
+      },
+      "9baa5fd52582ce0f63fe7655fde95c71053e4e45b971fa7b6d6c1425a3bf8caf": {
+        "title": "别被室内基准高分骗了：大模型是在推理空间，还是在「背答案」？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-5",
+        "published_date": "Tue, 06 Jan 2026 17:50:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.511527"
+      },
+      "145aded20b30695997a4e3db88ee280a01f8c4a975e715d4212af13c4e0b5e32": {
+        "title": "宝马开年直降30万上热搜，30万以下车型多出7款",
+        "link": "https://www.qbitai.com/2026/01/367094.html",
+        "published_date": "Tue, 06 Jan 2026 08:54:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.511836"
       }
     },
     "Technology": {
-      "68aee6694557b8bbc36a1246ba1b8636c16badf34967c85352ed598d9a92c6e6": {
-        "title": "Reddit将其评论功能的后端从Python迁移为Go微服务",
-        "link": "https://www.infoq.cn/article/TySjafhFlBNc7c6790mA?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 16:16:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.150332"
-      },
-      "f2f1a02d49ba20a1a4dfd75b474180676b6ce2c1a7466ae2c1303497c78416b7": {
-        "title": "KubeCon NA 2025：Robert Nishihara讨论了使用Kubernetes、Ray、PyTorch和vLLM进行开源AI计算",
-        "link": "https://www.infoq.cn/article/dczheUgoX86KGZo7USe9?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 16:12:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.150559"
-      },
-      "60ffae9dfe916f775d0b40ea8b4a60bdc67310b4687971af3777068030e8d973": {
-        "title": "运维大规模反向代理的教训",
-        "link": "https://www.infoq.cn/article/Cyz98fir5Fz0IdQM7o8M?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 16:09:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.150687"
-      },
-      "7c8cf4220b07017ba52a29a66584aa762f02e92ed90154ab7d8e2421bbefbc3d": {
-        "title": "字节即梦张楠：AI 时代，如何探索人的想象力？",
-        "link": "http://www.geekpark.net/news/357697",
-        "published_date": "Sun, 07 Dec 2025 15:33:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.150883"
-      },
-      "470d5e077ea8cc8ab54e11e826c0cab8512d24bf80b7e98246e88dbe4db40082": {
-        "title": "影石刘靖康：全景无人机，是「马车时代的汽车」",
-        "link": "http://www.geekpark.net/news/357696",
-        "published_date": "Sun, 07 Dec 2025 15:20:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.151122"
-      },
-      "afb8e0e064036e51b9a338440f094ee4ad029518b20364d27a7629f5f64e7e8b": {
-        "title": "好产品与时代共振｜2025 年度极客最爱好物",
-        "link": "http://www.geekpark.net/news/357695",
-        "published_date": "Sun, 07 Dec 2025 14:43:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.151351"
-      },
-      "620695b23f51434dc48f80745101e51c0de7d1a78d7f36733cf6b1f9f5b2a56d": {
-        "title": "做豆包AI手机前，张一鸣也行应该跟马化腾聊一聊",
-        "link": "https://www.tmtpost.com/7799620.html",
-        "published_date": "Sun, 07 Dec 2025 13:49:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.151652"
-      },
-      "c9a24c4e7346131fac650b1c865c01639a8bc2ae65e1ad1729edb4a815e15c3e": {
-        "title": "对话Aha王健聪：一个AI Agent搞定全球达人投放｜AI Founder请回答 | 巴伦精选",
-        "link": "https://www.tmtpost.com/7799686.html",
-        "published_date": "Sun, 07 Dec 2025 13:33:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.152148"
-      },
       "9dd093a41c1c5fec8ff00129c7223cbeecdf3fecefcbcbc8bbc8e66c56dc5bb8": {
         "title": "【钛晨报】金融监管总局调整保险公司相关业务风险因子；中国央行连续第13个月增持黄金；百度分拆昆仑芯赴港上市？回应：正在评估，不保证上市",
         "link": "https://www.tmtpost.com/7799817.html",
@@ -12518,34 +12512,142 @@
         "link": "http://www.huxiu.com/article/4823376.html?f=wangzhan",
         "published_date": "Tue, 06 Jan 2026 14:29:00 GMT",
         "first_seen": "2026-01-06T08:37:57.998728"
+      },
+      "91a22435c885b46209b0263e1814eac7eca65c2fa29d369d064a85e3e58f5a92": {
+        "title": "委内瑞拉新闻带动部分石油股上涨，但那些下跌的股票或许更值得投资",
+        "link": "https://www.tmtpost.com/7833052.html",
+        "published_date": "Tue, 06 Jan 2026 22:12:00 GMT",
+        "first_seen": "2026-01-06T23:25:49.949641"
+      },
+      "8359f11b09f6fb5ee05b7a68f75d1e47da865caa1c3f05508e4fda977419a944": {
+        "title": "脑机接口概念引爆A股，有公司火速组织超百家机构交流会",
+        "link": "https://www.tmtpost.com/7832948.html",
+        "published_date": "Tue, 06 Jan 2026 21:23:00 GMT",
+        "first_seen": "2026-01-06T23:25:49.949652"
+      },
+      "052dd1936fea056ca84943bbe9ad7f6f735968993a0915bbf2c2cfeca6492c6b": {
+        "title": "光韵达12亿定增补流幕后：控股股东的“资本棋局”与业绩困局",
+        "link": "https://www.tmtpost.com/7832992.html",
+        "published_date": "Tue, 06 Jan 2026 21:22:00 GMT",
+        "first_seen": "2026-01-06T23:25:49.949663"
+      },
+      "77d9c2acc1f2f43f8a04076d2918def7ca67c4b8bb2e49eefc48b3e52e6a1091": {
+        "title": "Broadcom Secures $21 Billion AI Chip Deal with Anthropic",
+        "link": "https://www.tmtpost.com/7833003.html",
+        "published_date": "Tue, 06 Jan 2026 21:03:00 GMT",
+        "first_seen": "2026-01-06T23:25:49.949677"
+      },
+      "b0a13f3fcf47f416ab22ead5e4e9184cf17562eeeda86326e33454dd7e7c848e": {
+        "title": "AMD Unveils Faster AI Chip at CES Alongside Fei-Fei Li and OpenAI Executives",
+        "link": "https://www.tmtpost.com/7832999.html",
+        "published_date": "Tue, 06 Jan 2026 20:57:00 GMT",
+        "first_seen": "2026-01-06T23:25:49.949689"
+      },
+      "72f068741023d87d5f3e4e8d23d679a5d3c0b4fbe9cf456abad38a75f558a928": {
+        "title": "2026年，车路协同还能翻盘吗？",
+        "link": "https://www.tmtpost.com/7832581.html",
+        "published_date": "Tue, 06 Jan 2026 19:49:00 GMT",
+        "first_seen": "2026-01-06T23:25:49.949700"
+      },
+      "5afd690edf9dd9d2af2a1308eda997dfc8eecfc4399d1c8ab06fa8d9dfbeff66": {
+        "title": "“学AI”，围猎中年大哥",
+        "link": "https://www.tmtpost.com/7832448.html",
+        "published_date": "Tue, 06 Jan 2026 19:49:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.614462"
+      },
+      "cebc7b43d91b12040d87591a26710ac3490e41976652cdd34de9727c311a04e7": {
+        "title": "英伟达重注Groq背后，中美疯抢同一个未来",
+        "link": "https://www.tmtpost.com/7832440.html",
+        "published_date": "Tue, 06 Jan 2026 19:49:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.614812"
+      },
+      "ddc96d5717028cc5f58b51e74e0153accd8945ac6c9bf48a182486341ecaf4c7": {
+        "title": "京东的外卖风暴，将在 2026 年持续",
+        "link": "https://www.tmtpost.com/7832425.html",
+        "published_date": "Tue, 06 Jan 2026 19:49:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.615179"
+      },
+      "e1dddb9cb0d874855e1c580bf1a9d650f6fadec831330b2a02686b6193b62801": {
+        "title": "2025年零售圈十大收购事件发布",
+        "link": "https://www.tmtpost.com/7832470.html",
+        "published_date": "Tue, 06 Jan 2026 19:49:00 GMT",
+        "first_seen": "2026-01-06T23:25:49.949561"
+      },
+      "31169e922776d51b61d9d8c1bba490f5685bb8c5df13344e301ec36ae6d137a2": {
+        "title": "38部新片填满一年日程表，2026的好莱坞关注这些电影就够了（荐片）",
+        "link": "https://www.tmtpost.com/7832802.html",
+        "published_date": "Tue, 06 Jan 2026 19:49:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.615991"
+      },
+      "ddf63a4cf7be0ea4cbf7d76071f08dfb3af7ca4b37612dc6620dc16d412b3631": {
+        "title": "210亿美元订单、万亿市值，博通芯片帝国崛起",
+        "link": "https://www.tmtpost.com/7832604.html",
+        "published_date": "Tue, 06 Jan 2026 19:49:00 GMT",
+        "first_seen": "2026-01-06T23:25:49.949599"
+      },
+      "e51d8ed61258980986ae06679834c71ea20e32245e00f89d8b73a59751753561": {
+        "title": "纸尿裤材料商跨界高端芯片互连材料，延江股份的盘算与难题",
+        "link": "https://www.tmtpost.com/7832904.html",
+        "published_date": "Tue, 06 Jan 2026 19:41:00 GMT",
+        "first_seen": "2026-01-06T23:25:49.949613"
+      },
+      "068826d13e05e22481bc44eaa4710b6490e921fa283f6ff3ef549b516f939468": {
+        "title": "大厂涨薪的面子和里子",
+        "link": "https://www.tmtpost.com/7832868.html",
+        "published_date": "Tue, 06 Jan 2026 19:27:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.617385"
+      },
+      "3ef4010cdafa1ae6de49f1303dada443027228e54424a5894bc0d2b4d941a0af": {
+        "title": "2025年末港股“反常”逻辑：谁在撤离？谁将归来？",
+        "link": "https://www.tmtpost.com/7832294.html",
+        "published_date": "Tue, 06 Jan 2026 18:44:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.618102"
+      },
+      "6cf8aed7686287d6e927d2b1819140c6f15178db5035812b17d3ede0b2c364ec": {
+        "title": "疯狂的存储江湖：造富、混战和洗牌",
+        "link": "https://www.tmtpost.com/7832421.html",
+        "published_date": "Tue, 06 Jan 2026 18:44:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.618679"
+      },
+      "85f927603e0d556c72604c4d55cff60bf88b2229e30797963e442a602b1cadeb": {
+        "title": "商业泛滥的古镇，该换种打法了",
+        "link": "https://www.tmtpost.com/7832202.html",
+        "published_date": "Tue, 06 Jan 2026 18:44:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.619193"
+      },
+      "681851093d4c64c370743dd568c595381a1cdc8a1ec61982739dba1da8dd0b96": {
+        "title": "从算法天才到机器人造梦者，原力灵机范浩强详解具身智能进化论：模型解锁场景，场景定义硬件",
+        "link": "https://www.infoq.cn/article/p6CDCh6m2upT69ZUdjXY?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 20:11:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.620140"
+      },
+      "f8e0acd36fb4308d74bbe48a5262e443c44357da946c3d7a5906e725635e9951": {
+        "title": "苏妈和李飞飞炸场CES！AMD AI全栈野心显露：从云端到个人PC，AI芯片性能四年要飙1000倍",
+        "link": "https://www.infoq.cn/article/iJl2WgKU5LJEqaVekI6U?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 20:05:00 GMT",
+        "first_seen": "2026-01-06T23:25:49.949629"
+      },
+      "39d9f3cd9a895644dfa0df059d062a7aeb94580755b73c0bf0062d3adc16c463": {
+        "title": "模力工场 027 周 AI 应用榜：从“一键生成”到“自动交付”，最会帮你干活的 AI 榜单来袭",
+        "link": "https://www.infoq.cn/article/bwRX9exXQk5QPNm6zXYZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 20:00:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.622889"
+      },
+      "03940667421e70ae37479039bbb2b3f4657d8af2031c3fbac230d9fb7c238c8b": {
+        "title": "架构师困境：选择已被验证的道路，还是自行开辟一条新路？",
+        "link": "https://www.infoq.cn/article/laWPPzqqBDjv9w10HhgP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 16:34:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.623806"
+      },
+      "75ba0aa31936af6c377fec9cffc456ec0674ca3b87d864d4e3987462ea63142e": {
+        "title": "社区速递 125 | 柯达迷你钥匙扣相机开箱，不到十元的宜家电池值得囤吗",
+        "link": "https://sspai.com/post/105197",
+        "published_date": "Tue, 06 Jan 2026 17:00:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.625041"
       }
     },
     "Finance": {},
     "Education": {
-      "d939536cc5406644ea7f8b6e40190b4ae049e3806a914218a937c3b64a2a9e0f": {
-        "title": "用“耳朵”踢足球！残特奥会盲人足球比赛今日开赛",
-        "link": "http://baijiahao.baidu.com/s?id=1850832528848326602",
-        "published_date": "Sun, 07 Dec 2025 08:45:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.072568"
-      },
-      "d5ef1f52f74b794a6664f1fe10bea791f9bba8b22451ec5299308ec7e5fbfe4d": {
-        "title": "静安“电竞梦剧场”再迎大师赛·“银杏车站”限定皮肤..",
-        "link": "http://baijiahao.baidu.com/s?id=1850826249366631037",
-        "published_date": "Sun, 07 Dec 2025 08:45:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.072814"
-      },
-      "9f1135006f57226111c181ebbe3921a4a1cb353737e7c6fb8af187c85f1828ef": {
-        "title": "讲述广东平民英雄的故事！《英雄三元里》观影推介会举..",
-        "link": "http://baijiahao.baidu.com/s?id=1850739370941171439",
-        "published_date": "Sun, 07 Dec 2025 08:45:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.072983"
-      },
-      "098aea84a090ca5c1bbf78dbd4fea73a1fc35e10f67f262a7290d596f9f81e45": {
-        "title": "上海秋景天花板 嘉定秋霞圃红叶美翻了！",
-        "link": "http://baijiahao.baidu.com/s?id=1850805120834929246",
-        "published_date": "Sun, 07 Dec 2025 08:45:00 GMT",
-        "first_seen": "2025-12-07T08:45:02.073144"
-      },
       "c5dda72b7348ab05bf7e2e93ad8a9483e79604fbbf8f091031a31de99861b89c": {
         "title": "中国游戏与上海成为韩国年轻人的高频词！韩国标志性二..",
         "link": "http://baijiahao.baidu.com/s?id=1850880965086100744",
@@ -16085,13 +16187,49 @@
         "link": "http://baijiahao.baidu.com/s?id=1853551067005029145",
         "published_date": "Tue, 06 Jan 2026 08:37:00 GMT",
         "first_seen": "2026-01-06T08:37:57.913543"
+      },
+      "7a07e192226b355e6e56bedc059770dfbea324e6fb2cbe3a5d0dcceb5ed4450c": {
+        "title": "上海一家超市成为韩国游客“宝藏打卡地”，门店：平均..",
+        "link": "http://baijiahao.baidu.com/s?id=1853546322983767816",
+        "published_date": "Tue, 06 Jan 2026 23:25:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.540318"
+      },
+      "f6d2afe3f79d8d689e5267923fac8b4e383bb2f9e9afb64f71ae9973761f0452": {
+        "title": "2025影像盘点｜时光印迹——摄影师 王思杰",
+        "link": "http://baijiahao.baidu.com/s?id=1853439739408645574",
+        "published_date": "Tue, 06 Jan 2026 23:25:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.540437"
+      },
+      "57f88218e58327423323af327a7e187e8d2c844f07233f2fd86d884cb0b18027": {
+        "title": "广东一男子被传唤至派出所接受询问拒不配合，扬言认识..",
+        "link": "http://baijiahao.baidu.com/s?id=1853556358058799162",
+        "published_date": "Tue, 06 Jan 2026 23:25:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.540612"
+      },
+      "abd2d1802f60f9e294cf5be3d504a70889142b5267b832a0079859481ef5eb3b": {
+        "title": "福建海警局开展冬季海上训练 锤炼海上维权执法能力",
+        "link": "http://baijiahao.baidu.com/s?id=1853574250079761119",
+        "published_date": "Tue, 06 Jan 2026 23:25:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.540790"
+      },
+      "64cb396cac9ae89fb4fe5fabe817bdfed43d408aa0024f60e411b1721c50db2e": {
+        "title": "多元主题、长短组合，新一年上海母港邮轮航线计划公布",
+        "link": "http://baijiahao.baidu.com/s?id=1853607364538963878",
+        "published_date": "Tue, 06 Jan 2026 23:25:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.541006"
+      },
+      "b6c6a8a78bd9f137231491e8830a1a5210774d74a39fc136b3eb4d083620a738": {
+        "title": "贵州榕江村超村晚热闹非凡",
+        "link": "http://baijiahao.baidu.com/s?id=1853557328573725871",
+        "published_date": "Tue, 06 Jan 2026 23:25:00 GMT",
+        "first_seen": "2026-01-06T23:25:40.541163"
       }
     }
   },
   "last_update": {
-    "AI": "2026-01-06T08:37:57.905946",
-    "Technology": "2026-01-06T08:38:07.274217",
-    "Finance": "2026-01-06T08:37:57.774824",
-    "Education": "2026-01-06T08:37:57.920615"
+    "AI": "2026-01-06T23:25:40.532862",
+    "Technology": "2026-01-06T23:25:49.953174",
+    "Finance": "2026-01-06T23:25:40.401679",
+    "Education": "2026-01-06T23:25:40.548322"
   }
 }
