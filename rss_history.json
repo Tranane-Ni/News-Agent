@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "977efbc21c047a16b632d423408b2c6cd803d5433ae4881b709113b743a1a02d": {
-        "title": "马斯克宣布：量产脑机接口，手术全自动化",
-        "link": "https://www.qbitai.com/2026/01/366444.html",
-        "published_date": "Fri, 02 Jan 2026 06:07:00 GMT",
-        "first_seen": "2026-01-02T08:36:04.193319"
-      },
       "3fd76b88d0c185eec6e17c0df197c7048fbd5f730a12d3b32b8970542e2018c4": {
         "title": "Sebastian Raschka万字年终复盘：2025，属于「推理模型」的一年",
         "link": "https://www.jiqizhixin.com/articles/2026-01-03-9",
@@ -2652,27 +2646,15 @@
         "link": "https://www.qbitai.com/2026/01/374681.html",
         "published_date": "Sat, 31 Jan 2026 12:06:00 GMT",
         "first_seen": "2026-01-31T23:28:03.928720"
+      },
+      "3e6fad9fa1fd94a34b09a910972bc84400ca779eb2e23fdd137d5daedd7df5af": {
+        "title": "华为云发布“行业AI梦工厂”智慧医疗专区，加速医疗AI普惠",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-01",
+        "published_date": "Sun, 01 Feb 2026 16:35:00 GMT",
+        "first_seen": "2026-02-01T09:05:39.969236"
       }
     },
     "Technology": {
-      "d73b111e182a68a66bb3ed8ec6ec764c0e1fab1ea9ca3a0d66b0042666145355": {
-        "title": "国产GPU领军企业壁仞科技成功登陆 香港交易所 | 公司动态",
-        "link": "https://www.tmtpost.com/7829193.html",
-        "published_date": "Fri, 02 Jan 2026 15:42:00 GMT",
-        "first_seen": "2026-01-02T08:36:04.304257"
-      },
-      "91be01a0ad9061d79ad30b2842b7fb331ea543da214794b089cc1a9dab431cfb": {
-        "title": "年终盘点：港股收官，恒指全年飙升28%，有色领跑涨幅榜",
-        "link": "https://www.tmtpost.com/7829107.html",
-        "published_date": "Fri, 02 Jan 2026 14:06:00 GMT",
-        "first_seen": "2026-01-02T08:36:04.304397"
-      },
-      "1e9eea01f1c84435ea220978a3ac8c5c79481002cbab446e033f15040603c098": {
-        "title": "补贴新政来了，26年新能源车有救了？",
-        "link": "https://www.tmtpost.com/7829153.html",
-        "published_date": "Fri, 02 Jan 2026 14:03:00 GMT",
-        "first_seen": "2026-01-02T08:36:04.304542"
-      },
       "4322dfa8d00ed522e5a654799457c2b4ffcf53e7d3dee77e677c99a50770994f": {
         "title": "融资与规模“双失速”，白犀牛何以冲刺“第一股”？",
         "link": "https://www.tmtpost.com/7829236.html",
@@ -12572,34 +12554,58 @@
         "link": "https://www.infoq.cn/article/bg0pzN0dZQm6HhRMliej?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 01 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-01T06:03:56.630828"
+      },
+      "05a5ebbd60aaf1d8f6fce4866d25577ab3c14c434f62d549e4c3e0c7313c671d": {
+        "title": "全球化2.0时代中企出海的破局之道——中国企业全球化创新实践思享会",
+        "link": "https://www.tmtpost.com/7863303.html",
+        "published_date": "Sun, 01 Feb 2026 15:53:00 GMT",
+        "first_seen": "2026-02-01T09:05:40.051922"
+      },
+      "35d121fc135635b70bc5d9aaffed0893732f60881787e6842e9608f2399d0066": {
+        "title": "AI幽灵席卷全球的6天5夜",
+        "link": "https://www.tmtpost.com/7863168.html",
+        "published_date": "Sun, 01 Feb 2026 15:40:00 GMT",
+        "first_seen": "2026-02-01T09:05:40.052027"
+      },
+      "e53d0f43ac17d5067d6880a6d82aa899f69a4967d065f39c728f3efc59c6459a": {
+        "title": "世界第一！中国机床，雪耻了",
+        "link": "https://www.tmtpost.com/7863255.html",
+        "published_date": "Sun, 01 Feb 2026 15:40:00 GMT",
+        "first_seen": "2026-02-01T09:05:40.052141"
+      },
+      "dfce3a3e3f3ea1b3d1ce6120c01bf9ab3c32479de84ac44aa9846b5377caf85c": {
+        "title": "150万AI agent社交狂欢背后，是一场“产品大爆炸”",
+        "link": "https://www.tmtpost.com/7863248.html",
+        "published_date": "Sun, 01 Feb 2026 15:39:00 GMT",
+        "first_seen": "2026-02-01T09:05:40.052325"
+      },
+      "a20b182d6874dcb864ac0068923e00b23a6b0e469df1f9f140028022dabdf625": {
+        "title": "大疆最强对手来了？“果链女王”剑指无人机",
+        "link": "https://www.tmtpost.com/7863247.html",
+        "published_date": "Sun, 01 Feb 2026 15:39:00 GMT",
+        "first_seen": "2026-02-01T09:05:40.052503"
+      },
+      "8c25d82255d446c8fb694928d6e4fe46571f44cdb2e66a633481fa4cd0334471": {
+        "title": "体验了元宝派一周   AI还没敲开群聊那扇沉默的门",
+        "link": "https://www.tmtpost.com/7863220.html",
+        "published_date": "Sun, 01 Feb 2026 15:07:00 GMT",
+        "first_seen": "2026-02-01T09:05:40.052755"
+      },
+      "262b4a534c595ea59e559c1d97a6d49e96625d88196f3dbd30a12242bfa14b98": {
+        "title": "CoreWeave首席执行官解析：这家科技公司为何与众不同",
+        "link": "https://www.tmtpost.com/7863229.html",
+        "published_date": "Sun, 01 Feb 2026 11:48:00 GMT",
+        "first_seen": "2026-02-01T09:05:40.053038"
+      },
+      "e16dd5d021f47496637719b6f050d9711421d200c9c6bcfebcafe60a8ceb2ad0": {
+        "title": "Apple 新春大片如期而至，今年的故事有点不一样",
+        "link": "https://sspai.com/post/105948",
+        "published_date": "Sun, 01 Feb 2026 11:30:00 GMT",
+        "first_seen": "2026-02-01T09:05:40.053427"
       }
     },
     "Finance": {},
     "Education": {
-      "8e408bd9e4bd04ff44e277809c773acac9974f2a7be83e655576d02a23ca79c1": {
-        "title": "2025影像盘点｜记录平凡 留住美好——摄影师 冉..",
-        "link": "http://baijiahao.baidu.com/s?id=1852895527684879352",
-        "published_date": "Fri, 02 Jan 2026 08:36:00 GMT",
-        "first_seen": "2026-01-02T08:36:04.230844"
-      },
-      "a7d59d575facabf96e9dd2bc842d79dbf5a76df40cdd340092673644ad53a1a7": {
-        "title": "免费冲！上海竟有座 “长”在树上的美术馆！树穿墙而..",
-        "link": "http://baijiahao.baidu.com/s?id=1853183635387834961",
-        "published_date": "Fri, 02 Jan 2026 08:36:00 GMT",
-        "first_seen": "2026-01-02T08:36:04.231015"
-      },
-      "6a506a6947e801d2e688c1c3ac5903562e17e3c2b76a8a86d073ef09cd8ee84b": {
-        "title": "外援合璧难敌对手“三分雨” 四川男篮无缘新年开门红",
-        "link": "http://baijiahao.baidu.com/s?id=1853158871427167403",
-        "published_date": "Fri, 02 Jan 2026 08:36:00 GMT",
-        "first_seen": "2026-01-02T08:36:04.231186"
-      },
-      "f8f848d1feb2491752a52bbc4a38e5621b458ff8da9e1d61b5616c696c33f962": {
-        "title": "4天超8万人次，原神嘉年华太“火”！飞20小时来上..",
-        "link": "http://baijiahao.baidu.com/s?id=1853117228917998580",
-        "published_date": "Fri, 02 Jan 2026 08:36:00 GMT",
-        "first_seen": "2026-01-02T08:36:04.231388"
-      },
       "419af1965366bd561309f6dad98ce50015e44e249dc473a4d04408f1bca5f762": {
         "title": "免费冲！上海竟有座 “长”在树上的美术馆！树直接穿..",
         "link": "http://baijiahao.baidu.com/s?id=1853198221356191773",
@@ -15971,13 +15977,37 @@
         "link": "http://baijiahao.baidu.com/s?id=1855890229906848132",
         "published_date": "Sun, 01 Feb 2026 06:03:00 GMT",
         "first_seen": "2026-02-01T06:03:56.538961"
+      },
+      "4dd3b2ec9b97a9cba5b225d61896eb2b54146072476632014384a1151848b4e7": {
+        "title": "“旅超”全天直播，明星打卡六大宝藏路线",
+        "link": "http://baijiahao.baidu.com/s?id=1855909859714326991",
+        "published_date": "Sun, 01 Feb 2026 09:05:00 GMT",
+        "first_seen": "2026-02-01T09:05:39.998450"
+      },
+      "e582d5ce7e587e65156bb5b6865e96a7e3b2dfca34b8347e690c04d387c34a0a": {
+        "title": "地方两会陆续召开，“十五五”开局之年各地准备怎么干..",
+        "link": "http://baijiahao.baidu.com/s?id=1855616708540727807",
+        "published_date": "Sun, 01 Feb 2026 09:05:00 GMT",
+        "first_seen": "2026-02-01T09:05:39.998589"
+      },
+      "e84279c3937a217af7b27f7424124e93a48a03de948c2af86c511f29dcedea6e": {
+        "title": "“沪上遇晋中 欢乐过大年”晋中文旅邀市民游客过个传..",
+        "link": "http://baijiahao.baidu.com/s?id=1855905045960669018",
+        "published_date": "Sun, 01 Feb 2026 09:05:00 GMT",
+        "first_seen": "2026-02-01T09:05:39.998781"
+      },
+      "4dadd653482c4da749ddb5ba7e94f184779113d71d23ed36dd8489ff203484ed": {
+        "title": "544艘次，外籍游客超三成！上海邮轮流量创纪录，国..",
+        "link": "http://baijiahao.baidu.com/s?id=1855794599157312563",
+        "published_date": "Sun, 01 Feb 2026 09:05:00 GMT",
+        "first_seen": "2026-02-01T09:05:39.999068"
       }
     }
   },
   "last_update": {
-    "AI": "2026-02-01T06:03:56.528542",
-    "Technology": "2026-02-01T06:04:05.965776",
-    "Finance": "2026-02-01T06:03:56.380581",
-    "Education": "2026-02-01T06:03:56.579505"
+    "AI": "2026-02-01T09:05:39.990087",
+    "Technology": "2026-02-01T09:05:40.060859",
+    "Finance": "2026-02-01T09:05:39.830956",
+    "Education": "2026-02-01T09:05:40.005929"
   }
 }
