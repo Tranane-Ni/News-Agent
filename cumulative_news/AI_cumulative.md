@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-05 08:51
+**最后更新时间**: 2026-02-05 23:33
+
+---
+
+## 🆕 最新更新 (2026-02-05 23:33)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [众智FlagOS实现面壁新模型MiniCPM-o 4.5：“发布即适配”性能全面反超原生](https://www.jiqizhixin.com/articles/2026-02-05-12)
+**发布时间**: 2026-02-05 21:26
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How AI agents can redefine universal design to increase accessibility](https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/)
+**发布时间**: 2026-02-05 08:28
 
 ---
 
