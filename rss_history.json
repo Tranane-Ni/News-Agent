@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "2edc45db189a1cc2c475dae24b184ea9c0a35e11ff31a6fda0ea00d858fda6dd": {
-        "title": "黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了",
-        "link": "https://www.qbitai.com/2026/01/367397.html",
-        "published_date": "Thu, 08 Jan 2026 05:50:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.247008"
-      },
       "5d600c6cdd545cd4ba9ca90715267f82dceb5c18d1239324dfc89a7230e2d73e": {
         "title": "明天上市，MiniMax上市额度已经被抢疯了",
         "link": "https://www.jiqizhixin.com/articles/2026-01-08-9",
@@ -2730,99 +2724,15 @@
         "link": "https://www.qbitai.com/2026/02/377523.html",
         "published_date": "Fri, 06 Feb 2026 10:14:00 GMT",
         "first_seen": "2026-02-06T23:31:38.133163"
+      },
+      "7e850f8cf10b8b90d092700a93c370f7e738b6d1dd710bb030e9165f35c24039": {
+        "title": "王慧文杀入OpenClaw赛道，再发英雄帖：「需要融资的欢迎联系我」",
+        "link": "https://www.qbitai.com/2026/02/377564.html",
+        "published_date": "Sat, 07 Feb 2026 07:35:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.327362"
       }
     },
     "Technology": {
-      "8c28f1c02cecb6b4343c5e805cc52e923fe387428ba25dfd9aa2b9cddc8d412d": {
-        "title": "天数智芯敲钟：29亿亏损与400亿市值，国产GPU的狂热时代",
-        "link": "https://www.tmtpost.com/7835526.html",
-        "published_date": "Thu, 08 Jan 2026 16:27:00 GMT",
-        "first_seen": "2026-01-08T08:37:21.675379"
-      },
-      "92b8cb3426293067e2a360699c34cead1315342c85bdbf01c11d2e3c7e43ce9e": {
-        "title": "从租住安居下手，南京开始抢人了",
-        "link": "https://www.tmtpost.com/7835130.html",
-        "published_date": "Thu, 08 Jan 2026 16:27:00 GMT",
-        "first_seen": "2026-01-08T08:37:21.675390"
-      },
-      "8cdd3b46f78c57f7bb0d413c518b713184e7e7c0b9fab4dd439d98b4a40bda47": {
-        "title": "董事长坐不了高铁？赛拉弗的“限高”窘境与光伏狂飙后遗症",
-        "link": "https://www.tmtpost.com/7835485.html",
-        "published_date": "Thu, 08 Jan 2026 16:27:00 GMT",
-        "first_seen": "2026-01-08T08:37:21.675400"
-      },
-      "a27368f8e2bdf89f3b61292a68c82472a4515b248db0b5e31688ac4ef1270096": {
-        "title": "从“爱你老己”到CBI500品牌榜：怎样才能让消费者下单新品？",
-        "link": "https://www.tmtpost.com/7835470.html",
-        "published_date": "Thu, 08 Jan 2026 16:21:00 GMT",
-        "first_seen": "2026-01-08T08:37:21.675410"
-      },
-      "dfa1d98e6e2d8c41f3a8b02f4ad20b40b0d6fecf6bc1e4bbf486813ff42e4e27": {
-        "title": "智谱IPO首日，唐杰发内部信：GLM-5将至，成立X-lab，做颠覆式创新",
-        "link": "https://www.tmtpost.com/7835366.html",
-        "published_date": "Thu, 08 Jan 2026 16:13:00 GMT",
-        "first_seen": "2026-01-08T08:37:21.675324"
-      },
-      "3c00e7e9b43c45dd51add7a155d8c4e1ae3e8e88fc032d994d59c5e0ee0b1b3d": {
-        "title": "从合规到进化，我们到底该如何理解新国标？",
-        "link": "https://www.tmtpost.com/7835321.html",
-        "published_date": "Thu, 08 Jan 2026 14:55:00 GMT",
-        "first_seen": "2026-01-08T08:37:21.675419"
-      },
-      "e088bfca3170b3b60f2d149cdaaaaa854e9f4a0c5e3a37c731c03241a09510c0": {
-        "title": "首个「AI六小虎」上市，海淀收获「全球大模型第一股」",
-        "link": "https://www.tmtpost.com/7835384.html",
-        "published_date": "Thu, 08 Jan 2026 14:51:00 GMT",
-        "first_seen": "2026-01-08T08:37:21.675430"
-      },
-      "3ea8e15990e4eefa2016e1487488f17c04d40d725da369fc4bf881d16b4f4a78": {
-        "title": "Industrial AI Is the True Value Driver of the AI Revolution, Says Siemens Exec",
-        "link": "https://www.tmtpost.com/7835351.html",
-        "published_date": "Thu, 08 Jan 2026 13:59:00 GMT",
-        "first_seen": "2026-01-08T08:37:21.675443"
-      },
-      "2608a063f54d6e564aedca1847911cbb7ea16cd436f5015b2cea4f041763c42a": {
-        "title": "开勒股份战略投资深蕾科技，深度布局半导体赛道｜融资动态",
-        "link": "https://www.tmtpost.com/7835316.html",
-        "published_date": "Thu, 08 Jan 2026 13:36:00 GMT",
-        "first_seen": "2026-01-08T08:37:21.675353"
-      },
-      "c3068435198c9bc84281c2d4e1910ee9aca22fc63661295fcf485b3dc4966632": {
-        "title": "First Solar股价因评级下调而下跌，投资者应降低预期",
-        "link": "https://www.tmtpost.com/7835315.html",
-        "published_date": "Thu, 08 Jan 2026 13:27:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.359109"
-      },
-      "8cc1aa8e52016a6bcb2a079e3059e131e1872f97925e2fa23a24f41d76d26b0d": {
-        "title": "Claude Code 的创始人揭秘工作流程：开5个智能体“玩编程游戏”，不看的程序员就落后了？",
-        "link": "https://www.infoq.cn/article/EApkAGSJSaiyJbi4JfSO?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 08 Jan 2026 15:19:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.359952"
-      },
-      "7ed17abd112ad7b63ce5f9c42a163b7c1aa5e6aa386d306fe89092485f5d6417": {
-        "title": "Slack增强Chef基础设施，提升安全性并降低部署影响范围",
-        "link": "https://www.infoq.cn/article/9DINHIzbyiQYT4mj7vPA?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 08 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.360543"
-      },
-      "be08f41e08f7f1781c044206e19594165ac0884e4d46840ad9602ed5571d6f10": {
-        "title": "“真德绒”杀回来了，商标追回背后，一场持续数年的市场闹剧终于收场？",
-        "link": "http://www.huxiu.com/article/4824383.html?f=wangzhan",
-        "published_date": "Thu, 08 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.361270"
-      },
-      "46d5a23d820b69ec836f099eef2dbfa6db1494b93ffe19878db25873135a7037": {
-        "title": "日本懵了，连续两重击：断军事粮草，反芯片材料倾销",
-        "link": "http://www.huxiu.com/article/4824488.html?f=wangzhan",
-        "published_date": "Thu, 08 Jan 2026 14:00:00 GMT",
-        "first_seen": "2026-01-08T08:37:21.675367"
-      },
-      "191e7ebc36a7acaddf8c9468082298a5cc880fb2f13364bae9f6e8087bea8fbe": {
-        "title": "浏览器扩展合集：派友近期推荐的 7 款浏览器扩展",
-        "link": "https://sspai.com/post/105249",
-        "published_date": "Thu, 08 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.362683"
-      },
       "3a8e2566c8a04fab0f7ab09aa41191cd657b12387cf0edf0991ae29cb06b2b48": {
         "title": "【钛晨报】广州迎利好！加速培育AI、半导体、航空航天等5个战略先导产业；雀巢因原料问题召回奶粉，蒙牛、君乐宝等紧急回应；中国石化与中国航油官宣重组",
         "link": "https://www.tmtpost.com/7836246.html",
@@ -12860,52 +12770,58 @@
         "link": "https://www.infoq.cn/article/SaRHSmwKTghurtuafWHy?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 07 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-07T05:46:53.531456"
+      },
+      "3e7a215c0d6ce96740afe33a73ae3b06a79e225e605c909e9481dbc19515647c": {
+        "title": "在国外抢下三个第一， 光储一体机火爆海外后，思格新能源在国内遇冷了吗？",
+        "link": "https://www.tmtpost.com/7870762.html",
+        "published_date": "Sat, 07 Feb 2026 16:06:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.406937"
+      },
+      "0b21523b91381cba524a7e399f1079f3613520a4c7562e0cad15afcb4e3f14d9": {
+        "title": "深扒Rentahuman，AI雇佣人类是假，币圈“割韭菜”才是真？",
+        "link": "https://www.tmtpost.com/7870599.html",
+        "published_date": "Sat, 07 Feb 2026 16:05:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.407070"
+      },
+      "8958aef444535ac6cbd2d1efe2e61dde236326f833c2321055a10cfdd08ff423": {
+        "title": "中国能建江苏电建一公司、宝钢工程等因安全违规被处罚，电力安全“救命钱”去哪了？",
+        "link": "https://www.tmtpost.com/7870759.html",
+        "published_date": "Sat, 07 Feb 2026 16:02:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.407277"
+      },
+      "48e08b27d485cd7f75d3728ddfb2dc192a81cf2ddf7edadb23cd6f3b43999cb3": {
+        "title": "冰火两重天，国轩鹏辉盈利翻倍，永杉锂业深陷亏损，储能行业洗牌加速",
+        "link": "https://www.tmtpost.com/7870765.html",
+        "published_date": "Sat, 07 Feb 2026 15:58:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.407549"
+      },
+      "9b04042ce233d3e67b5e493496f47832c061f139651fe6cfa10f48888468d10f": {
+        "title": "音乐圈的第一批AI受害者出现了",
+        "link": "https://www.tmtpost.com/7870010.html",
+        "published_date": "Sat, 07 Feb 2026 10:04:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.407738"
+      },
+      "62329525b7ddea7b1bee89c59ac5ffb965d3187cb23beeccfb5f47067549e1c3": {
+        "title": "AI点外卖就是个伪需求",
+        "link": "https://www.tmtpost.com/7870022.html",
+        "published_date": "Sat, 07 Feb 2026 09:16:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.407925"
+      },
+      "7aee1baa434fd80571f66b4864db7e6789fd58ee94daa8be70b6a2b39c0d6bcb": {
+        "title": "四川制造突围：“不沿边、不靠海”如何破局？",
+        "link": "https://www.tmtpost.com/7869833.html",
+        "published_date": "Sat, 07 Feb 2026 09:11:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.408209"
+      },
+      "02c6e259aa1cf2e2d481674c7ff362cd38d7fdbbab6752c075e3249b56de9c92": {
+        "title": "最顶以太坊杀手？拆解Solana崛起的底层逻辑",
+        "link": "http://www.huxiu.com/article/4833122.html?f=wangzhan",
+        "published_date": "Sat, 07 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.408518"
       }
     },
     "Finance": {},
     "Education": {
-      "48192778cdaaa2c58f8cd941cd906771de2af1a71ef3029de55a512334b42a99": {
-        "title": "破解人才供需适配难题，做好学科专业优化加减法",
-        "link": "http://baijiahao.baidu.com/s?id=1853667660250153794",
-        "published_date": "Thu, 08 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.274051"
-      },
-      "7b7a278be634fec7fd6e3f708e42350d7764fe273398f59747f230b18167457b": {
-        "title": "福启新篇！贵旅集团创新打造福主题旅游产品",
-        "link": "http://baijiahao.baidu.com/s?id=1853662177115413421",
-        "published_date": "Thu, 08 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.274179"
-      },
-      "206f0e5865efa5572a7819835839c425904e61cadb5b7ea7f67a6fd4f93051d9": {
-        "title": "1月起 重庆江北国际机场陆续加密这7条航线",
-        "link": "http://baijiahao.baidu.com/s?id=1853574375501638193",
-        "published_date": "Thu, 08 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.274326"
-      },
-      "35ca2dfa8110f440f58a30a3a218640cce05a36cc967262d9848866cf783bb90": {
-        "title": "沉默的荣耀：计梅真台湾工运往事",
-        "link": "http://baijiahao.baidu.com/s?id=1853733298864242379",
-        "published_date": "Thu, 08 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.274471"
-      },
-      "b79df8698356b06e48b68d2ace4fc2629936c1f835275b7a3ef305396ea851c6": {
-        "title": "中国科学院海洋所联合多家团队在福建验证裙带菜南移养..",
-        "link": "http://baijiahao.baidu.com/s?id=1853666327104337009",
-        "published_date": "Thu, 08 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.274681"
-      },
-      "04f793e0e33d4416c8e6634661443537eedf6f955d37d01af8e5808e3b2ae5e7": {
-        "title": "千山万悦，温暖相连——探访千山和悦酒店（花溪孟关汽..",
-        "link": "http://baijiahao.baidu.com/s?id=1853716281783701288",
-        "published_date": "Thu, 08 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.274903"
-      },
-      "1300478b7508d48e66d21dc7c68344d91c881c77ad19927c8e51b5b2b3ab267e": {
-        "title": "内线缺失遭“领头羊”痛击，青岛男篮主场不敌上海，未..",
-        "link": "http://baijiahao.baidu.com/s?id=1853713953512501085",
-        "published_date": "Thu, 08 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-08T08:37:12.275192"
-      },
       "641d23998b9eca24fad9a95ef29960b56f35c0ce959c2dfd3d8c233199b251bb": {
         "title": "“冰火交织” 游贵州：白天滑雪飙速，晚上温泉暖身！",
         "link": "http://baijiahao.baidu.com/s?id=1853738996283345118",
@@ -16355,13 +16271,31 @@
         "link": "http://baijiahao.baidu.com/s?id=1856372314647922286",
         "published_date": "Sat, 07 Feb 2026 05:46:00 GMT",
         "first_seen": "2026-02-07T05:46:53.457213"
+      },
+      "e68d437e02b1bdcae0f0d4c7155b86091bfb5291ecc0233c9ff6ff56a74ec7d1": {
+        "title": "1.2万项细节精准落地，上海世赛准备周系列活动圆满..",
+        "link": "http://baijiahao.baidu.com/s?id=1856447748528558948",
+        "published_date": "Sat, 07 Feb 2026 08:38:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.355429"
+      },
+      "8d5e7d8f694a07506f363bdbf75ca7088e21d95c23357961d541743a52fee57f": {
+        "title": "福建省政协委员郑长杰：聚焦数字经济发展 献策AI产..",
+        "link": "http://baijiahao.baidu.com/s?id=1856452877120828114",
+        "published_date": "Sat, 07 Feb 2026 08:38:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.355575"
+      },
+      "b6eb791204471cdb83f1e005145c5f241bd72f89a4715f1673cd396d4a0d0b87": {
+        "title": "我的贵州Vlog②｜津巴布韦留学生梅李：穿越半个地..",
+        "link": "http://baijiahao.baidu.com/s?id=1856354037705751832",
+        "published_date": "Sat, 07 Feb 2026 08:38:00 GMT",
+        "first_seen": "2026-02-07T08:38:25.355743"
       }
     }
   },
   "last_update": {
-    "AI": "2026-02-07T05:46:53.448017",
-    "Technology": "2026-02-07T05:47:02.799334",
-    "Finance": "2026-02-07T05:46:53.303535",
-    "Education": "2026-02-07T05:46:53.475685"
+    "AI": "2026-02-07T08:38:25.346716",
+    "Technology": "2026-02-07T08:38:25.416027",
+    "Finance": "2026-02-07T08:38:25.186108",
+    "Education": "2026-02-07T08:38:25.362623"
   }
 }
