@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-09 08:59
+**最后更新时间**: 2026-02-09 23:41
+
+---
+
+## 🆕 最新更新 (2026-02-09 23:41)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How AI trained on birds is surfacing underwater mysteries](https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/)
+**发布时间**: 2026-02-09 18:38
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [1分钱部署OpenClaw！不挑设备4步搞定，全图形界面10分钟跑通专属AI助理](https://www.qbitai.com/2026/02/378183.html)
+**发布时间**: 2026-02-09 12:31
+
+#### [怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾](https://www.qbitai.com/2026/02/378172.html)
+**发布时间**: 2026-02-09 09:06
 
 ---
 
