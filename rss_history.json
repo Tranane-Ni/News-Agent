@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "c469d981cbbfc445f0cd626fa467124f7111ee7ea1f6963b574fbd6f84576c21": {
-        "title": "AI 视频生成时代，留给人类的只有演技？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-17-4",
-        "published_date": "Sat, 17 Jan 2026 17:57:00 GMT",
-        "first_seen": "2026-01-17T23:23:53.309086"
-      },
       "bdf8cb928a7309a25dbfae9e6a141404d6c873348e265cac3ffdc86f4c9de2cc": {
         "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
         "link": "https://www.qbitai.com/2026/01/370085.html",
@@ -2754,75 +2748,45 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-16",
         "published_date": "Mon, 16 Feb 2026 10:10:00 GMT",
         "first_seen": "2026-02-16T06:08:38.003977"
+      },
+      "31723a37328e2262735af78df1dd8aa8b4db10db01408c506461a12ae4e6d291": {
+        "title": "春晚极限验证，魔法原子秀出中国智造新高度",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-16-6",
+        "published_date": "Mon, 16 Feb 2026 22:27:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.923024"
+      },
+      "d882d000c204ad99a8642a8a8949549173833cbb9d8a2e084abb2508f5b0b61d": {
+        "title": "魔法原子亮相《智造未来》 人机共舞秀出“中国智造”实力",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-16-5",
+        "published_date": "Mon, 16 Feb 2026 21:20:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.923159"
+      },
+      "fe31e5ee62147431c69ada41249c6117cb675bce38645a282d33a3f0f38a64dd": {
+        "title": "除夕迎「源神」？Qwen3.5以小胜大，捅破性价比天花板，大模型竞赛下半场开始了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-16-4",
+        "published_date": "Mon, 16 Feb 2026 18:19:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.923357"
+      },
+      "1dce1f2fc920ca68ae5758325ed2a0f6dec9e95293bd606c0ca5ec866030e599": {
+        "title": "Seed 2.0刷新Arena榜单，国产模型排名最高",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-16-3",
+        "published_date": "Mon, 16 Feb 2026 18:13:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.923615"
+      },
+      "7e8530f0cd9442e22c28511e340d76d4cf7de362a632b8bc1b1df56d1c04992e": {
+        "title": "鲁棒RL赋能AI编程！破局企业数据噪声难题，同等算力训出更好模型",
+        "link": "https://www.qbitai.com/2026/02/380742.html",
+        "published_date": "Mon, 16 Feb 2026 11:30:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.923920"
+      },
+      "7943aa7516ea9db2f2a573e3ed41fe1e2b961ec9c9b19786cb301359acc43fd9": {
+        "title": "最强开源大模型除夕登场！397B参数千问3.5超越Gemini 3，百万Tokens低至8毛",
+        "link": "https://www.qbitai.com/2026/02/380433.html",
+        "published_date": "Mon, 16 Feb 2026 11:15:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.924258"
       }
     },
     "Technology": {
-      "986689dc8268245c1ba189dd082f0301484c6f1ad9686cead6a193f2277b97fc": {
-        "title": "烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？",
-        "link": "https://www.infoq.cn/article/t0rpY0X2G9RBmXf9SK6g?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 17 Jan 2026 20:00:00 GMT",
-        "first_seen": "2026-01-17T23:24:02.781980"
-      },
-      "0f2cb390e31dfc1814868a64a0599c0148b44083ba5ac8ecb0546539946b328e": {
-        "title": "告别“刀片利润”，AI如何帮中国数百万中小工厂构筑新护城河？",
-        "link": "https://www.infoq.cn/article/uPMimwjtFsRSB8thczFi?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 17 Jan 2026 19:37:00 GMT",
-        "first_seen": "2026-01-17T23:24:02.782012"
-      },
-      "e5037517dff54005a9c918c989ef1cbad3b64fd1ae0e5e53200b44db04042f68": {
-        "title": "这轮对外卖行业“调查评估”，现阶段主要看什么？",
-        "link": "https://www.tmtpost.com/7846042.html",
-        "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
-        "first_seen": "2026-01-17T23:24:02.782027"
-      },
-      "ec608f592967992f8c2471f6d06a0ef500be4706fd1c5a9c9180e6c0fee584c0": {
-        "title": "2026，AI音乐跃迁元年？",
-        "link": "https://www.tmtpost.com/7846436.html",
-        "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
-        "first_seen": "2026-01-17T23:24:02.782039"
-      },
-      "34f44b6461a2ca2ea83906613446a991d853581c79ac4b4cc2c33a3fb76d88fc": {
-        "title": "携程遭反垄断调查，OTA行业硝烟再起",
-        "link": "https://www.tmtpost.com/7846535.html",
-        "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
-        "first_seen": "2026-01-17T23:24:02.782050"
-      },
-      "3b6d16762b93e4ef7abb5be96170c13cb8ebf2cdd43811500f1e1dbf36b39ef9": {
-        "title": "餐酒吧连锁，是一门怎样的生意？",
-        "link": "https://www.tmtpost.com/7846252.html",
-        "published_date": "Sat, 17 Jan 2026 18:04:00 GMT",
-        "first_seen": "2026-01-17T23:24:02.782060"
-      },
-      "f64477f95b0a8ea172eea24947dd061dc505b4c488731664398165f2cdef2a13": {
-        "title": "Staar Surgical、Alumis等公司股票因激进投资者的行动而出现波动",
-        "link": "https://www.tmtpost.com/7846443.html",
-        "published_date": "Sat, 17 Jan 2026 17:35:00 GMT",
-        "first_seen": "2026-01-17T23:24:02.782072"
-      },
-      "575db804ded376f0ce4f75afdb8f5d0f75a199f3d92c5aaae31efb9d68756a44": {
-        "title": "分析师称Affirm将从循环信贷中抢占份额",
-        "link": "https://www.tmtpost.com/7846441.html",
-        "published_date": "Sat, 17 Jan 2026 17:34:00 GMT",
-        "first_seen": "2026-01-17T23:24:02.782081"
-      },
-      "2a03975ffdfe63ea73da8f668a0053569ac664f841b7a6764e0812ecf6015660": {
-        "title": "仅用一周时间，谷歌就让OpenAI认清现实",
-        "link": "https://www.tmtpost.com/7846324.html",
-        "published_date": "Sat, 17 Jan 2026 16:59:00 GMT",
-        "first_seen": "2026-01-17T23:24:02.782091"
-      },
-      "02ffe418c69aa497d3884d10b30e42c689c1c7a6392994509f72e03b17dbd498": {
-        "title": "黄金迎来史诗级牛市，上游矿企狂欢，金饰品牌陷“关店潮”",
-        "link": "https://www.tmtpost.com/7846056.html",
-        "published_date": "Sat, 17 Jan 2026 16:34:00 GMT",
-        "first_seen": "2026-01-17T23:24:02.782103"
-      },
-      "b096173f3e1bcbf07d8131bfbb89309c2a2f2299b88e5b8dfb570bc23f99ce55": {
-        "title": "BBA，势败如山倒",
-        "link": "http://www.huxiu.com/article/4827348.html?f=wangzhan",
-        "published_date": "Sat, 17 Jan 2026 15:54:00 GMT",
-        "first_seen": "2026-01-17T23:23:53.446984"
-      },
       "9fa378d43c7690ebb0aedce400f8791e08f5193903608123237444299fabe825": {
         "title": "零克云发布AI托管平台破解“工程鸿沟”｜公司动态",
         "link": "https://www.tmtpost.com/7846680.html",
@@ -12512,40 +12476,28 @@
         "link": "https://www.tmtpost.com/7882168.html",
         "published_date": "Mon, 16 Feb 2026 15:26:00 GMT",
         "first_seen": "2026-02-16T08:55:26.805734"
+      },
+      "8674e591f146ca37fce7a6b0f351672353214b521dc1ce1c842a8a00d2d81052": {
+        "title": "火山引擎的野心，藏在Seed2.0里",
+        "link": "https://www.tmtpost.com/7882249.html",
+        "published_date": "Mon, 16 Feb 2026 20:00:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.748864"
+      },
+      "ef07813e1d4581c74e226477763f2be52f9e9f65c6b95256d1499fff8f8804dc": {
+        "title": "群核，十年家装换取AI船票",
+        "link": "https://www.tmtpost.com/7882275.html",
+        "published_date": "Mon, 16 Feb 2026 19:55:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.749001"
+      },
+      "fc3e75e6a200fae15a75eccc2bc0a2a5910d41cf6f43bf640be59d397dd7cda7": {
+        "title": "小鹏为什么这么“烦”L3",
+        "link": "http://www.huxiu.com/article/4835440.html?f=wangzhan",
+        "published_date": "Mon, 16 Feb 2026 15:57:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.749137"
       }
     },
     "Finance": {},
     "Education": {
-      "f157b6358b85dd78892cb7529d6efa186e14ab149d076992b78843ba08a6f6af": {
-        "title": "广东一对新人办婚礼，注明礼金不能超过100元，还回..",
-        "link": "http://baijiahao.baidu.com/s?id=1854582769256052771",
-        "published_date": "Sat, 17 Jan 2026 23:23:00 GMT",
-        "first_seen": "2026-01-17T23:23:53.358292"
-      },
-      "b7b78e448032ef0ed4c923f26141343c3671162c5284873d1f541dc38cf2c29c": {
-        "title": "不止于住宿，千山和悦酒店的“破界生长”",
-        "link": "http://baijiahao.baidu.com/s?id=1854371033987283876",
-        "published_date": "Sat, 17 Jan 2026 23:23:00 GMT",
-        "first_seen": "2026-01-17T23:23:53.358435"
-      },
-      "e98381ba88c992781f51d03d644613c6d2a64eee6c8bb01b6bb2f37262200f5e": {
-        "title": "上海地标迎来爆款游戏IP！《恋与深空》“搬到”东方..",
-        "link": "http://baijiahao.baidu.com/s?id=1854541461878691203",
-        "published_date": "Sat, 17 Jan 2026 23:23:00 GMT",
-        "first_seen": "2026-01-17T23:23:53.358599"
-      },
-      "29c7f3df04b4ac02fa0141e20b55b3f4caf820f4c2617dc44621ffe03c1fb1a3": {
-        "title": "才艺坊｜云上海嘎 童话世界",
-        "link": "http://baijiahao.baidu.com/s?id=1854469462279418551",
-        "published_date": "Sat, 17 Jan 2026 23:23:00 GMT",
-        "first_seen": "2026-01-17T23:23:53.358769"
-      },
-      "e002813cb358b252aabb9c544f86b31d792dd585224df3fb194db9e538eba806": {
-        "title": "你有一份来自荔波万亩梅原的邀约 You Have ..",
-        "link": "http://baijiahao.baidu.com/s?id=1854575378631865666",
-        "published_date": "Sat, 17 Jan 2026 23:23:00 GMT",
-        "first_seen": "2026-01-17T23:23:53.359007"
-      },
       "0c095860bce67f0db40743ecafa1b66c26bd2f540ab8e009732c0f7ba5c035b2": {
         "title": "上海市首批全域通过学前教育普及普惠督导评估，努力办..",
         "link": "http://baijiahao.baidu.com/s?id=1854620129553777296",
@@ -15935,13 +15887,49 @@
         "link": "http://baijiahao.baidu.com/s?id=1857260959993878342",
         "published_date": "Mon, 16 Feb 2026 08:55:00 GMT",
         "first_seen": "2026-02-16T08:55:26.999654"
+      },
+      "a4ff29d702236acd5aa3d907c0022b10b7ec7858fd7881db323099517c43de38": {
+        "title": "揭秘2026央视春晚合肥分会场幕后：罍街30余桌百..",
+        "link": "http://baijiahao.baidu.com/s?id=1857301371210985748",
+        "published_date": "Mon, 16 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.940654"
+      },
+      "196216eafdfdec9f032b442acbb89364bcd5dd297caeecd35e68be5f1a9be00a": {
+        "title": "海报荐读｜全年1100万人次到访，西岸梦中心如何炼..",
+        "link": "http://baijiahao.baidu.com/s?id=1857277810751637652",
+        "published_date": "Mon, 16 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.940767"
+      },
+      "225d1c801ea9300f405a0ca1cf97b305e7dfe6ebf2f7b9440d4fe8df1d2d17a4": {
+        "title": "【场面】巨型“彩马”驰骋上海夜空 上千架无人机浪漫..",
+        "link": "http://baijiahao.baidu.com/s?id=1857294288073147414",
+        "published_date": "Mon, 16 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.940923"
+      },
+      "31d82fb3c347e80a0565e5ea2c3c976f411c1463d124a2819ead45225d929ee4": {
+        "title": "武汉的味道让我念念不忘，一往无前 | 吴小新",
+        "link": "http://baijiahao.baidu.com/s?id=1857324481021624842",
+        "published_date": "Mon, 16 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.941096"
+      },
+      "df480f31b2c3708b5efedf21a4a011a6e1760ec6b4d4a74b1715eaf3062c8dbd": {
+        "title": "全年吸引客流超千万人次，黄浦江畔这个新晋“现象级目..",
+        "link": "http://baijiahao.baidu.com/s?id=1857249404904313311",
+        "published_date": "Mon, 16 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.941344"
+      },
+      "f2ba99708955485dfc0ce8362bcc08e8fe3c018f417f1e039900814755f8d15b": {
+        "title": "大四学生第一次坐飞机回家：在厦门转机时拍照打卡，体..",
+        "link": "http://baijiahao.baidu.com/s?id=1856971763510264609",
+        "published_date": "Mon, 16 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-16T23:34:32.941683"
       }
     }
   },
   "last_update": {
-    "AI": "2026-02-16T08:55:26.990403",
-    "Technology": "2026-02-16T08:55:26.828379",
-    "Finance": "2026-02-16T08:55:26.847799",
-    "Education": "2026-02-16T08:55:27.006372"
+    "AI": "2026-02-16T23:34:32.931394",
+    "Technology": "2026-02-16T23:34:32.771927",
+    "Finance": "2026-02-16T23:34:32.791148",
+    "Education": "2026-02-16T23:34:32.948496"
   }
 }
