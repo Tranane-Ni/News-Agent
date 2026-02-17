@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "bdf8cb928a7309a25dbfae9e6a141404d6c873348e265cac3ffdc86f4c9de2cc": {
-        "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
-        "link": "https://www.qbitai.com/2026/01/370085.html",
-        "published_date": "Sun, 18 Jan 2026 05:19:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.719968"
-      },
-      "2064a8270842d11936e9d9c53580fba84678397cfa329be5580edd94b4fd1652": {
-        "title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
-        "link": "https://www.qbitai.com/2026/01/370077.html",
-        "published_date": "Sun, 18 Jan 2026 05:15:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.720148"
-      },
       "3105c27c5ae7c5157dcd0d08cb7ebacdd1aeeab71686ca731018092970f8332c": {
         "title": "咖啡机变聪明后，我连咖啡都喝不上了",
         "link": "https://www.jiqizhixin.com/articles/2026-01-18-5",
@@ -2784,51 +2772,15 @@
         "link": "https://www.qbitai.com/2026/02/380433.html",
         "published_date": "Mon, 16 Feb 2026 11:15:00 GMT",
         "first_seen": "2026-02-16T23:34:32.924258"
+      },
+      "15356cde0c403daa68a1d6ea1437de5d63e7da9fb9d6024b311915400a776b39": {
+        "title": "春晚张杰《驭风歌》背后的马，是Seedance 2.0做的！",
+        "link": "https://www.qbitai.com/2026/02/380771.html",
+        "published_date": "Tue, 17 Feb 2026 04:58:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.756996"
       }
     },
     "Technology": {
-      "9fa378d43c7690ebb0aedce400f8791e08f5193903608123237444299fabe825": {
-        "title": "零克云发布AI托管平台破解“工程鸿沟”｜公司动态",
-        "link": "https://www.tmtpost.com/7846680.html",
-        "published_date": "Sun, 18 Jan 2026 12:43:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.846837"
-      },
-      "ff7c88587cfbf2bc0bb71d383c4ef416da27ce377911ced29be5ff60480d11d0": {
-        "title": "摩尔定律遭遇物理 “死胡同”， TGV是突破算力桎梏的技术切口？",
-        "link": "https://www.tmtpost.com/7843832.html",
-        "published_date": "Sun, 18 Jan 2026 11:46:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.846974"
-      },
-      "313b2df939b8cb9335f1135e1d9f722ad3ba5ee54e160279202327e69e07303b": {
-        "title": "【养老金研究】77号文赋能企业年金市场高质量发展",
-        "link": "https://www.tmtpost.com/7846668.html",
-        "published_date": "Sun, 18 Jan 2026 11:37:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.847109"
-      },
-      "f3624c205a7e662f51cdfb009e0b0f07b5dbfd39a6fc28f96ea50f63135a6528": {
-        "title": "价值判断：跌停板的投资机会和风险提示（1月16日）｜证券市场观察",
-        "link": "https://www.tmtpost.com/7846666.html",
-        "published_date": "Sun, 18 Jan 2026 11:36:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.847321"
-      },
-      "6bb8277008914122e7663d8d8205c9b54b52fe0cc331e06be98ef6a761bf4d38": {
-        "title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
-        "link": "https://www.tmtpost.com/7845741.html",
-        "published_date": "Sun, 18 Jan 2026 09:59:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.848153"
-      },
-      "232b51dfbb77e385af017253043c4f08adbb1b9e60416384726bdd7e7226030d": {
-        "title": "河南能源“巨无霸”的联姻记： 煤炭老大哥的“中年转型”能成功吗？",
-        "link": "https://www.tmtpost.com/7846351.html",
-        "published_date": "Sun, 18 Jan 2026 09:00:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.848550"
-      },
-      "678bb09af74efefc99cde838eb0ce7a063cb1248dca6cd571d21961919cad19f": {
-        "title": "石头科技的双线进击",
-        "link": "https://www.tmtpost.com/7846206.html",
-        "published_date": "Sun, 18 Jan 2026 08:01:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.848769"
-      },
       "884808deccf0ec7ec9ced1bee26962d4e7967d3f218109252b25d2624bd46b59": {
         "title": "App+1｜它和你的 Pixel 更配，宛如原生的网速显示工具",
         "link": "https://sspai.com/post/104972",
@@ -12494,28 +12446,52 @@
         "link": "http://www.huxiu.com/article/4835440.html?f=wangzhan",
         "published_date": "Mon, 16 Feb 2026 15:57:00 GMT",
         "first_seen": "2026-02-16T23:34:32.749137"
+      },
+      "9137e928389669bc697f1b14af94e71c2a9c65ad4033f675a91f90065a1c90dd": {
+        "title": "连农村的堂弟都不看春晚了｜马上评",
+        "link": "https://www.tmtpost.com/7882851.html",
+        "published_date": "Tue, 17 Feb 2026 12:08:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.543152"
+      },
+      "cd3094e02b0615a147743baee59e610f908f74d30817061195b67f648f34fa27": {
+        "title": "微软AI掌门放狠话：12-18个月，多数白领工作将被AI彻底替代？",
+        "link": "https://www.tmtpost.com/7882684.html",
+        "published_date": "Tue, 17 Feb 2026 11:47:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.543327"
+      },
+      "890953bf0a644a32d97fd2aaff9fa6b3dae00795ad6f214e0e1325c630d28204": {
+        "title": "从蔡明扮机器人，到机器人陪蔡明，春晚走了30年",
+        "link": "https://www.tmtpost.com/7882691.html",
+        "published_date": "Tue, 17 Feb 2026 10:40:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.543489"
+      },
+      "d4d4ab68207ca8fa69ecf3f5391651325f8d1dc8127bfc50b9fe24ba9ab64e31": {
+        "title": "苹果为新年添彩头，iPhone17e等一系列新品要来了",
+        "link": "https://www.tmtpost.com/7882784.html",
+        "published_date": "Tue, 17 Feb 2026 10:20:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.543660"
+      },
+      "79502cd7d0b7576693868809748e6c01390f2bff5eec7332133518e232f5d0cc": {
+        "title": "资本押注未来：睿舒科技天使轮融资，锚定环境智能3.0时代",
+        "link": "https://www.tmtpost.com/7881005.html",
+        "published_date": "Tue, 17 Feb 2026 09:19:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.543909"
+      },
+      "06c3d31d39735a891ffb0125179b5eb7e728370111bbe217750edd3652814389": {
+        "title": "春晚被机器人全面入侵的那一夜",
+        "link": "https://www.tmtpost.com/7882580.html",
+        "published_date": "Tue, 17 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.544098"
+      },
+      "3a9bff8b6ea707522fdcac2fc5369d71c482398abc0832d21a0a6b88408156a0": {
+        "title": "Shadcn 发布可视化项目构建工具",
+        "link": "https://www.infoq.cn/article/cGvFLF4et1Jc68h5T7Sg?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 17 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.544373"
       }
     },
     "Finance": {},
     "Education": {
-      "0c095860bce67f0db40743ecafa1b66c26bd2f540ab8e009732c0f7ba5c035b2": {
-        "title": "上海市首批全域通过学前教育普及普惠督导评估，努力办..",
-        "link": "http://baijiahao.baidu.com/s?id=1854620129553777296",
-        "published_date": "Sun, 18 Jan 2026 05:28:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.764864"
-      },
-      "30778ec0f7a147fe850dd6096d3a6e74c5d59861387882ac5f8b0e4e94a3e32e": {
-        "title": "爱心人士为爱聚力！贵州省集善公益慈善联合会在筑举办..",
-        "link": "http://baijiahao.baidu.com/s?id=1854560248119041217",
-        "published_date": "Sun, 18 Jan 2026 05:28:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.764992"
-      },
-      "9bd4cc291f62ce62f3f40a4a15db6ed561c166799b1937ad7711bd114c4ebee6": {
-        "title": "“文旅商体展”联动 激发消费新活力",
-        "link": "http://baijiahao.baidu.com/s?id=1854391352993300357",
-        "published_date": "Sun, 18 Jan 2026 05:28:00 GMT",
-        "first_seen": "2026-01-18T05:28:50.765135"
-      },
       "07285d1357f134c0c2f8de8456e6e152f91d90bf36470dfda75af056b5536f51": {
         "title": "在梅香里邂逅一场诗意漫步！贵州施秉冬日“梅”景引客..",
         "link": "http://baijiahao.baidu.com/s?id=1854519324249192461",
@@ -15923,13 +15899,37 @@
         "link": "http://baijiahao.baidu.com/s?id=1856971763510264609",
         "published_date": "Mon, 16 Feb 2026 23:34:00 GMT",
         "first_seen": "2026-02-16T23:34:32.941683"
+      },
+      "a340150345cde30f2c7db646b993f9f6a30147bd9bc330d6e71b906b2cb7504b": {
+        "title": "新春走基层丨跨越两千公里的年味 福建支教老师与宁夏..",
+        "link": "http://baijiahao.baidu.com/s?id=1857347834712439710",
+        "published_date": "Tue, 17 Feb 2026 06:00:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.773536"
+      },
+      "148b2c5488a3ef398959e85ebc497eb78e128d473b3fcca8bb6c54eafa853589": {
+        "title": "新春走基层｜印象故乡③海风伴驾，福建乡村春日里的巡..",
+        "link": "http://baijiahao.baidu.com/s?id=1857345601878041495",
+        "published_date": "Tue, 17 Feb 2026 06:00:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.773706"
+      },
+      "f33e21dd1e2b64516fa080b64165037b9afefe0c856324ed5c7cd0e64c516317": {
+        "title": "“到广东过大年”火出圈，杭州一家16人“包团”南下",
+        "link": "http://baijiahao.baidu.com/s?id=1857260162770192140",
+        "published_date": "Tue, 17 Feb 2026 06:00:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.773864"
+      },
+      "00328a5cec58788d6775388641de90f9857e259bac5cb936753abbfb4e85edae": {
+        "title": "贵州：围绕新型综合能源、先进装备制造、航空航天（含..",
+        "link": "http://baijiahao.baidu.com/s?id=1857104985483046053",
+        "published_date": "Tue, 17 Feb 2026 06:00:00 GMT",
+        "first_seen": "2026-02-17T06:00:55.774069"
       }
     }
   },
   "last_update": {
-    "AI": "2026-02-16T23:34:32.931394",
-    "Technology": "2026-02-16T23:34:32.771927",
-    "Finance": "2026-02-16T23:34:32.791148",
-    "Education": "2026-02-16T23:34:32.948496"
+    "AI": "2026-02-17T06:00:55.764031",
+    "Technology": "2026-02-17T06:00:55.589334",
+    "Finance": "2026-02-17T06:00:55.609166",
+    "Education": "2026-02-17T06:00:55.781156"
   }
 }
