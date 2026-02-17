@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3105c27c5ae7c5157dcd0d08cb7ebacdd1aeeab71686ca731018092970f8332c": {
-        "title": "咖啡机变聪明后，我连咖啡都喝不上了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-5",
-        "published_date": "Sun, 18 Jan 2026 20:50:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.229326"
-      },
-      "5bb37305572b7ab5348cab5a45a4f2c8a78b737ef82827de24e754f5de7d0ca0": {
-        "title": "AAAI 2026｜相聚新加坡，探讨AI时代最核心难题",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-4",
-        "published_date": "Sun, 18 Jan 2026 20:45:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.229483"
-      },
-      "e4e8181b7e327c92aa2fb86bc487e8c16662d8131df5aead4ed86810e7ba2068": {
-        "title": "谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-3",
-        "published_date": "Sun, 18 Jan 2026 20:42:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.229635"
-      },
-      "0da94459c99529e959abd047525bf5badc6143171906ec77e39a8a9fdecd79ab": {
-        "title": "红杉合伙人：2026，AGI已经来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-2",
-        "published_date": "Sun, 18 Jan 2026 20:39:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.229826"
-      },
-      "d1e9443ad48a523a3aaf0b2324218596e1465ff5dad0d89d739c2188ac6c9a53": {
-        "title": "VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18",
-        "published_date": "Sun, 18 Jan 2026 20:35:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.230110"
-      },
       "f7574d32011339be86dfd1d85cffdca87ae190426e40af5af1bf1fc5c1a7c8c3": {
         "title": "复旦大学 NLP 研究团队与其此前孵化的学术搜索平台 WisPaper 展开合作，共同研发了 OpenNovelty——一个基于大语言模型、强调证据与可验证性的自动化新颖性分析系统。",
         "link": "https://www.jiqizhixin.com/articles/2026-01-19-5",
@@ -2778,39 +2748,39 @@
         "link": "https://www.qbitai.com/2026/02/380771.html",
         "published_date": "Tue, 17 Feb 2026 04:58:00 GMT",
         "first_seen": "2026-02-17T06:00:55.756996"
+      },
+      "2941ad1c14a4a97160e6aad8a79c76ef4e0de2a97b068b544fe435527105e991": {
+        "title": "Teaching AI to read a map",
+        "link": "https://research.google/blog/teaching-ai-to-read-a-map/",
+        "published_date": "Tue, 17 Feb 2026 21:37:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.344854"
+      },
+      "8df94b88ab0cf047152562e8d439daf052ca565ba4d7cf2859b276538f2cda6a": {
+        "title": "沈腾：春晚谁家机器人？除夕夜就扒拉活来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17-4",
+        "published_date": "Tue, 17 Feb 2026 20:52:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.344979"
+      },
+      "e1b4a655e70abc913cec91e7f4275ebd1556623749abe8b2c28e67b53db0eb5a": {
+        "title": "ICLR 2026 | SEINT：高效的跨空间刚体不变度量",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17-3",
+        "published_date": "Tue, 17 Feb 2026 20:45:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.345156"
+      },
+      "fb42d119c115580ceda024083a44bae6a898feff1e79b3f7177ff669fc0caf86": {
+        "title": "ICLR 2026 | PIL：基于线性代理的不可学习样本生成方法",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17-2",
+        "published_date": "Tue, 17 Feb 2026 20:34:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.345431"
+      },
+      "02348ed7e8d74c38392df93ef6666afca2561977b06f22c73547f63a5abdc2ff": {
+        "title": "豆包除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17",
+        "published_date": "Tue, 17 Feb 2026 18:52:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.345735"
       }
     },
     "Technology": {
-      "a4bd75e5d6762f20c4fbf26bd9492d70d0c01815ee634823661668b9090137f2": {
-        "title": "不学抖音学INS，OpenAI想站着把钱挣了",
-        "link": "https://www.tmtpost.com/7846722.html",
-        "published_date": "Sun, 18 Jan 2026 19:36:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.358611"
-      },
-      "cfd65552e91c7ec499428270edb09b7492ae26ef53d1cf14a2af792ccfd1da88": {
-        "title": "AI应用爆发前夜，大模型等待黎明",
-        "link": "https://www.tmtpost.com/7846728.html",
-        "published_date": "Sun, 18 Jan 2026 19:36:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.358725"
-      },
-      "455cc95c0ab482b2ca906374a5b6e98baadb5a065ee9d06cdacdf0e7c8ece238": {
-        "title": "2026，广西菜元年？",
-        "link": "https://www.tmtpost.com/7838127.html",
-        "published_date": "Sun, 18 Jan 2026 17:54:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.358845"
-      },
-      "136a551c71dbaae79180da870484780d48a44cb8a86361ec676d1c4c64fe547f": {
-        "title": "宏大叙事的创业的时代，互联网需要更多Demumu",
-        "link": "https://www.tmtpost.com/7846725.html",
-        "published_date": "Sun, 18 Jan 2026 17:50:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.359015"
-      },
-      "3637f98d5b365a8140d76bf6c3179c11cb2905097b752945b3e74fb35fd59eee": {
-        "title": "打造医生“智能外脑”，医疗级AI在多家医院加速应用",
-        "link": "https://www.tmtpost.com/7846793.html",
-        "published_date": "Sun, 18 Jan 2026 09:46:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.359248"
-      },
       "48e50e164666c5fb0e59367bc9f5f21b33da62b78a450e4bc0a71e30bac779f2": {
         "title": "AI手搓的Cowork“李鬼”版跟“李逵”一样能打，还免费？",
         "link": "https://www.tmtpost.com/7847558.html",
@@ -12488,40 +12458,28 @@
         "link": "https://www.tmtpost.com/7882950.html",
         "published_date": "Tue, 17 Feb 2026 15:58:00 GMT",
         "first_seen": "2026-02-17T08:53:57.649057"
+      },
+      "2c8467e5df4f687a964c1dac26f94dbe4ce3ed328a1fb6ebb17c5206062f0def": {
+        "title": "“老外”集体来华过春节，对中国“真香”了？",
+        "link": "https://www.tmtpost.com/7882815.html",
+        "published_date": "Tue, 17 Feb 2026 17:55:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.153776"
+      },
+      "176f5bd8c573756e8094e5b925cc897a01715310fc798f2ac532bc37561d4ada": {
+        "title": "春晚机器人，谁赢麻了？",
+        "link": "https://www.tmtpost.com/7882863.html",
+        "published_date": "Tue, 17 Feb 2026 17:55:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.153928"
+      },
+      "faa77fc503fe09a1d26a05c9d643bcc5e626d8562583d8a21ac1a0f0a77a000f": {
+        "title": "千问3.5以小胜大，阿里巴巴的阳谋藏不住了",
+        "link": "https://www.tmtpost.com/7882917.html",
+        "published_date": "Tue, 17 Feb 2026 17:12:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.154090"
       }
     },
     "Finance": {},
     "Education": {
-      "3e1e867daf920bb4025bbb9c0e5901259363134cfe188ead0341c6b5fbdc20c9": {
-        "title": "「深圳特区报」“中国电子第一街”华强北开启新春消费..",
-        "link": "http://baijiahao.baidu.com/s?id=1854696116864538363",
-        "published_date": "Sun, 18 Jan 2026 23:26:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.279623"
-      },
-      "5de6e345212d3b895aab00c10328f04deebb710681c55c19178b35ee796c647e": {
-        "title": "达人与童话NPC破壁次元！玉舍雪山开启“冰雪童话奇..",
-        "link": "http://baijiahao.baidu.com/s?id=1854632157971818597",
-        "published_date": "Sun, 18 Jan 2026 23:26:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.279744"
-      },
-      "4ddb58043bc25d02ca49ee2b54c99d867fc84c7d25a77b38e897e1fe20d8c4ae": {
-        "title": "（体育）篮球——CBA常规赛：广东东阳光不敌北京控..",
-        "link": "http://baijiahao.baidu.com/s?id=1854575598419426740",
-        "published_date": "Sun, 18 Jan 2026 23:26:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.279920"
-      },
-      "4a67793dd1496867dd84e4a398fd1704415242a6b6e3b9677d09b40a6e162f31": {
-        "title": "把全国最美的花搬到北京，牡丹、兜兰、水仙来京参展",
-        "link": "http://baijiahao.baidu.com/s?id=1854640682912481565",
-        "published_date": "Sun, 18 Jan 2026 23:26:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.280154"
-      },
-      "3b2a1dcd44c2830375e1daf2b220c1ff51c4eb78e9df89eebf282e67af17666e": {
-        "title": "嘉定新增三处经营性帐篷露营地，周日走起→",
-        "link": "http://baijiahao.baidu.com/s?id=1854565251074904560",
-        "published_date": "Sun, 18 Jan 2026 23:26:00 GMT",
-        "first_seen": "2026-01-18T23:26:28.280355"
-      },
       "f34a409782aa477319935569e7a9a167a61a89dd4fe0c227516017ba45101cee": {
         "title": "“粤”上新台阶丨从“能行”到“真行” 广货凭何“行..",
         "link": "http://baijiahao.baidu.com/s?id=1854620772077063001",
@@ -15899,13 +15857,55 @@
         "link": "http://baijiahao.baidu.com/s?id=1857104985483046053",
         "published_date": "Tue, 17 Feb 2026 06:00:00 GMT",
         "first_seen": "2026-02-17T06:00:55.774069"
+      },
+      "55e536956935192496fc65f4f94c61822b7745d61e31d555236a9907728375c6": {
+        "title": "1992年邓小平在上海过春节，晚年多了一份“平民生..",
+        "link": "http://baijiahao.baidu.com/s?id=1857405834535083123",
+        "published_date": "Tue, 17 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.362161"
+      },
+      "cca9262397d6f6855eb9cc26afd6b7cb89ab0d3af7532bbfc09af0a9f34f5f7b": {
+        "title": "上海：在中共一大纪念馆迎接马年新春",
+        "link": "http://baijiahao.baidu.com/s?id=1857358844304620025",
+        "published_date": "Tue, 17 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.362286"
+      },
+      "df3e4b5c32111a911268e56e447b84ce4bacebefd495aca5f9637c503dc151fa": {
+        "title": "（新春见闻）广西三江：古寨欢歌闹新春",
+        "link": "http://baijiahao.baidu.com/s?id=1857376146546025007",
+        "published_date": "Tue, 17 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.362425"
+      },
+      "edab3b987dee6852b602c3a2699d5fbd537fd53073227f45fbc84f8ea4428711": {
+        "title": "一艘从澳门起航的帆船，改变了上海丨闵行情",
+        "link": "http://baijiahao.baidu.com/s?id=1856209174363773197",
+        "published_date": "Tue, 17 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.362573"
+      },
+      "591ed43d74c7ceec13d58511d48882a55e5ec8293ab76feff85822e596c3ef76": {
+        "title": "五年进步最大的万亿城市，为什么是它？",
+        "link": "http://baijiahao.baidu.com/s?id=1857067803852762772",
+        "published_date": "Tue, 17 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.362760"
+      },
+      "74e33fdcaf32bffe4bac2978190f3bcc6a48d3a0f9ead44e1c77691fb46a1a46": {
+        "title": "马年新春迎新政，上海浦东机场迎来首批加、英免签入境..",
+        "link": "http://baijiahao.baidu.com/s?id=1857370515848115060",
+        "published_date": "Tue, 17 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.363016"
+      },
+      "284e4ce732358f3553b00d558e6351f94230e58a971ebe3e0efe2e5657453db5": {
+        "title": "（新春走基层）广西侗寨绿叶成“金叶” 村民喜提“新..",
+        "link": "http://baijiahao.baidu.com/s?id=1857277245034436551",
+        "published_date": "Tue, 17 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-17T23:34:54.363359"
       }
     }
   },
   "last_update": {
-    "AI": "2026-02-17T08:53:57.820302",
-    "Technology": "2026-02-17T08:53:57.673635",
-    "Finance": "2026-02-17T08:53:57.690461",
-    "Education": "2026-02-17T08:53:57.834138"
+    "AI": "2026-02-17T23:34:54.352756",
+    "Technology": "2026-02-17T23:34:54.193749",
+    "Finance": "2026-02-17T23:34:54.213083",
+    "Education": "2026-02-17T23:34:54.370303"
   }
 }
