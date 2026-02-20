@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "c3a2b8dc7b605ad9d421c6925d4bfb68292bb0465fb826efc751edd4ed908a9f": {
-        "title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21-5",
-        "published_date": "Wed, 21 Jan 2026 14:19:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.192694"
-      },
-      "fa58a9357b4c8eb1b821a9d2cbd420677b6513de41fa039a390baa89493ea636": {
-        "title": "恒者蓬勃！第18届创业邦年会暨创业邦100未来独角兽大会圆满举办",
-        "link": "https://www.qbitai.com/2026/01/370790.html",
-        "published_date": "Wed, 21 Jan 2026 07:37:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.192866"
-      },
       "22ccfce90deaece4e729e2a240f040ad359b1aa7c89b1fe5a607927def07ed95": {
         "title": "京东「再造」京东",
         "link": "https://www.jiqizhixin.com/articles/2026-01-21-8",
@@ -2658,111 +2646,15 @@
         "link": "https://www.qbitai.com/2026/02/381460.html",
         "published_date": "Fri, 20 Feb 2026 01:25:00 GMT",
         "first_seen": "2026-02-20T05:57:20.468706"
+      },
+      "8a9b05ba66c62f3ea310853e5c323af0e55a61cdc08155e618ef2e5c6d8dabf8": {
+        "title": "ClawHub迷之封杀操作，逼出首个Agent全球进化网络",
+        "link": "https://www.qbitai.com/2026/02/381495.html",
+        "published_date": "Fri, 20 Feb 2026 07:44:00 GMT",
+        "first_seen": "2026-02-20T08:49:28.701834"
       }
     },
     "Technology": {
-      "bd5942fef678c82deff98c3ebd514f3d7e89f04f1a039f7f8d10d5b77c788255": {
-        "title": "Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力",
-        "link": "https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 16:26:00 GMT",
-        "first_seen": "2026-01-21T08:38:09.550183"
-      },
-      "26278995540e796f50bf7f98b447aa20d573ff20957999c53c338770641c02ba": {
-        "title": "XAML Studio 开源：一款老牌原型工具，如何在 WinUI 时代重获生命力",
-        "link": "https://www.infoq.cn/article/JCw7RzpyL4DUPvC0kHwE?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 16:00:00 GMT",
-        "first_seen": "2026-01-21T08:38:09.550195"
-      },
-      "dcf021ce63fdc7389750cf8b4ed7487ab9f9333edeb111061bf9bb44eda56b88": {
-        "title": "飞猪搭建系统演进：从人工运营到多Agent协同\n搭投生产",
-        "link": "https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 13:51:00 GMT",
-        "first_seen": "2026-01-21T08:38:09.550155"
-      },
-      "f327929284a1f1ea50c96bcb7668792e44d32a8b28f4b82dfe19c57689759ea3": {
-        "title": "大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战",
-        "link": "https://www.tmtpost.com/7850118.html",
-        "published_date": "Wed, 21 Jan 2026 15:54:00 GMT",
-        "first_seen": "2026-01-21T08:38:09.550206"
-      },
-      "949513d0fdea442bf6d65b0f61bfc622597a6418dd45206031c8a9ed3fa8b07d": {
-        "title": "黄仁勋亲自邀请的男人，将PCB生意做到了3000亿",
-        "link": "https://www.tmtpost.com/7850144.html",
-        "published_date": "Wed, 21 Jan 2026 15:54:00 GMT",
-        "first_seen": "2026-01-21T08:38:09.550216"
-      },
-      "c29e25f9220e3574fcf44668c7bea23ab348beccb6f4a3e4ea2a669d5a8b9de4": {
-        "title": "高瓴、智元机器人联手投资，小米前高管王腾创立AI睡眠公司“今日宜休”",
-        "link": "https://www.tmtpost.com/7850537.html",
-        "published_date": "Wed, 21 Jan 2026 15:49:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.316058"
-      },
-      "d5060992c174ffceabf1a9db40ecc47a4d4ae6ce4f354fc06e4860b0db0c1b4f": {
-        "title": "惠康科技：实控人套现5.61亿、不差钱仍募资、低研发却有高毛利｜IPO观察",
-        "link": "https://www.tmtpost.com/7849141.html",
-        "published_date": "Wed, 21 Jan 2026 15:38:00 GMT",
-        "first_seen": "2026-01-21T08:38:09.550106"
-      },
-      "d51590b901bdd38c6aef137865fa8894d1891fb7425fe3b3009964cab5eceed8": {
-        "title": "上市即 “贬值”？弥富科技突击入股估值倒挂，应收账款逾期超三成｜IPO观察",
-        "link": "https://www.tmtpost.com/7849197.html",
-        "published_date": "Wed, 21 Jan 2026 15:34:00 GMT",
-        "first_seen": "2026-01-21T08:38:09.550169"
-      },
-      "cc9e237017f76acad931bd1a5bf11fe113d8f3ae35a8d6773b7f59d0dacf980f": {
-        "title": "从“买算力”到“买人”：Humans&获得4.8亿美元种子轮，英伟达、贝索斯联手投资",
-        "link": "https://www.tmtpost.com/7850502.html",
-        "published_date": "Wed, 21 Jan 2026 15:24:00 GMT",
-        "first_seen": "2026-01-21T08:38:09.550228"
-      },
-      "6630d07e652638fe8b7f498ff0ba4fd27c8271150e8bb305db87f3383bf02166": {
-        "title": "呼吸机概念60日涨超20%：从ICU闯入“卧室赛道”的产业价值重估丨行业风向标",
-        "link": "https://www.tmtpost.com/7850421.html",
-        "published_date": "Wed, 21 Jan 2026 14:39:00 GMT",
-        "first_seen": "2026-01-21T08:38:09.550239"
-      },
-      "33dd91b9330d5c7f3323d6f6556540b66d5fa195083e0026192fcf88c7a31c0a": {
-        "title": "黄金涨疯了，想租银行保险箱要排队5-6年",
-        "link": "https://www.tmtpost.com/7850417.html",
-        "published_date": "Wed, 21 Jan 2026 14:05:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.319065"
-      },
-      "073f9df404c2d30bb864774ab9a7a2071f2ac72588d4b6cd15eae61e3e8d8035": {
-        "title": "两位大佬放出“坏消息”：实习生进入AI“斩杀线”",
-        "link": "https://www.tmtpost.com/7850077.html",
-        "published_date": "Wed, 21 Jan 2026 13:50:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.319702"
-      },
-      "934720d769dc2d131dd754ff9bbda3c12635b7dd98d3394eea10a1a9e89d9b32": {
-        "title": "奈飞：收购拖垮剧王？又到考验信仰的时候了",
-        "link": "https://www.tmtpost.com/7850133.html",
-        "published_date": "Wed, 21 Jan 2026 13:50:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.320336"
-      },
-      "b7ff065785e89f1aac94bfb175d248a4a44479d6057bd4dae43fe224bf1a54fd": {
-        "title": "瑞士机器人科技公司Nautica研发自主船体清洁机器人，推动航运业生物污损自动化处理",
-        "link": "https://www.tmtpost.com/7850281.html",
-        "published_date": "Wed, 21 Jan 2026 13:39:00 GMT",
-        "first_seen": "2026-01-21T08:38:09.550137"
-      },
-      "c4de2a4ed65e799d934c60644163f9990db1762bebd05f8f5427d04eeef806e6": {
-        "title": "格陵兰岛争端为啥会推高金价？",
-        "link": "http://www.huxiu.com/article/4828208.html?f=wangzhan",
-        "published_date": "Wed, 21 Jan 2026 15:30:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.321609"
-      },
-      "262196e26fbbeb4d86fdeb8a134bcb13106013d5acf242910357464a6e3a560c": {
-        "title": "为什么聚酯纤维填充的棉服有的便宜有的贵呢？",
-        "link": "http://www.huxiu.com/article/4828145.html?f=wangzhan",
-        "published_date": "Wed, 21 Jan 2026 14:00:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.322090"
-      },
-      "a2beafb88c219db5aecc5076322cb12e58455e6abf0d0a5c82df835180757c9d": {
-        "title": "5 款替代品，找回 LaunchPad 的快捷",
-        "link": "https://sspai.com/post/105471",
-        "published_date": "Wed, 21 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.323021"
-      },
       "4ef8d84b5a6a5014b4c11def79941b628cac5edd53e322a198c9e231faae29b8": {
         "title": "主业失速、股价腰斩、机构撤离，爱博医疗5亿押注“关节与肌肉”丨并购一线",
         "link": "https://www.tmtpost.com/7850927.html",
@@ -11666,46 +11558,16 @@
         "link": "https://sspai.com/post/94704",
         "published_date": "Fri, 20 Feb 2026 11:45:00 GMT",
         "first_seen": "2026-02-20T05:57:20.554788"
+      },
+      "7eb542fa28fc6a57c59d6232ac0b90d0a965cd6ec2ec33dde42a3796388c0d49": {
+        "title": "Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle",
+        "link": "https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 16:38:00 GMT",
+        "first_seen": "2026-02-20T08:49:28.793264"
       }
     },
     "Finance": {},
     "Education": {
-      "dd3e35ec05b3ffd69f0de9671f677e91bdc542ab1f39f575c21ffcb7298d018f": {
-        "title": "广东超额完成“十四五”红树林总修复任务，新营造面积..",
-        "link": "http://baijiahao.baidu.com/s?id=1854823181621623993",
-        "published_date": "Wed, 21 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.222630"
-      },
-      "d8c0c7b4f8d49ef348055e6a4a2fb25481039a07c65b74088c83e6b577c3e9c0": {
-        "title": "“十四五”广东种植苗木约8亿株，种苗保障为绿美广东..",
-        "link": "http://baijiahao.baidu.com/s?id=1854841931724995312",
-        "published_date": "Wed, 21 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.222772"
-      },
-      "968850a39dc69634d5c1d964658bac3f2e4714206363e9fe56df6053442adfda": {
-        "title": "厅局长工作笔记⑥｜徐晓霞：全运会开幕式当天，我心中..",
-        "link": "http://baijiahao.baidu.com/s?id=1854911540906556047",
-        "published_date": "Wed, 21 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.222970"
-      },
-      "b58232c8f49498389c6eab614194d8300b565fc825255ab8577a1ab34f9bc2ef": {
-        "title": "省委组织部公示后，福建两位干部履新",
-        "link": "http://baijiahao.baidu.com/s?id=1854889349616019815",
-        "published_date": "Wed, 21 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.223140"
-      },
-      "fcc8aed1350327cb885612511bdf9d5b6de71aadede8486d827d27dd7346862a": {
-        "title": "冰晶的邀约",
-        "link": "http://baijiahao.baidu.com/s?id=1854820357576865173",
-        "published_date": "Wed, 21 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.223274"
-      },
-      "ecf3d59a3cad6dee44f06c340113debf9630df066870545ee221775b93da86df": {
-        "title": "战风雪 护民生｜国家能源集团安徽公司22台机组“火..",
-        "link": "http://baijiahao.baidu.com/s?id=1854887614803325396",
-        "published_date": "Wed, 21 Jan 2026 08:37:00 GMT",
-        "first_seen": "2026-01-21T08:38:00.223551"
-      },
       "305a2e1716f174cefebed4f8e73da312f2514c4658d4255067ea4f559a31daa3": {
         "title": "宋再生：带着弟弟卧底探情报 连环套杯酒除叛徒救李维..",
         "link": "http://baijiahao.baidu.com/s?id=1854930953902624230",
@@ -14999,13 +14861,55 @@
         "link": "http://baijiahao.baidu.com/s?id=1857544753730512149",
         "published_date": "Fri, 20 Feb 2026 05:57:00 GMT",
         "first_seen": "2026-02-20T05:57:20.498503"
+      },
+      "587288d881f3ea3285c68567e4bc85ff363566b9b1803ab745b7af5449ee40c3": {
+        "title": "茶梅盛开，为申城点春",
+        "link": "http://baijiahao.baidu.com/s?id=1857622882029722377",
+        "published_date": "Fri, 20 Feb 2026 08:49:00 GMT",
+        "first_seen": "2026-02-20T08:49:28.744583"
+      },
+      "2981fbd544930a6e6503949600f45f637acd10c68888fdfc34839693de16fe3b": {
+        "title": "上海过年去哪玩？这些景区承包你的欢乐假期",
+        "link": "http://baijiahao.baidu.com/s?id=1857628816113413665",
+        "published_date": "Fri, 20 Feb 2026 08:49:00 GMT",
+        "first_seen": "2026-02-20T08:49:28.744699"
+      },
+      "3ac6b8f9e484a53ba88834cf4c13ae4a2ded81e7d750706f4127b044a88ee3d1": {
+        "title": "魔都放大镜·春节特辑③｜第一次在上海解锁春节，她们..",
+        "link": "http://baijiahao.baidu.com/s?id=1857623361345637970",
+        "published_date": "Fri, 20 Feb 2026 08:49:00 GMT",
+        "first_seen": "2026-02-20T08:49:28.744830"
+      },
+      "6033d7516be121afbd8771f39ab9d2d8d246532ab922c3deec71edff77332154": {
+        "title": "从福建街头到央视舞台！她和万妮达用闽南歌点燃新春",
+        "link": "http://baijiahao.baidu.com/s?id=1857541800413515067",
+        "published_date": "Fri, 20 Feb 2026 08:49:00 GMT",
+        "first_seen": "2026-02-20T08:49:28.745063"
+      },
+      "7b8a3ef45ed743cd238edcc86594c17a541ed4bd02a67ab66fbeb274f1627215": {
+        "title": "“密密麻麻全是人”！福建多地紧急公告：售罄、约满、..",
+        "link": "http://baijiahao.baidu.com/s?id=1857605564767167275",
+        "published_date": "Fri, 20 Feb 2026 08:49:00 GMT",
+        "first_seen": "2026-02-20T08:49:28.745282"
+      },
+      "0d916310e213a063152fdc602b4e17ca232d3d350a74c55112410cf63967af45": {
+        "title": "福建美术馆主体落成！预计年内正式投用",
+        "link": "http://baijiahao.baidu.com/s?id=1857337045855976334",
+        "published_date": "Fri, 20 Feb 2026 08:49:00 GMT",
+        "first_seen": "2026-02-20T08:49:28.745482"
+      },
+      "403ca51dde03d8f8641d662dc008a49aceca23a6bd6cc40f5091d3e272a13afd": {
+        "title": "数“览”新观察·春节消费“热力”值拉满 文旅市场人..",
+        "link": "http://baijiahao.baidu.com/s?id=1857622236011180386",
+        "published_date": "Fri, 20 Feb 2026 08:49:00 GMT",
+        "first_seen": "2026-02-20T08:49:28.745786"
       }
     }
   },
   "last_update": {
-    "AI": "2026-02-20T05:57:20.488607",
-    "Technology": "2026-02-20T05:57:20.562049",
-    "Finance": "2026-02-20T05:57:20.325843",
-    "Education": "2026-02-20T05:57:20.505496"
+    "AI": "2026-02-20T08:49:28.736068",
+    "Technology": "2026-02-20T08:49:28.799636",
+    "Finance": "2026-02-20T08:49:28.575151",
+    "Education": "2026-02-20T08:49:28.752041"
   }
 }
