@@ -1302,21 +1302,27 @@
         "link": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
         "published_date": "Tue, 31 Mar 2026 02:03:00 GMT",
         "first_seen": "2026-03-31T06:22:59.901869"
+      },
+      "3e070de410fbbafcbb615dd3696c3638ef15ee911e6fab0cc5ddc384a828a301": {
+        "title": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+        "link": "https://www.qbitai.com/2026/03/393984.html",
+        "published_date": "Tue, 31 Mar 2026 08:33:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.466034"
+      },
+      "0a2f71d9324562ca5825736f885a5980e560509dc1af1b072c396bca5732b0a7": {
+        "title": "实测拿215项SOTA的Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码",
+        "link": "https://www.qbitai.com/2026/03/393941.html",
+        "published_date": "Tue, 31 Mar 2026 08:22:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.466181"
+      },
+      "9826a98082fa543f345556f7cfcdba2e677c1a095d2c4e79cde1c3b9c3e737ba": {
+        "title": "机器人线下真机对线打PK！这届黑客松可太会玩了",
+        "link": "https://www.qbitai.com/2026/03/393887.html",
+        "published_date": "Tue, 31 Mar 2026 06:41:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.466302"
       }
     },
     "Technology": {
-      "8476f61923e745a8107272c17b1c0e5f33dd470e78903d1fc11f853410febcb0": {
-        "title": "全年增速1.5%！医药流通存量博弈周期，头部阵营有何不败密码？",
-        "link": "https://www.tmtpost.com/7894523.html",
-        "published_date": "Sun, 01 Mar 2026 08:58:00 GMT",
-        "first_seen": "2026-03-01T08:43:38.918872"
-      },
-      "ca6f49b050e02687745dc5ac383a45144e263620a43f1bb7503b13f4dd8cafcd": {
-        "title": "否认破产重组传闻，昔日行业“鼻祖”魅族艰难转型",
-        "link": "https://www.tmtpost.com/7894515.html",
-        "published_date": "Sun, 01 Mar 2026 08:52:00 GMT",
-        "first_seen": "2026-03-01T08:43:38.919039"
-      },
       "e66fab037110286df28adacc8303c77cb83d2129febee649c0914dc9f7756b3c": {
         "title": "安徽上市公司ESG-V评级：“双峰并峙”格局显现，绿色制造登顶，传统重化站上分水岭｜上市公司观察",
         "link": "https://www.tmtpost.com/7895308.html",
@@ -11840,22 +11846,88 @@
         "link": "https://sspai.com/post/108088",
         "published_date": "Tue, 31 Mar 2026 08:19:00 GMT",
         "first_seen": "2026-03-31T06:22:50.404669"
+      },
+      "c71d6683f3214568b09d14091cb2c17b450227f95790669d4a1bcaa387461b98": {
+        "title": "世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
+        "link": "https://www.infoq.cn/article/Ea7qoZWYLkDqY8mvDfzG?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 17:01:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.275976"
+      },
+      "578e51ffac6b513d56de32ce90ef58519eed86caccb6b98278027633724a8308": {
+        "title": "Apache Doris + SelectDB：定义 AI 时代，实时分析的三大范式",
+        "link": "https://www.infoq.cn/article/upjalB3iBabw6pQaQRTX?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 16:41:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.276002"
+      },
+      "ef7a61c4015b937d63168dd62fb27b9aea001cdf4bbdadad9ce054635b23f7b5": {
+        "title": "Airbnb在发现问题并非源于企业文化后，重新构建了告警开发流程",
+        "link": "https://www.infoq.cn/article/gdFZcSBtQMf8HHWZ6k3j?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 16:00:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.276013"
+      },
+      "15aa1af0237c202d4a690deaac2c5bfa4fc221318ec0de1cb940e6e85604ad2c": {
+        "title": "OpenClaw 火了之后，企业真正缺的不是更聪明的龙虾，而是一套上岗体系",
+        "link": "https://www.infoq.cn/article/XSBT0gvHvFom2OdbOoYH?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 14:52:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.276021"
+      },
+      "bdb48bc55ae3bc71775a8f11ca6a36a23071ff7a728ed5eaa21ff78e895ace14": {
+        "title": "4月月更启动！用文字记录你的每一个进步瞬间",
+        "link": "https://xie.infoq.cn/article/d7ac0e1c33765ac4c1631ff85?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 13:51:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.276030"
+      },
+      "b20e09c272347d5d525964419c37830d7d651b95850aeb94059f9cb87b5c5d4b": {
+        "title": "商业火箭，进入“大运力时代”",
+        "link": "https://www.tmtpost.com/7936179.html",
+        "published_date": "Tue, 31 Mar 2026 16:25:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.276039"
+      },
+      "50c0704c7abf07d1e3ff05d55c8ced4108a4d031e0ea3a12d6c87978923b6854": {
+        "title": "中科曙光发了个“标配版”超节点，AI推理算力的未来形态？",
+        "link": "https://www.tmtpost.com/7936210.html",
+        "published_date": "Tue, 31 Mar 2026 16:24:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.276048"
+      },
+      "2a14527a881b544b14aab5295ff4984d02f65f24471037d1db7db13c48b13d76": {
+        "title": "中国餐饮AI应用研究2026：餐饮AI加速变革，驱动行业“智能”跃迁",
+        "link": "https://www.tmtpost.com/7936099.html",
+        "published_date": "Tue, 31 Mar 2026 14:21:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.276057"
+      },
+      "0f503e127560615ca1cf9bc7c269fe4c5ed9d4ccbd038c58c04acd5eb7d20ae6": {
+        "title": "盛极而罗技",
+        "link": "https://www.tmtpost.com/7936102.html",
+        "published_date": "Tue, 31 Mar 2026 14:21:00 GMT",
+        "first_seen": "2026-03-31T09:07:58.009081"
+      },
+      "c63a8017e8fabb473d41dae72ed08d0a37b1e63d38c090cd87f4d41688a5a871": {
+        "title": "失踪的“四圈转速”：一场关于动力、权力和Agent的跨时代共谋",
+        "link": "https://www.tmtpost.com/7935789.html",
+        "published_date": "Tue, 31 Mar 2026 14:18:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.276065"
+      },
+      "849e4ece594ee42fb1fa6b68a76935e1ca81f2458cf63e0944bba1b836305d01": {
+        "title": "智能编码扎根生产级场景，阿里云系统化解题",
+        "link": "https://www.tmtpost.com/7935669.html",
+        "published_date": "Tue, 31 Mar 2026 14:18:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.275950"
+      },
+      "7f48585d760245511f1328180b4540e83b310f24aca3164ad1f6828cefb914c8": {
+        "title": "即将上市的Kimi，会复刻MiniMax走势吗？",
+        "link": "https://www.tmtpost.com/7936085.html",
+        "published_date": "Tue, 31 Mar 2026 14:17:00 GMT",
+        "first_seen": "2026-03-31T09:07:58.010367"
+      },
+      "0e00fca2226831531dcb473f65c86ac2e2aef2bd75774dba2e42efe722d8ce8d": {
+        "title": "一日一技 | 如何正确进行 vivo Log 的色彩空间转换",
+        "link": "https://sspai.com/post/108101",
+        "published_date": "Tue, 31 Mar 2026 15:03:00 GMT",
+        "first_seen": "2026-03-31T09:07:58.011006"
       }
     },
     "Finance": {},
     "Education": {
-      "6b4db4a4bd8c62214b8790ce304cf6b5ed5cc7389472a15059429d64d7ff18e0": {
-        "title": "上海接下来会美成什么样？人民广场的白玉兰已开，最佳..",
-        "link": "http://baijiahao.baidu.com/s?id=1858421251942036054",
-        "published_date": "Sun, 01 Mar 2026 08:43:00 GMT",
-        "first_seen": "2026-03-01T08:43:39.113456"
-      },
-      "ed3bf65b9b939c3df5d128965893605c55aaf0f50335bd5cfc16bfea633fa96c": {
-        "title": "数读｜一文读懂“新春第一会” 经济大省如何挑大梁",
-        "link": "http://baijiahao.baidu.com/s?id=1858357455875730010",
-        "published_date": "Sun, 01 Mar 2026 08:43:00 GMT",
-        "first_seen": "2026-03-01T08:43:39.113593"
-      },
       "eefb4da0039637a071488c47e6fd5e5bbd46c5ab20594046c0bb217436c963ed": {
         "title": "为沪派古镇留住“小桥流水”“烟火人家”，《上海市历..",
         "link": "http://baijiahao.baidu.com/s?id=1858448810725115772",
@@ -14951,13 +15023,67 @@
         "link": "http://baijiahao.baidu.com/s?id=1861075303989458978",
         "published_date": "Tue, 31 Mar 2026 06:22:00 GMT",
         "first_seen": "2026-03-31T06:22:50.442333"
+      },
+      "a9ff13e15bafdf5dd132ada2af1352b55d4095f436cd6367bd84f68f5acc18ca": {
+        "title": "「跟着贵旅游贵州」花漫川咖啡馆：以花为媒打造贵州特..",
+        "link": "http://baijiahao.baidu.com/s?id=1861162314289530989",
+        "published_date": "Tue, 31 Mar 2026 09:07:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.314613"
+      },
+      "41a111a1297a23780e67fbbba31c894d148406b8f26c4c356465455bf5488f4c": {
+        "title": "43条精品徒步线路发布，“徒旅贵州”活动上线｜聚焦..",
+        "link": "http://baijiahao.baidu.com/s?id=1861158539495126759",
+        "published_date": "Tue, 31 Mar 2026 09:07:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.314751"
+      },
+      "46af5feb6c2225efdd9f7259590f4470be33e1e53667c20af9288e9589d8a1d8": {
+        "title": "「聚焦二十届旅发大会」谁在“引爆”贵州？一场洽谈会..",
+        "link": "http://baijiahao.baidu.com/s?id=1861154735552716385",
+        "published_date": "Tue, 31 Mar 2026 09:07:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.314892"
+      },
+      "32a30f0ee9221a9925004e2f2de4e874a0197c8e91413700fd3cf8488cf0661b": {
+        "title": "马蜂窝“新玩法+AI”，助力贵州文旅从资源大省迈向..",
+        "link": "http://baijiahao.baidu.com/s?id=1861150957788427078",
+        "published_date": "Tue, 31 Mar 2026 09:07:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.315072"
+      },
+      "2e7b296ade24c98c05bcf703740afee2dbc89542e57620165f1f725d970b0500": {
+        "title": "数读中国开局新活力｜万亩春花+百亿春茶+近千项活动..",
+        "link": "http://baijiahao.baidu.com/s?id=1861147780983977250",
+        "published_date": "Tue, 31 Mar 2026 09:07:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.315303"
+      },
+      "f951d06219a6c8a635c3f6a6bbe8f9e0fb802724416795a6efee887f718a062c": {
+        "title": "「聚焦二十届旅发大会」轻开发、重运营！清镇石龙洞一..",
+        "link": "http://baijiahao.baidu.com/s?id=1861154735551895792",
+        "published_date": "Tue, 31 Mar 2026 09:07:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.315569"
+      },
+      "d26ac43889d9c16bb64bfac01b20aa60684625d2d17e016848e314178349ece2": {
+        "title": "上海的公交线路，还能这么玩？不少市民激动：终于等到..",
+        "link": "http://baijiahao.baidu.com/s?id=1860955765697399928",
+        "published_date": "Tue, 31 Mar 2026 09:07:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.315943"
+      },
+      "27c3e6a1920a6ecfc7bc70194678a9c7f01b7e2d1ff050d0916fcd86aa84fbb3": {
+        "title": "80岁曹德旺，拟获“中华慈善奖”个人表彰，此前获评..",
+        "link": "http://baijiahao.baidu.com/s?id=1861163539785169465",
+        "published_date": "Tue, 31 Mar 2026 09:07:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.316345"
+      },
+      "4ea182d2c269d6a2edd64c59ab2bf7c6c27057109d5301582278aca5ce55f5b5": {
+        "title": "24小时随时问！福建多家三甲医院专家的AI分身上岗..",
+        "link": "http://baijiahao.baidu.com/s?id=1861154102735099551",
+        "published_date": "Tue, 31 Mar 2026 09:07:00 GMT",
+        "first_seen": "2026-03-31T09:08:07.316681"
       }
     }
   },
   "last_update": {
-    "AI": "2026-03-31T06:22:59.909466",
-    "Technology": "2026-03-31T06:22:50.428176",
-    "Finance": "2026-03-31T06:22:59.759121",
-    "Education": "2026-03-31T06:22:59.739875"
+    "AI": "2026-03-31T09:08:07.472540",
+    "Technology": "2026-03-31T09:08:07.304506",
+    "Finance": "2026-03-31T09:08:07.340164",
+    "Education": "2026-03-31T09:08:07.323197"
   }
 }
