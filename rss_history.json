@@ -1383,18 +1383,6 @@
       }
     },
     "Technology": {
-      "3bf4de7d0f1db2bf45b9a7d10b0739538fcb32f6f49c6d226f171fbc0bd661e4": {
-        "title": "龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴",
-        "link": "https://www.tmtpost.com/7914749.html",
-        "published_date": "Sun, 15 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-15T08:42:58.383545"
-      },
-      "2c167a1d5ced21f7597aff4f1294c402e0c6e94d32e8c9207ce7e0a57e354740": {
-        "title": "价值判断：涨停板的投资机会和风险提示（3月13日）｜证券市场观察",
-        "link": "https://www.tmtpost.com/7914792.html",
-        "published_date": "Sun, 15 Mar 2026 13:45:00 GMT",
-        "first_seen": "2026-03-15T08:42:58.383739"
-      },
       "99a0e1bb4f7dd80654990b980da7e5c3b962e20b357145fe74efc73244965749": {
         "title": "【钛晨报】央视3·15曝光7大行业乱象，涉及这些公司，监管部门火速行动；追觅预计本周发射第一颗太空算力卫星；京投发展筹划剥离地产业务，预计构成重大资产重组",
         "link": "https://www.tmtpost.com/7915027.html",
@@ -11072,28 +11060,22 @@
         "link": "https://sspai.com/post/108614",
         "published_date": "Tue, 14 Apr 2026 08:35:00 GMT",
         "first_seen": "2026-04-14T06:56:27.732793"
+      },
+      "ce3ad06d1dabeb11d507f3c5224b5126d19df17d4900390c51fcd36bb5a2f132": {
+        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
+        "link": "https://sspai.com/post/108005",
+        "published_date": "Tue, 14 Apr 2026 15:38:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.872019"
+      },
+      "64376ceaf47956004a1901010827ee7543290b16d6c775761ffe750b2e54916a": {
+        "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+        "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 14:58:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.872199"
       }
     },
     "Finance": {},
     "Education": {
-      "4b40c247d90a7f4d331b8d4d1c362f316019f1fc74d88751961592e7bbec45d3": {
-        "title": "当赏花遇上“速度与激情” 贵州遵义解锁春日乡村新玩..",
-        "link": "http://baijiahao.baidu.com/s?id=1859712708629133695",
-        "published_date": "Sun, 15 Mar 2026 08:42:00 GMT",
-        "first_seen": "2026-03-15T08:42:58.555650"
-      },
-      "db24287248c1c6503d36b654157db850617ae4946f0e0d6dddd6f0febd97879b": {
-        "title": "苏炳添，有新身份",
-        "link": "http://baijiahao.baidu.com/s?id=1859689898428732943",
-        "published_date": "Sun, 15 Mar 2026 08:42:00 GMT",
-        "first_seen": "2026-03-15T08:42:58.555801"
-      },
-      "e5d4317858415d8e24838cb5fab743aae1e945bf006963bce253870d2d8b343d": {
-        "title": "春山爽居 花海畅游｜贵州“上春山”：在右二村邂逅一..",
-        "link": "http://baijiahao.baidu.com/s?id=1859615780400276424",
-        "published_date": "Sun, 15 Mar 2026 08:42:00 GMT",
-        "first_seen": "2026-03-15T08:42:58.555959"
-      },
       "5f8ae26c8b54e68d802c0e83a773c4917c0d208061b0f144fa82a72c68f34888": {
         "title": "「深圳特区报」21市248场比赛燃动全年，“粤BA..",
         "link": "http://baijiahao.baidu.com/s?id=1859770371952635152",
@@ -14249,13 +14231,79 @@
         "link": "http://baijiahao.baidu.com/s?id=1862422969627900118",
         "published_date": "Tue, 14 Apr 2026 06:56:00 GMT",
         "first_seen": "2026-04-14T06:56:18.337136"
+      },
+      "fbbd2817158b89b630e2052b3f21e4baa8d608cd9532d3de8576b2bf63b4378b": {
+        "title": "探徐汇｜“钻石楼梯”、花园住宅、梧桐庭院……漫步4..",
+        "link": "http://baijiahao.baidu.com/s?id=1862416981066902224",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.801117"
+      },
+      "6c3b1c06ad49503e1a6d492e6f1fbf47f47f9149bc21b873d88bba566c467f8d": {
+        "title": "在“最速赛道”释放明星效应｜2026多彩贵州马拉松..",
+        "link": "http://baijiahao.baidu.com/s?id=1862346815772061051",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.801147"
+      },
+      "550862807c668a42a28d281b25ec11ce85b36398cfe72cbd3969d24a336df638": {
+        "title": "湘粤双冠聚道县 草根绿茵燃激情——2026道县农商..",
+        "link": "http://baijiahao.baidu.com/s?id=1862412427687488207",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.801161"
+      },
+      "8b0db9e92c9bc9097520e2dd74189970b23ee064b19a7c95274f41c9c371e09c": {
+        "title": "福建上杭探索“共富林场”新模式 多方参与如何共赢？..",
+        "link": "http://baijiahao.baidu.com/s?id=1862412781275576767",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.801175"
+      },
+      "197eeca0b6f1df713634d0413a77bce55f9a825d83fc3db1f98f9d59894726d0": {
+        "title": "很少有人再特地去躺！徐汇西岸打工人草坪、世博文化公..",
+        "link": "http://baijiahao.baidu.com/s?id=1862423405583736431",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.801186"
+      },
+      "e50f465fe369885ca4d21369312d74565bccf77c2d020bb28c43dde6d8e2009e": {
+        "title": "我在徐汇修房子：不止建筑美学，武康大楼里有着百年砖..",
+        "link": "http://baijiahao.baidu.com/s?id=1862320738843345886",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.801196"
+      },
+      "ea6246def989dce6866b4e4465330d92bb8f2a516901fd5d6f85954016f881e7": {
+        "title": "看见古村｜贵州尧上古寨：古村新姿，山水人文载乡愁",
+        "link": "http://baijiahao.baidu.com/s?id=1862365597296940431",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.801208"
+      },
+      "f50a979acda2dfa6014766bee85d80a39812373019ba2ad337b6e93abb46ecc9": {
+        "title": "客流、成交额翻倍！花卉节还没开始，这条小马路已经“..",
+        "link": "http://baijiahao.baidu.com/s?id=1862426423809508317",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.801219"
+      },
+      "70527704a6a8cfe92a5aaaf0f3a237fcc0eb3717d0cf788f2e7e86e2c7e283c9": {
+        "title": "“歪果仁”的贵州Vlog①｜乌克兰姑娘卡丽娜：走过..",
+        "link": "http://baijiahao.baidu.com/s?id=1862343011498532536",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.801231"
+      },
+      "24150aae8a2bcf2496ba22e5258509f96b449b812e8221b1b08bbd7849343cc7": {
+        "title": "老莫称没收温氏送的鸡，最爱吃鸡的地区对品种有多少讲..",
+        "link": "http://baijiahao.baidu.com/s?id=1862416593958121275",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:23.801242"
+      },
+      "d596cc4bdf5fea83cdbf804a8308d7a76a97b61480876300560846e139253c02": {
+        "title": "魔都潮人必逛！黄浦潮牌店打卡攻略：限量球鞋、明星墨..",
+        "link": "http://baijiahao.baidu.com/s?id=1862403757905767635",
+        "published_date": "Tue, 14 Apr 2026 09:26:00 GMT",
+        "first_seen": "2026-04-14T09:26:14.508853"
       }
     }
   },
   "last_update": {
-    "AI": "2026-04-14T06:56:18.325336",
-    "Technology": "2026-04-14T06:56:27.734203",
-    "Finance": "2026-04-14T06:56:18.196246",
-    "Education": "2026-04-14T06:56:18.344090"
+    "AI": "2026-04-14T09:26:14.493562",
+    "Technology": "2026-04-14T09:26:23.880183",
+    "Finance": "2026-04-14T09:26:14.378239",
+    "Education": "2026-04-14T09:26:23.817594"
   }
 }
