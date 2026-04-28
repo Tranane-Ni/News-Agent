@@ -1,30 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "64e0353990f343d85c91728665e67a61f93013450dbe33d5d4dfed1b9325d2d1": {
-        "title": "Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛",
-        "link": "https://www.qbitai.com/2026/03/393186.html",
-        "published_date": "Sun, 29 Mar 2026 16:17:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.538164"
-      },
-      "228abe9323b72a2212acbded349fe03efb8c9b100df743b98ef43f6bcd7a52d4": {
-        "title": "打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级",
-        "link": "https://www.qbitai.com/2026/03/393164.html",
-        "published_date": "Sun, 29 Mar 2026 16:11:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.538297"
-      },
-      "494533fde2b5d5e7cdc4acef7e5201123ba219f420a75bfad5aed9cc303d4653": {
-        "title": "Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖",
-        "link": "https://www.qbitai.com/2026/03/393125.html",
-        "published_date": "Sun, 29 Mar 2026 16:08:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.538476"
-      },
-      "a7eb4497e0330fff9ff19f8cb2d7640bfadd13c23b84724a4b506e787456ae0e": {
-        "title": "何同学会玩：让龙虾自己3D打印自己",
-        "link": "https://www.qbitai.com/2026/03/393085.html",
-        "published_date": "Sun, 29 Mar 2026 15:21:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.538639"
-      },
       "ade78434ff4315fb6035e4e0871e2a36465dc6f2326ee84ed602eb5679ea2893": {
         "title": "Nature Index特刊聚焦天立国际：系统呈现中国教育AGI实践探索",
         "link": "https://www.qbitai.com/2026/03/393336.html",
@@ -1500,33 +1476,27 @@
         "link": "https://www.qbitai.com/2026/04/410314.html",
         "published_date": "Tue, 28 Apr 2026 08:31:00 GMT",
         "first_seen": "2026-04-28T10:21:38.433582"
+      },
+      "88f780adc17fd80fd6e332a76e8e9df64251c6cc6a09a4327169d69a2c58c88b": {
+        "title": "消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告",
+        "link": "https://www.qbitai.com/2026/04/410506.html",
+        "published_date": "Tue, 28 Apr 2026 14:50:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.031210"
+      },
+      "8a28009a9a92e2d139ce3973f82a4f2b6c80df0b86276f43c1e09dc7ef14cdc1": {
+        "title": "我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了",
+        "link": "https://www.qbitai.com/2026/04/410463.html",
+        "published_date": "Tue, 28 Apr 2026 11:15:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.031395"
+      },
+      "bd5667b607911970e6f096088cb8a1eedeb13aad7214769f50b5a52d0b07b63f": {
+        "title": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用",
+        "link": "https://www.qbitai.com/2026/04/410450.html",
+        "published_date": "Tue, 28 Apr 2026 10:29:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.031555"
       }
     },
     "Technology": {
-      "04889c26e053ad9fb02a4c4fc4c5fd4d8f8aba9b7050bbf2b6e77010261573d8": {
-        "title": "【钛晨报】北京启动L2至L4级智能网联新能源汽车商业保险开发应用；中东两大铝厂遇袭，恐影响全球供应链；全国猪价跌破5元，创历史新低",
-        "link": "https://www.tmtpost.com/7933771.html",
-        "published_date": "Mon, 30 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.346676"
-      },
-      "5f024d0af9ecaf4636d9221909c96cf97f7f5241aff9d73e190d2696b5e8d079": {
-        "title": "从电价优势到低成本词元（Token）出海的叙事路径成立吗？",
-        "link": "https://www.tmtpost.com/7933712.html",
-        "published_date": "Sun, 29 Mar 2026 19:06:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.346852"
-      },
-      "40f093d18f9bc80138f2ced4da7572b0c56b58152f9c3528f3f17d0ac513ae74": {
-        "title": "当王兴说“进攻AI”时，美团在防守什么？",
-        "link": "https://www.tmtpost.com/7933275.html",
-        "published_date": "Sun, 29 Mar 2026 17:53:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.347059"
-      },
-      "7ff20de901248639baef4f4a612f044ad5c173ff88ebb0bf5186b715e647bdd5": {
-        "title": "自制电子墨水屏，以及我用它来干了什么？",
-        "link": "https://sspai.com/post/105990",
-        "published_date": "Sun, 29 Mar 2026 17:38:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.347255"
-      },
       "c5363508fd7eb6574288ac7e27986f58d353d79219d56d030e00139a83b696ee": {
         "title": "人手一个\"龙虾\"的时代，谁来管住失控的AI？",
         "link": "https://www.tmtpost.com/7934187.html",
@@ -10802,40 +10772,70 @@
         "link": "http://www.geekpark.net/news/363371",
         "published_date": "Tue, 28 Apr 2026 08:16:00 GMT",
         "first_seen": "2026-04-28T10:21:28.946654"
+      },
+      "c659c11875f51cfc2fd007c490d8d1c54a213e2216367acd5d05b242d3c82e90": {
+        "title": "【钛晨报】中共中央政治局召开会议，分析研究当前经济形势和经济工作；中国自2026年5月1日起对所有非洲建交国实施零关税；阿联酋决定自5月1日起退出OPEC和OPEC+",
+        "link": "https://www.tmtpost.com/7971170.html",
+        "published_date": "Wed, 29 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.182050"
+      },
+      "a9158ee321e6d88572f71c53accdddaa208d333abb322db06464ef4be263c31f": {
+        "title": "透过财报看古井贡酒韧性：主动谋变，穿越周期",
+        "link": "https://www.tmtpost.com/7971166.html",
+        "published_date": "Tue, 28 Apr 2026 21:55:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.182213"
+      },
+      "5da277293f3d00e120872c1c411d8987111f79fc1de8570245c12b15569e9c44": {
+        "title": "自动驾驶重卡的“iPhone时刻”来了",
+        "link": "https://www.tmtpost.com/7970665.html",
+        "published_date": "Tue, 28 Apr 2026 20:50:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.182383"
+      },
+      "46fe5de121141b64fefd3a74fd4d5f29e789a304ef6a8d10baa0fd05fafb792b": {
+        "title": "大模型的“保质期”比牛奶还短",
+        "link": "https://www.tmtpost.com/7970694.html",
+        "published_date": "Tue, 28 Apr 2026 18:53:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.182534"
+      },
+      "3376a8509dd571222c7250d046f161413f7ccd01e884443bce69f4d00f01521b": {
+        "title": "关于英伟达 L4 和物理 AI，吴新宙回应一切",
+        "link": "https://www.tmtpost.com/7970417.html",
+        "published_date": "Tue, 28 Apr 2026 18:52:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.182751"
+      },
+      "1e259b1639784236c47183f82a8516b745885b7e06b16306f830d21476152dfb": {
+        "title": "长盛轴承，等待下一个“宇树时刻”",
+        "link": "https://www.tmtpost.com/7970666.html",
+        "published_date": "Tue, 28 Apr 2026 18:52:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.182964"
+      },
+      "2ba75f4a06c1fa504dfc5ad3677bc8426d17476c744da5524d201ab5777e7297": {
+        "title": "卖了九年“算法”，营收还在3亿线：零点有数能被AI救赎吗？",
+        "link": "https://www.tmtpost.com/7970644.html",
+        "published_date": "Tue, 28 Apr 2026 18:38:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.183285"
+      },
+      "f1fe69ad857178f1df7ac4e4d93ddabc4ca9eb6c3bcd80c29d701b515f342f1b": {
+        "title": "2026年，资本正“沿着产业集群”给AI公司定价",
+        "link": "https://www.tmtpost.com/7970692.html",
+        "published_date": "Tue, 28 Apr 2026 18:38:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.183644"
+      },
+      "3308791c0297a930adb52d3361973ffccea4cc8124ab026dc5f653ac333530b5": {
+        "title": "汽车的「OpenClaw 时刻」，到了？",
+        "link": "http://www.geekpark.net/news/363403",
+        "published_date": "Tue, 28 Apr 2026 19:26:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.184002"
+      },
+      "e27e6ea71802805ab213e528c32b57be9965a9dc0867643fd24969b07faaa311": {
+        "title": "住久了没意思（二）：从有光的地方开始动手",
+        "link": "https://sspai.com/prime/story/how-to-renovate-a-rental-balcony",
+        "published_date": "Tue, 28 Apr 2026 17:50:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.184381"
       }
     },
     "Finance": {},
     "Education": {
-      "1e843d6030b2a0e6812f356cce4da6208be7fe12e9f5e688f4ff5d7d1c3e794c": {
-        "title": "古镇+非遗+康养！2026旅博会“古镇非遗新体验特..",
-        "link": "http://baijiahao.baidu.com/s?id=1860997666221837844",
-        "published_date": "Sun, 29 Mar 2026 23:39:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.379484"
-      },
-      "50fc915211a9907605a76eb2a949effa45261b1ae8289bdff3310f24675146da": {
-        "title": "当“驭春风”和“首发上海”相遇，一场“东方美学”与..",
-        "link": "http://baijiahao.baidu.com/s?id=1860989047131344687",
-        "published_date": "Sun, 29 Mar 2026 23:39:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.379631"
-      },
-      "f51bd5db6a9df4175aa022026db8f101ff68d81d58f44952a00c4dc5c535d610": {
-        "title": "从“双重优势驱动”到“文旅蝶变进阶”——贵州文旅“..",
-        "link": "http://baijiahao.baidu.com/s?id=1861003424133479348",
-        "published_date": "Sun, 29 Mar 2026 23:39:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.379837"
-      },
-      "2ab7e8894784404bbe56cf833772b75de8da6acb32ca4e96ebfeb4d1ecab0465": {
-        "title": "天津“117项目”进入塔冠施工阶段",
-        "link": "http://baijiahao.baidu.com/s?id=1860910088103115450",
-        "published_date": "Sun, 29 Mar 2026 23:39:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.380098"
-      },
-      "ba8264c045d3f12bcea8bb3bb5212f7487fbbd5f5f8baa0430dde8406221aca2": {
-        "title": "春色（507）｜上游主题摄影征稿作品展——赵军作品",
-        "link": "http://baijiahao.baidu.com/s?id=1860991720066214562",
-        "published_date": "Sun, 29 Mar 2026 23:39:00 GMT",
-        "first_seen": "2026-03-29T23:39:49.380453"
-      },
       "a1f48154a8324fe6d045901e18a5b5f22b1a2041d884162efd257c227a0395e8": {
         "title": "「跟着贵旅游贵州」全球鲜货“游”进贵州！这家餐厅打..",
         "link": "http://baijiahao.baidu.com/s?id=1861056396401396426",
@@ -14027,13 +14027,61 @@
         "link": "http://baijiahao.baidu.com/s?id=1863678463678697188",
         "published_date": "Tue, 28 Apr 2026 10:21:00 GMT",
         "first_seen": "2026-04-28T10:21:38.453652"
+      },
+      "1ef38f1147fee9caea27f11ae69f13344216fbffb8969eed7f70b7c19167142c": {
+        "title": "喜马拉雅携手上海航空打造“出行听喜马”主题航班，近..",
+        "link": "http://baijiahao.baidu.com/s?id=1863699196697436754",
+        "published_date": "Tue, 28 Apr 2026 23:59:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.115259"
+      },
+      "19cf079be335adf84419f8dc701525ceaf0fe9217825781e329ce959a4e79474": {
+        "title": "春山爽居 花海畅游｜走进多彩贵州城 一张“入黔第一..",
+        "link": "http://baijiahao.baidu.com/s?id=1863707121569040876",
+        "published_date": "Tue, 28 Apr 2026 23:59:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.115404"
+      },
+      "699f5f6dac994f783aabbb5440740d0e914ec6ea615cbb8f124306ae9eb3035f": {
+        "title": "“五一”去哪玩｜来秦汉影视城，沉浸式当一回“明星”..",
+        "link": "http://baijiahao.baidu.com/s?id=1863729804611235264",
+        "published_date": "Tue, 28 Apr 2026 23:59:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.115583"
+      },
+      "a676aaced49f79c62c1bf27d44945ee81430aa3bae3f3ceb7dcb1fde06abae42": {
+        "title": "德国过山车爱好者跨洋重庆打卡 直呼“惊喜满满”",
+        "link": "http://baijiahao.baidu.com/s?id=1863706453673450717",
+        "published_date": "Tue, 28 Apr 2026 23:59:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.115762"
+      },
+      "5dc9bec890e92479374e3fab3b022e4cbf1261fdfd6d7674b5cfa9f599b59989": {
+        "title": "黄晓明带爸妈上海旅游也得拍游客照，分享让时间变长的..",
+        "link": "http://baijiahao.baidu.com/s?id=1863701733100723137",
+        "published_date": "Tue, 28 Apr 2026 23:59:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.115958"
+      },
+      "940edb5391e91e5656fa19b9dfefddccf74de54525b51ecccb162ea22516dc16": {
+        "title": "理响中国·幸福有“理”丨行走数智八闽 见证真理力量",
+        "link": "http://baijiahao.baidu.com/s?id=1863724297907838981",
+        "published_date": "Tue, 28 Apr 2026 23:59:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.116272"
+      },
+      "a0335627f448489c95cb2526ce487461ebca7ade283eff4a047fc436a8bcfdd4": {
+        "title": "46次“点名”！广东“十五五”蓝图里，广州要扛起什..",
+        "link": "http://baijiahao.baidu.com/s?id=1863721189177777130",
+        "published_date": "Tue, 28 Apr 2026 23:59:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.116630"
+      },
+      "f8255da54d2ec59ee47cb790e6d938280a31586047c2ab41510616bfa46981d9": {
+        "title": "「入成渝·见村头」一条专线，两城同车",
+        "link": "http://baijiahao.baidu.com/s?id=1863415630527559122",
+        "published_date": "Tue, 28 Apr 2026 23:59:00 GMT",
+        "first_seen": "2026-04-28T23:59:38.116942"
       }
     }
   },
   "last_update": {
-    "AI": "2026-04-28T10:21:38.440696",
-    "Technology": "2026-04-28T10:21:38.275530",
-    "Finance": "2026-04-28T10:21:38.294950",
-    "Education": "2026-04-28T10:21:38.460811"
+    "AI": "2026-04-28T23:59:38.066219",
+    "Technology": "2026-04-28T23:59:38.192176",
+    "Finance": "2026-04-28T23:59:37.918421",
+    "Education": "2026-04-28T23:59:38.124097"
   }
 }
