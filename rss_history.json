@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "6ef92886ba8e5b4c292317a2e27a450bf359b30c51cf9c71576ac8c3df954436": {
-        "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
-        "link": "https://www.qbitai.com/2026/04/396535.html",
-        "published_date": "Sun, 05 Apr 2026 09:06:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.693145"
-      },
       "6495f00bf8b34ed638d712c0a3a7b0514556c22847dc223e700320d9835545e9": {
         "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR’26",
         "link": "https://www.qbitai.com/2026/04/396738.html",
@@ -1359,24 +1353,6 @@
       }
     },
     "Technology": {
-      "ecf04e3b52df5b2176fa6f9b730435a478c4c5ace4fb33c2bca239348012647d": {
-        "title": "ESLint v10 发布，但有开发者已经在考虑换 Biome 了",
-        "link": "https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Apr 2026 21:52:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.498016"
-      },
-      "62a2eaf2cdee96c1231c53dd93be6f29de2a2d0b426780a05ae448eb9d490556": {
-        "title": "Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排",
-        "link": "https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Apr 2026 21:49:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.498247"
-      },
-      "b61475597224d16197217db99b50f517e4a70149d4445d1bbd94c9a0ef0d149c": {
-        "title": "愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护",
-        "link": "https://sspai.com/post/69901",
-        "published_date": "Sun, 05 Apr 2026 16:41:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.498460"
-      },
       "dc918d60295ffc61fd10ad38e243b94be8c58394b8d1f8043bc9a8b05ff23a00": {
         "title": "AI 时代的架构治理",
         "link": "https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&utm_medium=article",
@@ -10118,70 +10094,34 @@
         "link": "https://www.tmtpost.com/7976461.html",
         "published_date": "Tue, 05 May 2026 09:48:00 GMT",
         "first_seen": "2026-05-05T10:08:41.189831"
+      },
+      "b9ce65801a2518b6b0cc1122ebe8a8e97ea2051368d15bee1bd2ca816a13b2a4": {
+        "title": "【钛晨报】2025年全市场上市公司实现营收73.01万亿元，同比增长1.2%；伯克希尔哈撒韦一季度净利润增至101.06亿美元；主要产油国宣布6月增产",
+        "link": "https://www.tmtpost.com/7974508.html",
+        "published_date": "Wed, 06 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-05T23:55:04.533352"
+      },
+      "2f1ee6eb7bf28512f8da9088418d54f3caf9e542cb698358cede0e5b08ec7339": {
+        "title": "剂泰科技IPO：115亿港元押在首付款之后的持续性上",
+        "link": "https://www.tmtpost.com/7976832.html",
+        "published_date": "Tue, 05 May 2026 21:10:00 GMT",
+        "first_seen": "2026-05-05T23:55:04.533565"
+      },
+      "1f2ec7554019332fa52e4a165dc843d03352e6482f6b822b37978e1055f2be4a": {
+        "title": "百万上下文之后，拼什么？",
+        "link": "https://www.tmtpost.com/7976839.html",
+        "published_date": "Tue, 05 May 2026 21:10:00 GMT",
+        "first_seen": "2026-05-05T23:55:04.533711"
+      },
+      "044e620ae5d9e64bf3a9a602081c226d80efe30627ddc147e1d65408be41ee04": {
+        "title": "豆包也要「付费订阅」了，最高500元/月；宇树机器人在美买票坐飞机，电池被没收；「AI 面试」火爆，但 40% 求职者放弃面试｜极客早知道",
+        "link": "http://www.geekpark.net/news/363702",
+        "published_date": "Wed, 06 May 2026 05:29:00 GMT",
+        "first_seen": "2026-05-05T23:55:04.534034"
       }
     },
     "Finance": {},
     "Education": {
-      "52879c213e995526ece89bad7df4f4f51b1912ef73c01bdd23932143f95c3ac8": {
-        "title": "红色血脉生生不息、代代相传 红色文旅在新时代焕发蓬..",
-        "link": "http://baijiahao.baidu.com/s?id=1861631689266591883",
-        "published_date": "Sun, 05 Apr 2026 23:40:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.530042"
-      },
-      "22ec6a4f9ff8f9c2a216dd70d3154ab28c5969348fd8f6b745fb1af5408d6be6": {
-        "title": "广东东莞一加油站开业请4名礼仪穿紧身短裙助阵，当地..",
-        "link": "http://baijiahao.baidu.com/s?id=1861662959546566014",
-        "published_date": "Sun, 05 Apr 2026 23:40:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.530148"
-      },
-      "e7ae8a45ef70d3c57379f3894ff73fbe44617f0d9e3160eec6b9a3a7b0c1090d": {
-        "title": "贵州务川举行第十八届仡佬族祭天朝祖祭祀大典",
-        "link": "http://baijiahao.baidu.com/s?id=1861615990915710187",
-        "published_date": "Sun, 05 Apr 2026 23:40:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.530255"
-      },
-      "81f8d6fcd7b8b1ff66857ab8ea1d5d113b6c99b6081a73f3d340c7a654f018f6": {
-        "title": "广货行天下：“双飞地”链接肉牛产业链 粤吉共创“第..",
-        "link": "http://baijiahao.baidu.com/s?id=1861530680613609950",
-        "published_date": "Sun, 05 Apr 2026 23:40:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.530458"
-      },
-      "5bd31d80e8affed1e8e3a701274d746f122ab5b8c215d43d2fb86058e57a7839": {
-        "title": "你好，“新朋友”！福建首次记录到它",
-        "link": "http://baijiahao.baidu.com/s?id=1861675068875051664",
-        "published_date": "Sun, 05 Apr 2026 23:40:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.530644"
-      },
-      "bada679e13673c6d52415bfb3da25c1ca231573f93878bcee36596f57fef51bb": {
-        "title": "《撷英云南》第三集——爨体奇缘 墨香越千年",
-        "link": "http://baijiahao.baidu.com/s?id=1860653152785490644",
-        "published_date": "Sun, 05 Apr 2026 23:40:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.530898"
-      },
-      "28458068ffff1abe7b6633eab0b7086c0567f511c14e2b29b42c7752846f8045": {
-        "title": "福建这两位“陈祥榕”，跨越近百年，以生命写尽忠诚",
-        "link": "http://baijiahao.baidu.com/s?id=1861638010802587451",
-        "published_date": "Sun, 05 Apr 2026 23:40:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.531198"
-      },
-      "280f2aa0f72134a06f930d9da1d60a5044c5af3482f268e8642f292c8bc32f6b": {
-        "title": "重庆涪陵：以春日美食为载体 激发文旅消费活力",
-        "link": "http://baijiahao.baidu.com/s?id=1861598687901345713",
-        "published_date": "Sun, 05 Apr 2026 23:40:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.531527"
-      },
-      "c41ca6416a10f5ffcfb8e7d283e53218e85386769963943b0a8e36ca877fe6e6": {
-        "title": "来者勿忘！上海这76个地方，藏着永不褪色的红色记忆",
-        "link": "http://baijiahao.baidu.com/s?id=1861504551975402520",
-        "published_date": "Sun, 05 Apr 2026 23:40:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.531923"
-      },
-      "1ca0d72785c480eb5c8754a031204eb06db39579a00c33e9fe5a08656903ad80": {
-        "title": "北上深3月二手房成交量全部创下新高，专家预测五一窗..",
-        "link": "http://baijiahao.baidu.com/s?id=1861407585887112649",
-        "published_date": "Sun, 05 Apr 2026 23:40:00 GMT",
-        "first_seen": "2026-04-05T23:40:50.532297"
-      },
       "d9b4317c64a03886843166c91825a92d0d55edf3c796a8e5c82456ff9c0b1d82": {
         "title": "香港青年上海崇明行：看生态蝶变 话低空未来",
         "link": "http://baijiahao.baidu.com/s?id=1861508784561805035",
@@ -13233,9 +13173,9 @@
     }
   },
   "last_update": {
-    "AI": "2026-05-05T10:08:41.119732",
-    "Technology": "2026-05-05T10:08:41.210739",
-    "Finance": "2026-05-05T10:08:40.978444",
-    "Education": "2026-05-05T10:08:41.136900"
+    "AI": "2026-05-05T23:55:04.455486",
+    "Technology": "2026-05-05T23:55:04.567078",
+    "Finance": "2026-05-05T23:55:04.307217",
+    "Education": "2026-05-05T23:55:04.473350"
   }
 }
