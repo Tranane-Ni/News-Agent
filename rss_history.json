@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "80e013181c3c9eb18cf12f11f10014ce8200533dc5ab239068501f2d307835cf": {
-        "title": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
-        "link": "https://www.qbitai.com/2026/04/401484.html",
-        "published_date": "Wed, 15 Apr 2026 07:59:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.536371"
-      },
-      "6ed0732d8a17aeb0e5c38dfa7ad1fc8da99f1ff5c90ea369d97a8c9e25d282a7": {
-        "title": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
-        "link": "https://www.qbitai.com/2026/04/401479.html",
-        "published_date": "Wed, 15 Apr 2026 07:42:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.536578"
-      },
       "c0a3592706baac012dfb4bbb74b4bd68d60f43806e90f314755b755d110a8e36": {
         "title": "全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元",
         "link": "https://www.qbitai.com/2026/04/401512.html",
@@ -1332,87 +1320,15 @@
         "link": "https://www.qbitai.com/2026/05/417935.html",
         "published_date": "Fri, 15 May 2026 02:21:00 GMT",
         "first_seen": "2026-05-15T08:16:04.833458"
+      },
+      "c918d59bef3663a0b1e7c2c2a355e23ca050f6d68b211c85bdda6ad58598ce27": {
+        "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
+        "link": "https://www.qbitai.com/2026/05/418035.html",
+        "published_date": "Fri, 15 May 2026 09:55:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.854616"
       }
     },
     "Technology": {
-      "003ce63a2607ad9be7d6bff5477d0ac1d545c88836f95575c8fc552ab5e8e944": {
-        "title": "网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”",
-        "link": "https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Apr 2026 16:56:00 GMT",
-        "first_seen": "2026-04-15T09:27:36.976601"
-      },
-      "82d6f59af3b15cf386f679ce732ba966e90068fef3d494e252e63f9f36cf3e40": {
-        "title": "深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密",
-        "link": "https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Apr 2026 16:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:36.976632"
-      },
-      "edb3e345ed911e279d66adf9893c5cca4d86566e0ddf9c3bc9c057e35c5db45e": {
-        "title": "智元联合北大、智源实现人形机器人自主打乒乓",
-        "link": "https://www.infoq.cn/article/tdHRjhHFIPYA3X7c0ji1?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Apr 2026 15:44:00 GMT",
-        "first_seen": "2026-04-15T09:27:36.976646"
-      },
-      "587d8995944a027af6f3f7cd0764df22aafe3fc45293c1d1e91f28ffc4f059de": {
-        "title": "胰腺癌治疗的历史性一夜",
-        "link": "https://www.tmtpost.com/7953756.html",
-        "published_date": "Wed, 15 Apr 2026 15:57:00 GMT",
-        "first_seen": "2026-04-15T09:27:36.976657"
-      },
-      "b879dadd852b5d795a311c087be87241ba037e087c78eaa9cfb839f276cc0b11": {
-        "title": "哈尔斯：产能爬坡期利润创五年新低，欲在出海与内卷中突围 | 看财报",
-        "link": "https://www.tmtpost.com/7954137.html",
-        "published_date": "Wed, 15 Apr 2026 15:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:36.976671"
-      },
-      "fad66e71baa95769b30b29642c19152baa3f8e3f2002048830f25f1b94e8b7fe": {
-        "title": "Digital Quant 2026 联合 HSC 数字资产管理峰会4月落地香港，渣打、贝莱德、安永等共话行业未来",
-        "link": "https://www.tmtpost.com/7954117.html",
-        "published_date": "Wed, 15 Apr 2026 15:09:00 GMT",
-        "first_seen": "2026-04-15T09:27:36.976686"
-      },
-      "1f01b398344348c9f9f0ea897c81cf40950d530159cbd1204b4fca0f40aed17b": {
-        "title": "晶盛机电：白马之困",
-        "link": "https://www.tmtpost.com/7953321.html",
-        "published_date": "Wed, 15 Apr 2026 15:08:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.662044"
-      },
-      "48082f4fa8326e4f698d129ee3c2e895f1014536ee5d73af426c68d433374f2c": {
-        "title": "梦龙，被一双舞鞋绊倒",
-        "link": "https://www.tmtpost.com/7953650.html",
-        "published_date": "Wed, 15 Apr 2026 15:08:00 GMT",
-        "first_seen": "2026-04-15T09:27:36.976697"
-      },
-      "7afdd4f27eec6f6885771779c19ba69ce387634375c839658744bdee3423859f": {
-        "title": "赛博脑白金，能治好AI的失忆症吗？",
-        "link": "https://www.tmtpost.com/7953913.html",
-        "published_date": "Wed, 15 Apr 2026 15:08:00 GMT",
-        "first_seen": "2026-04-15T09:27:36.976707"
-      },
-      "d5eb085a45181b5e342e2a923630855a42514f63d9a4f35996fe08e8f249adcf": {
-        "title": "菲林格尔虚增收入被坐实，营收逼近“退市线”：如何提前识别报表粉饰与保壳动机？",
-        "link": "https://www.tmtpost.com/7954020.html",
-        "published_date": "Wed, 15 Apr 2026 13:06:00 GMT",
-        "first_seen": "2026-04-15T09:27:36.976719"
-      },
-      "b6393f5bd7e5b9034b5572bed92f1c258f575167bc1a35c5fd851a2ecc431f35": {
-        "title": "上市公司TOP5济安评估 （4月6日至4月12日）｜上市公司观察",
-        "link": "https://www.tmtpost.com/7954015.html",
-        "published_date": "Wed, 15 Apr 2026 13:03:00 GMT",
-        "first_seen": "2026-04-15T09:27:36.976730"
-      },
-      "9402a7d1d0dcebf911739d3f1a2c5a4cede685387b3b2547db39baa54279b131": {
-        "title": "价值判断：跌停板的投资机会和风险提示（4月14日）｜济安学派",
-        "link": "https://www.tmtpost.com/7954008.html",
-        "published_date": "Wed, 15 Apr 2026 13:03:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.664257"
-      },
-      "85dcf0a59ff5b4d612799fe91350b6cda08b325f3e4697f44b96b073e8969045": {
-        "title": "一日一技｜Liquid Glass 液态变磨砂",
-        "link": "https://sspai.com/post/108656",
-        "published_date": "Wed, 15 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.665517"
-      },
       "61520bad21ca7828b12986ef6dddd97ad5b9159f6f2f9d99c699aac40ce5c2e8": {
         "title": "【钛晨报】深化投资审批制度改革，国办最新部署；Anthropic据悉收到新一轮融资报价，估值达8000亿美元；工信部：加快打造“创新医药”，合力支持创新药早日生产、早日上市、早日进医院",
         "link": "https://www.tmtpost.com/7954584.html",
@@ -10586,70 +10502,130 @@
         "link": "http://www.geekpark.net/news/364185",
         "published_date": "Fri, 15 May 2026 08:35:00 GMT",
         "first_seen": "2026-05-15T08:16:04.984964"
+      },
+      "4a08152f4938fc50566a2b10bc7db97734b64b02bbb871980bde59f84746f8d9": {
+        "title": "为什么库克、雷军，都想找马斯克合影？",
+        "link": "https://www.tmtpost.com/7988980.html",
+        "published_date": "Fri, 15 May 2026 18:21:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.698236"
+      },
+      "75a5de2acd497c67630116f511e7565bd196f55b7eb54a374238a3f186c5cf9a": {
+        "title": "被礼来反超后，诺和诺德牵手OpenAI",
+        "link": "https://www.tmtpost.com/7989694.html",
+        "published_date": "Fri, 15 May 2026 18:15:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.698247"
+      },
+      "aec73641b92e646deb1c71113ee4305b50f2fc5adfb8d2e44c8ba6f91e6dd802": {
+        "title": "去中国化？还是去中国吧！",
+        "link": "https://www.tmtpost.com/7989710.html",
+        "published_date": "Fri, 15 May 2026 18:15:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.698257"
+      },
+      "25827ce64d69f2a8d6cdfc9d8b4fe0985136ee468efae9ad852623724e553480": {
+        "title": "一心卖车的蔚来，终于被看懂了",
+        "link": "https://www.tmtpost.com/7989657.html",
+        "published_date": "Fri, 15 May 2026 17:26:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.698266"
+      },
+      "b4e7cdf41d7db5a3159581ea4925d6ed16c01479233bf6e6b8f4969d0e907b26": {
+        "title": "OpenAI Codex进入手机，国产“龙虾”们该醒醒了",
+        "link": "https://www.tmtpost.com/7989325.html",
+        "published_date": "Fri, 15 May 2026 17:25:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.698277"
+      },
+      "8e6a468393f8affacb21031f4265a534d6668cffdd730bc7e06dd3bc5dd7d5a4": {
+        "title": "FOMO 2026 ：全球创新药大变局，看懂的人还不多",
+        "link": "https://www.tmtpost.com/7989359.html",
+        "published_date": "Fri, 15 May 2026 17:25:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.698182"
+      },
+      "202b5c4fc8ba6abf603ee761a74a710117c6d2a4977777f76953e3062b9e7eec": {
+        "title": "20万的碳酸锂：起点还是终点？下游容忍线在哪？",
+        "link": "https://www.tmtpost.com/7988704.html",
+        "published_date": "Fri, 15 May 2026 17:05:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.698287"
+      },
+      "5325de145357f61b94698ebdc910e9d101a798a8059316093485ae283bfa79fa": {
+        "title": "1032亿！中国创新药又干了一票大的",
+        "link": "https://www.tmtpost.com/7989209.html",
+        "published_date": "Fri, 15 May 2026 17:05:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.698211"
+      },
+      "690c1e0610454ee28b0e2402246c286670d05644175c479c9ceb2956bd14160d": {
+        "title": "老年大学里的“银发攀比”，老了也要内卷",
+        "link": "https://www.tmtpost.com/7989248.html",
+        "published_date": "Fri, 15 May 2026 17:05:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.698296"
+      },
+      "8da502352994450d9b1eb8cb8620c6dad2c858aa7597389d5f9b788cf7e9dce9": {
+        "title": "宗主国：Anthropic",
+        "link": "https://www.tmtpost.com/7989250.html",
+        "published_date": "Fri, 15 May 2026 17:05:00 GMT",
+        "first_seen": "2026-05-15T10:31:38.320497"
+      },
+      "448cd9e1fe4517e0f60f36e64f172b1f09a758b6cb97c869e0725933d11465eb": {
+        "title": "5个月9个IPO，雷军投出4000亿",
+        "link": "https://www.tmtpost.com/7989251.html",
+        "published_date": "Fri, 15 May 2026 17:05:00 GMT",
+        "first_seen": "2026-05-15T10:31:38.320858"
+      },
+      "3841ded6fb57bb217e07dc34ebbe4ebc2f8b415895e454c24e0687ca5b4fe1a4": {
+        "title": "她曾掌舵OpenAI技术，如今要颠覆OpenAI的规则",
+        "link": "https://www.tmtpost.com/7989252.html",
+        "published_date": "Fri, 15 May 2026 17:05:00 GMT",
+        "first_seen": "2026-05-15T10:31:47.698224"
+      },
+      "eb67bdacc931fe510db12655423af1d2cf16611426bd6c7e090445fa61ebd032": {
+        "title": "前世界首富贝索斯新公司募资说明书首度曝光，估值380亿美元 | 独家",
+        "link": "https://www.tmtpost.com/7989626.html",
+        "published_date": "Fri, 15 May 2026 16:47:00 GMT",
+        "first_seen": "2026-05-15T10:31:38.321934"
+      },
+      "0ed453aa00babb86a152ee785af89dbfba3dc4ddc69394f6b2fbd47bdbf6cf13": {
+        "title": "Agent将计算推向端侧，NAS不再仅是存储丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7989557.html",
+        "published_date": "Fri, 15 May 2026 16:38:00 GMT",
+        "first_seen": "2026-05-15T10:31:38.322592"
+      },
+      "48fd4e658d4e377469b8fdbad700d327e0899bdb5810ca8080624fae1e757146": {
+        "title": "铜价重返“万四时代”：供应断裂与需求转型共振下的再定价",
+        "link": "https://www.tmtpost.com/7988731.html",
+        "published_date": "Fri, 15 May 2026 16:17:00 GMT",
+        "first_seen": "2026-05-15T10:31:38.323273"
+      },
+      "da1cd1181ff71fc7c4d3da6edd053c16c77258a7743cead5c86056ed5875581b": {
+        "title": "豆包收费，悟空走量：AI助手走向分化",
+        "link": "https://www.tmtpost.com/7988052.html",
+        "published_date": "Fri, 15 May 2026 16:17:00 GMT",
+        "first_seen": "2026-05-15T10:31:38.323863"
+      },
+      "da1aa5e6f37f339e2328e367a64681da8f83355a74c08df73bca89076be4d6f0": {
+        "title": "百度想明白了：旧供给到达极限了",
+        "link": "https://www.infoq.cn/article/rDTKqBrlGD5R93NFDOI8?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 15 May 2026 17:45:00 GMT",
+        "first_seen": "2026-05-15T10:31:38.324406"
+      },
+      "705d393e90373f4833536bbc9d83217759d1195f6e7431391a72febe0dc64449": {
+        "title": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+        "link": "https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 15 May 2026 17:42:00 GMT",
+        "first_seen": "2026-05-15T10:31:38.325582"
+      },
+      "ab9fb408f1e65b6f782dfcc9d089a72e5f54a1fea280cdc38048c12e0332e3fa": {
+        "title": "当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
+        "link": "https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 15 May 2026 17:15:00 GMT",
+        "first_seen": "2026-05-15T10:31:38.326670"
+      },
+      "c9d3f731c683575a153167a73accff60edb3165af33470318565aac6e6401852": {
+        "title": "[会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看",
+        "link": "https://sspai.com/post/109816",
+        "published_date": "Fri, 15 May 2026 16:59:00 GMT",
+        "first_seen": "2026-05-15T10:31:38.327758"
       }
     },
     "Finance": {},
     "Education": {
-      "7a8a3b963acb762e3352e80303ed01f7401074996f662f88483b58cf48344e95": {
-        "title": "两头水牛“跨省漫游”40公里，在上海“笃悠悠”逛马..",
-        "link": "http://baijiahao.baidu.com/s?id=1862526373396348796",
-        "published_date": "Wed, 15 Apr 2026 09:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.567991"
-      },
-      "a7d71b5c1c6600e85c38b79d824cc4ec842648e75c716cca6104d25ef42f1973": {
-        "title": "今晨局部有雾，阳光短暂回归！上海将迎23天都市花海..",
-        "link": "http://baijiahao.baidu.com/s?id=1862489337882168662",
-        "published_date": "Wed, 15 Apr 2026 09:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.568130"
-      },
-      "a05f403b60077dc7848b33b1d6ee7771b1049ea964e3b20998d6667c0eb6dd19": {
-        "title": "【海上记忆】曾保护了上海的护城河，如今消失在哪里",
-        "link": "http://baijiahao.baidu.com/s?id=1862142910719225549",
-        "published_date": "Wed, 15 Apr 2026 09:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.568302"
-      },
-      "3beb36e63995c25455df080d27aed8ace08f95ace06478f014df785339d5ab1c": {
-        "title": "牢记嘱托开新局 日新江淮往前赶｜高端汽车玻璃“门对..",
-        "link": "http://baijiahao.baidu.com/s?id=1862436003122130495",
-        "published_date": "Wed, 15 Apr 2026 09:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.568552"
-      },
-      "3ce44c47a287ca36b3ac867d6e29737c2880d463f5a90f69caeeb7e2e7615b5c": {
-        "title": "全国春灌面积已达1.9亿亩；黑河干流春季集中调水水..",
-        "link": "http://baijiahao.baidu.com/s?id=1862430994077951500",
-        "published_date": "Wed, 15 Apr 2026 09:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.568797"
-      },
-      "e65e5ce89172331fb78f9f4c7a96409666305990503020188d7f35ac0608150b": {
-        "title": "“跨越山海 筑业申城” 2026年留学归国人员专场..",
-        "link": "http://baijiahao.baidu.com/s?id=1862443483777434866",
-        "published_date": "Wed, 15 Apr 2026 09:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.569092"
-      },
-      "f7000fb64e8273a77c95e80d54878b005df74b63ac59bac9374cc651fecbd521": {
-        "title": "重庆国际车展6月13日启幕，看自动驾驶车型谁更“聪..",
-        "link": "http://baijiahao.baidu.com/s?id=1862448738260977485",
-        "published_date": "Wed, 15 Apr 2026 09:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.569410"
-      },
-      "3619d0b0dcd34db5bb2b61e1978a2c8e7492e75b445cca0370a32c7b3929576d": {
-        "title": "（乡村行·看振兴）贵州沿河千年古茶树迎来开采季",
-        "link": "http://baijiahao.baidu.com/s?id=1862446468333977194",
-        "published_date": "Wed, 15 Apr 2026 09:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.569823"
-      },
-      "d4d9070853ab3ac963659341ad0298bc785c2bd39b55bcec57e4e2a45e360509": {
-        "title": "广东将运用无人机、AI识别等新技术，继续严查摩电违..",
-        "link": "http://baijiahao.baidu.com/s?id=1862512019528950215",
-        "published_date": "Wed, 15 Apr 2026 09:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.570232"
-      },
-      "5038761b4148280dd87123ab4d13db72daf87b56444bd4868f6a46a5e9b3e77d": {
-        "title": "福州千年古迹里的“太平年”密码",
-        "link": "http://baijiahao.baidu.com/s?id=1862521491747290470",
-        "published_date": "Wed, 15 Apr 2026 09:27:00 GMT",
-        "first_seen": "2026-04-15T09:27:27.570625"
-      },
       "85e41b3875c3deeec5f7073026a4c1f3acb55ed31eea269081f8d4a63314106d": {
         "title": "“跨境串门”成日常 中越文旅合作持续升温",
         "link": "http://baijiahao.baidu.com/s?id=1862530706836022894",
@@ -12795,9 +12771,9 @@
     }
   },
   "last_update": {
-    "AI": "2026-05-15T08:16:04.876009",
-    "Technology": "2026-05-15T08:16:14.252217",
-    "Finance": "2026-05-15T08:16:04.686058",
-    "Education": "2026-05-15T08:16:04.895106"
+    "AI": "2026-05-15T10:31:47.861756",
+    "Technology": "2026-05-15T10:31:47.711643",
+    "Finance": "2026-05-15T10:31:38.252344",
+    "Education": "2026-05-15T10:31:47.880670"
   }
 }
