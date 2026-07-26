@@ -1,6 +1,6 @@
 # 累积新闻汇总报告
 
-**生成时间**: 2026-07-22 10:31
+**生成时间**: 2026-07-26 07:39
 **分类总数**: 4
 
 ---
@@ -22,8 +22,8 @@
 - **累积文件**: [AI_cumulative.md](./AI_cumulative.md)
 
 ### ✅ Technology
-- **新增文章**: 18
-- **重复文章**: 50
+- **新增文章**: 22
+- **重复文章**: 46
 - **订阅源数量**: 6
 - **累积文件**: [Technology_cumulative.md](./Technology_cumulative.md)
 
@@ -34,7 +34,7 @@
 - **累积文件**: [Finance_cumulative.md](./Finance_cumulative.md)
 
 ### ✅ Education
-- **新增文章**: 6
-- **重复文章**: 14
+- **新增文章**: 2
+- **重复文章**: 18
 - **订阅源数量**: 1
 - **累积文件**: [Education_cumulative.md](./Education_cumulative.md)
