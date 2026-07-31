@@ -1,7 +1,112 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-30 07:38
+**最后更新时间**: 2026-07-31 00:07
+
+---
+
+## 🆕 最新更新 (2026-07-31 00:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】中央政治局会议定调下半年经济工作；独家｜字节调整飞书、火山、豆包组织架构，ToB业务走向一体化；宇树科技：初步询价日为8月5日，网上网下申购日为8月10日](https://www.tmtpost.com/8085654.html)
+**发布时间**: 2026-07-31 07:20
+
+#### [联创电子易主落定：寿县国资6亿接盘，30亿化债成前置条件](https://www.tmtpost.com/8085809.html)
+**发布时间**: 2026-07-30 23:03
+
+#### [四年并购7家、累计耗资49亿之后，华润双鹤拟再砸56亿跨界农化丨并购一线](https://www.tmtpost.com/8085679.html)
+**发布时间**: 2026-07-30 22:31
+
+#### [Haier Faces a Delicate Local Balancing Act in Thailand After Fan Event Tensions](https://www.tmtpost.com/8085651.html)
+**发布时间**: 2026-07-30 21:28
+
+#### [兆日科技易主：连年亏损实控人清仓离场，“满月”接盘方身份成谜](https://www.tmtpost.com/8085351.html)
+**发布时间**: 2026-07-30 19:27
+
+#### [独家｜西南五省市里，几乎只有成都的医疗企业能融到资了](https://www.tmtpost.com/8084639.html)
+**发布时间**: 2026-07-30 19:02
+
+#### [黄仁勋，给中国超节点带货](https://www.tmtpost.com/8085024.html)
+**发布时间**: 2026-07-30 19:00
+
+#### [自由现金流，卡住了AI巨头的脖子](https://www.tmtpost.com/8085007.html)
+**发布时间**: 2026-07-30 18:59
+
+#### [老铺跌了70%，但我旗帜鲜明地支持它](https://www.tmtpost.com/8085017.html)
+**发布时间**: 2026-07-30 18:59
+
+#### [AI教父失去了AI时代](https://www.tmtpost.com/8085168.html)
+**发布时间**: 2026-07-30 18:59
+
+#### [聊聊字节的AI调整：两个关键人物和一个新方向](https://www.tmtpost.com/8085266.html)
+**发布时间**: 2026-07-30 18:58
+
+#### [AI大厂开始借钱烧算力](https://www.tmtpost.com/8084949.html)
+**发布时间**: 2026-07-30 18:18
+
+#### [飞书变成了豆包](https://www.tmtpost.com/8085035.html)
+**发布时间**: 2026-07-30 18:18
+
+#### [财报后Meta大跌10％，扎男还要为汪滔买单多久？](https://www.tmtpost.com/8085006.html)
+**发布时间**: 2026-07-30 18:18
+
+#### [康宁喊"10倍光纤"，股价却暴跌18%——账算错了](https://www.tmtpost.com/8084880.html)
+**发布时间**: 2026-07-30 17:06
+
+#### [SK海力士崩了，苹果却冲上5万亿美元，AI投资逻辑变了？](https://www.tmtpost.com/8084827.html)
+**发布时间**: 2026-07-30 17:04
+
+#### [ADC的矿源耗竭了吗？](https://www.tmtpost.com/8084857.html)
+**发布时间**: 2026-07-30 17:04
+
+#### [中国销量下滑近三成，大众靠欧洲和降本守住1581亿欧元收入](https://www.tmtpost.com/8085277.html)
+**发布时间**: 2026-07-30 16:56
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年](https://www.infoq.cn/article/h0WG6p7z3tyTk3hxQIhT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 19:50
+
+#### [为什么黑灯软件工厂会失败](https://www.infoq.cn/article/zaRGeRH3RSKub9tALUj6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 19:44
+
+#### [编程界新分水岭：Uncle Bob说“绝不读AI写的代码”，Hashimoto却说他“逐行阅读”，你站谁？](https://www.infoq.cn/article/WbtENUlDowovNCHxECMf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 19:31
+
+#### [别再让团队失忆：从研发上下文到 AI Native 团队资产基础设施 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/YCKedQpovL6VPFGUALxZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 19:00
+
+#### [从个人记忆到团队资产：TencentDB Agent Memory 团队记忆版本解析 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/1s7xwm0Y6GaN8ff5rVyO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 17:53
+
+#### [1v1 对话：具身行业的“取巧”路，何时结束？](https://www.infoq.cn/video/Fb2cph8EEHQH3mGhkCCF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 17:33
+
+#### [告别 LEB128 的规范性陷阱，Bijou64 用结构设计解决安全问题](https://www.infoq.cn/article/bJwPR37hbb5stH238hyS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 17:19
+
+#### [从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”](https://www.infoq.cn/article/NMXxssS9qB8LtRlWMr5V?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 17:12
+
+#### [你真的驾驭好 AI Coding 了吗](https://www.infoq.cn/video/8FaZW1Rx2ffsrru6QYdw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 16:37
+
+#### [智能落地：把数据智能转化为业务成果 ｜Snowflake Discover AI 技术实战周](https://www.infoq.cn/video/8T9HbaCS6bVcwFZI69ug?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 16:05
+
+#### [合规不是枷锁：平台团队如何让开发者主动拥抱治理](https://www.infoq.cn/article/ZvMZl92BBuD4dDNDaJbW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 15:44
+
+#### [深度访谈｜第二次权力转移：当Agent拿走数据库的行动权](https://www.infoq.cn/article/B2GjIEBr0c1L0amoKmNf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-30 15:41
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 免费、多功能的远程控制新选择：网易 UU 远程](https://sspai.com/post/112405)
+**发布时间**: 2026-07-30 17:30
+
+#### [在流媒体时代，搭建一个专属于自己的「音乐探索系统」](https://sspai.com/post/112656)
+**发布时间**: 2026-07-30 14:53
 
 ---
 
