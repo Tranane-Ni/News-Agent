@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "1b639be499c66311a3b59edfaeba7d7ab2077f303ebd3f58a3985682fd30bc25": {
-        "title": "OpenAI官方教你8招玩透ChatGPT！",
-        "link": "https://www.qbitai.com/2026/07/452611.html",
-        "published_date": "Fri, 17 Jul 2026 05:11:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.631488"
-      },
-      "063480967210ce63408159892b6d78c60b02baa3effc36db15216e739a780cf1": {
-        "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
-        "link": "https://www.qbitai.com/2026/07/451691.html",
-        "published_date": "Fri, 17 Jul 2026 02:41:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.631619"
-      },
       "86cc31b2200b9045355b44411608e6674c8eb5bd1463ea11832749bb1fb6ad3d": {
         "title": "IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和",
         "link": "https://www.qbitai.com/2026/07/452914.html",
@@ -1542,171 +1530,15 @@
         "link": "https://www.qbitai.com/2026/08/473597.html",
         "published_date": "Sat, 15 Aug 2026 05:53:00 GMT",
         "first_seen": "2026-08-15T08:35:25.338679"
+      },
+      "5433013c6275f1db5160c29319f7a5ad4624b597dda67fd340193f811c60855e": {
+        "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "link": "https://www.qbitai.com/2026/08/473972.html",
+        "published_date": "Sun, 16 Aug 2026 05:37:00 GMT",
+        "first_seen": "2026-08-16T08:36:07.572062"
       }
     },
     "Technology": {
-      "8de2114b9e47bf82e2c953e7028f9c240707932ef81aa8126a2e18afb40c4ce6": {
-        "title": "并购落空28亿定增接力，十倍牛股仕佳光子“大扩产”存误读",
-        "link": "https://www.tmtpost.com/8068832.html",
-        "published_date": "Fri, 17 Jul 2026 14:59:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.112103"
-      },
-      "5face274252af2af03dee972fb309da8847d3831b4a6cef1663614f441de3e57": {
-        "title": "追知工科完成数千万元种子轮融资，聚焦垂域工业智能体｜融资速递",
-        "link": "https://www.tmtpost.com/8068067.html",
-        "published_date": "Fri, 17 Jul 2026 13:19:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.112112"
-      },
-      "13c50f8cc65ff53e315ff69cc6f4ec895dd3cbfb7fbf7dab73b79be9d6f42d6f": {
-        "title": "埃森哲：Token税算不清，仅10%中国企业完成能力跃迁",
-        "link": "https://www.tmtpost.com/8067223.html",
-        "published_date": "Fri, 17 Jul 2026 13:17:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.112120"
-      },
-      "e36bdfe96e029792d0d28c39c7e3d3b2cab8414924a33e9569a6e063ec175baa": {
-        "title": "Atlas关停，AI浏览器没有未来了吗？",
-        "link": "https://www.tmtpost.com/8068694.html",
-        "published_date": "Fri, 17 Jul 2026 12:50:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.112129"
-      },
-      "7294d3d6d21db5fcca1915aa3fb47b7fd98970fd9325215f1205728106e7132c": {
-        "title": "最近，投资人都在研究给机器人“喂饭”",
-        "link": "https://www.tmtpost.com/8068658.html",
-        "published_date": "Fri, 17 Jul 2026 12:43:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.112137"
-      },
-      "c44ffd0a14373b8d8b98efc758c520226b7b55d267b2a07c570d22376c0fa8e5": {
-        "title": "海思科的陡坡",
-        "link": "https://www.tmtpost.com/8068605.html",
-        "published_date": "Fri, 17 Jul 2026 12:39:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.714678"
-      },
-      "b76c8cd383ea6f67405ec44e3f23ea20ee3dbf7ce7ca3f6b406c7d5db407f4fd": {
-        "title": "Kimi新模型K3刷屏，Coding得分超越Fable 5",
-        "link": "https://www.tmtpost.com/8068444.html",
-        "published_date": "Fri, 17 Jul 2026 12:29:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.112146"
-      },
-      "98f79d24ab9dba3a9c161a0146774ae0d71e5d349a0ab4c3a32815bee8dceb4f": {
-        "title": "从盈利近5亿到持续亏损， 明阳智能“海上风电龙头”地位不再",
-        "link": "https://www.tmtpost.com/8068591.html",
-        "published_date": "Fri, 17 Jul 2026 11:45:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.112155"
-      },
-      "503fcfc625f86df4f94790b8dc613b2937fdcf16be3d8df229dbf3ee6dce4678": {
-        "title": "华住会上线旅居频道，酒店又开始抢长住旅居市场了？",
-        "link": "https://www.tmtpost.com/8068501.html",
-        "published_date": "Fri, 17 Jul 2026 11:38:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.715813"
-      },
-      "8f80d96681a5266b494516323692023e8be52a2ffaf3c9cdc56bc4876b262738": {
-        "title": "两条AI赛道，一场消耗战：阿里与字节耐力对决",
-        "link": "https://www.tmtpost.com/8068420.html",
-        "published_date": "Fri, 17 Jul 2026 11:33:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.716214"
-      },
-      "efd7031498b0184a50e1058dfafbd8071017d5f890ac86e9d1e535c148d3dd9f": {
-        "title": "papi酱用AI制造了2026第一神曲",
-        "link": "https://www.tmtpost.com/8068419.html",
-        "published_date": "Fri, 17 Jul 2026 11:29:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.716574"
-      },
-      "ac9c1f96765a40ff4414436526570b0e581a1c78e5580021e2ea23c112caa6d9": {
-        "title": "“错过”独立上市后，张迪要在阿里造个可灵plus？",
-        "link": "https://www.tmtpost.com/8068343.html",
-        "published_date": "Fri, 17 Jul 2026 11:23:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.717072"
-      },
-      "94f3c8e8cb6fba5d7f91300b86db3ec5161e4015317bb636796ea21a2d3f184e": {
-        "title": "京东与拼多多：互相羡慕，一起补课",
-        "link": "https://www.tmtpost.com/8068272.html",
-        "published_date": "Fri, 17 Jul 2026 11:19:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.717547"
-      },
-      "9ed88b70c6ea6ec262c5b109e637f64803d022bb842fddaa406dc1a2c60a05c4": {
-        "title": "免费的早餐，这次酒店不想送了",
-        "link": "https://www.tmtpost.com/8067969.html",
-        "published_date": "Fri, 17 Jul 2026 11:19:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.717983"
-      },
-      "9ec6fbb536374992cd79dca2bacbec9022855d512a0b0246fed9879a71bdbb13": {
-        "title": "一年五次高管变动，安踏的品牌操盘手不够用了？",
-        "link": "https://www.tmtpost.com/8066996.html",
-        "published_date": "Fri, 17 Jul 2026 11:19:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.718526"
-      },
-      "220a66279e9fb5f7d57dd126a0a12c6871f87ed0107660a62a175c5fdae8cf4c": {
-        "title": "Google 被迫开门，ChatGPT 将拿到搜索数据和安卓权限",
-        "link": "https://www.tmtpost.com/8067981.html",
-        "published_date": "Fri, 17 Jul 2026 11:12:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.719257"
-      },
-      "f781e77e183de2311ad678d64f300c7438ff09b1a81c4eb617ac8825e7c8a3fe": {
-        "title": "Q2手机市场：华为三星苹果吃肉，OPPO小米vivo挨打",
-        "link": "https://www.tmtpost.com/8068435.html",
-        "published_date": "Fri, 17 Jul 2026 11:09:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.720019"
-      },
-      "a61510d9c0ecb39d3a5bc8d6d379ab4bb72a304f26399f422bb2caf6d834f5fb": {
-        "title": "净利暴增1019%，市值却缩水310亿，天赐材料怎么了？",
-        "link": "https://www.tmtpost.com/8068116.html",
-        "published_date": "Fri, 17 Jul 2026 11:08:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.720817"
-      },
-      "5d406a51fb9e33ad646a42d62fc63c2a9ee971e0fe5b688884bdee20799448d7": {
-        "title": "纯电、混动、燃料电池“夹击”下，氢内燃机还有没有“搞头”？",
-        "link": "https://www.tmtpost.com/8068297.html",
-        "published_date": "Fri, 17 Jul 2026 11:08:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.721718"
-      },
-      "80a27fef3d4c0bbf6d520fa797b4eeb9919a895b0504d831dca5db0e11ef7e06": {
-        "title": "具身智能的真机数采，到了分水岭",
-        "link": "https://www.tmtpost.com/8068523.html",
-        "published_date": "Fri, 17 Jul 2026 11:06:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.722397"
-      },
-      "88708954ca955d63804943da4e07173c64d74e67f8aae832ebd104c5370be40b": {
-        "title": "Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板",
-        "link": "https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Jul 2026 14:15:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.112048"
-      },
-      "b170b8cac60273d8c311dfd09e2bdc1a66c7780218214705a63ca2ca2b6d417b": {
-        "title": "SwiftData 迎来大升级：查询能力增强，支持第三方类型持久化",
-        "link": "https://www.infoq.cn/article/q6ITZPjCW2ph1pEVhvOK?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Jul 2026 11:00:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.724687"
-      },
-      "44770f24180334566b5271e6c2cb9d84fbbecddf1ead8f47fdd0c822cd0939a5": {
-        "title": "从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂",
-        "link": "https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Jul 2026 10:09:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.725897"
-      },
-      "dae0c29161db52cec69b607a2ed2bf2fcabcfb170e07df70df29d22491fb4371": {
-        "title": "从工具到引擎：AI重构分销增长新范式｜AICon深圳",
-        "link": "https://www.infoq.cn/article/wPNm4Qvak0PmHFSyJj9e?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.726975"
-      },
-      "e0b72151b964c2c672e9d1e7b5bb5637d604ea7bccc846b84769b23ce418c902": {
-        "title": "未来的软件如何摆脱平台绑定？答案可能藏在数据格式里",
-        "link": "https://www.infoq.cn/article/yyqAuTFso3SdTW84AKvY?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Jul 2026 09:38:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.112076"
-      },
-      "4e101a1a96fb9acad1ed2434218c166e4b087cb34b50874f95d2c22c864d7c00": {
-        "title": "UniGetUI：可能是 Windows 下最好用的应用商店",
-        "link": "https://sspai.com/post/111128",
-        "published_date": "Fri, 17 Jul 2026 10:37:00 GMT",
-        "first_seen": "2026-07-17T07:22:22.729270"
-      },
-      "411b30540dad635b226ec4efdfe953af3a7655dfdbdb458510906509e4b4046c": {
-        "title": "派早报：OPPO 宣布调整旗下子品牌的全球产品策略等",
-        "link": "https://sspai.com/post/112414",
-        "published_date": "Fri, 17 Jul 2026 08:45:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.112090"
-      },
       "bbff2d48ee160cd10deedc73c9d4b7e54d81911df2ec69837fee630b30c7599b": {
         "title": "5个月10倍：智谱ARR破10亿美元，中国大模型的价值验证时刻",
         "link": "https://www.tmtpost.com/8068786.html",
@@ -11348,76 +11180,22 @@
         "link": "http://www.geekpark.net/news/368854",
         "published_date": "Sun, 16 Aug 2026 09:15:00 GMT",
         "first_seen": "2026-08-16T05:34:13.685197"
+      },
+      "6abab02b3dc52d7084d7bd2aeaa6bd9dc78c87dce93c1ff58c394eaacbb2bc8d": {
+        "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
+        "link": "https://sspai.com/post/113495",
+        "published_date": "Sun, 16 Aug 2026 12:48:00 GMT",
+        "first_seen": "2026-08-16T08:36:07.395140"
+      },
+      "c632006218d8a071c709415e8010441a6611d3a1ce964c3aa9f8eaccdea8759c": {
+        "title": "纽蒙特矿业股在大涨66%后光芒不减，我们继续看多",
+        "link": "https://www.tmtpost.com/8104950.html",
+        "published_date": "Sun, 16 Aug 2026 10:56:00 GMT",
+        "first_seen": "2026-08-16T08:36:07.395309"
       }
     },
     "Finance": {},
     "Education": {
-      "81b67c42f6d480e8215ad6ff5da8314a0bf086128512936985db08b137e970af": {
-        "title": "全域文旅再添新范式！vala以移动空间串联贵州六大..",
-        "link": "http://baijiahao.baidu.com/s?id=1870943387582388641",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.511026"
-      },
-      "2e662fc6a360e95edac966ee424e13b6e435715a97baed65344b1b5de48743a1": {
-        "title": "首部党章诞生记",
-        "link": "http://baijiahao.baidu.com/s?id=1870919421765755589",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:32.141188"
-      },
-      "e7081c5ce2f161e673e20259769084a1f59bf3ce266d2211ee90284a26de6728": {
-        "title": "“能能”“巧巧”来长宁啦！这座移动的世界技能博物馆..",
-        "link": "http://baijiahao.baidu.com/s?id=1870680152164738592",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.511057"
-      },
-      "fae109996a2b40f36a88d8b4b599df83c7a547788ba5f1c3e98f3dab1136110f": {
-        "title": "“欢迎大家到我的家乡！”赣黔甘三省红色讲解员向全国..",
-        "link": "http://baijiahao.baidu.com/s?id=1870934895335655415",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.511072"
-      },
-      "a07bbdf94f03ac581bfba761372a6957eadaccb50c58cc70d5ae9620243eea26": {
-        "title": "以实干作答 用实绩交卷",
-        "link": "http://baijiahao.baidu.com/s?id=1870926206069883855",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.511083"
-      },
-      "db96da162caad61dce28b4cf0a9ace34aa932d3a387aa92582a2244d6eb34f03": {
-        "title": "“大自然是最好的老师”，2026年粤港澳自然教育季..",
-        "link": "http://baijiahao.baidu.com/s?id=1870854005814855883",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.511096"
-      },
-      "fcf0de492124d1aa28ad603d7fa5dcac92ffc94c386e79b149a7de978e87e570": {
-        "title": "盛夏的乌蒙草场，在 “遇见索玛”感受彝风清凉",
-        "link": "http://baijiahao.baidu.com/s?id=1870938670559710030",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.511108"
-      },
-      "14b65138a39148ac8035d73301fbde2ba52e5ccf17a0abadb55e91b9a399a2f6": {
-        "title": "告别校园 毕业生医保这样交",
-        "link": "http://baijiahao.baidu.com/s?id=1870878344856297346",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.511118"
-      },
-      "e5e9ee01147f4574474d709d3defb1eaccafb234622d5346e3c979f612e886df": {
-        "title": "常规赛最后五场！无门槛比分竞猜，猜一场少一场！",
-        "link": "http://baijiahao.baidu.com/s?id=1870928571390828113",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.511128"
-      },
-      "793d861f70fcb6354a9f1666a91cc41cb569b9fb98d17daca13f00ea4939cdd6": {
-        "title": "来贵州，“桥”见中国！",
-        "link": "http://baijiahao.baidu.com/s?id=1870771320434142747",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.511139"
-      },
-      "7afaf9cac6635ca965a23213069728c9f549f9fb4e2655f4381c09437ca6104f": {
-        "title": "新能源车与立体车库不适配，难题何解？",
-        "link": "http://baijiahao.baidu.com/s?id=1870851212193719173",
-        "published_date": "Fri, 17 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-17T07:22:41.511150"
-      },
       "81089f3ea041ad97e12e4d631c10353d8716d3557852383dabbf60b007369e71": {
         "title": "晚潮｜新会书院记",
         "link": "http://baijiahao.baidu.com/s?id=1870952605581326050",
@@ -14429,13 +14207,37 @@
         "link": "http://baijiahao.baidu.com/s?id=1873544972065555606",
         "published_date": "Sun, 16 Aug 2026 05:34:00 GMT",
         "first_seen": "2026-08-16T05:34:13.727587"
+      },
+      "3b7a53a99434e075b2e97362205ae02440e9f7290829f61109f0be8c970ab85c": {
+        "title": "福建开渔了！一大波海鲜正在赶来",
+        "link": "http://baijiahao.baidu.com/s?id=1873656514749222470",
+        "published_date": "Sun, 16 Aug 2026 08:36:00 GMT",
+        "first_seen": "2026-08-16T08:36:07.435565"
+      },
+      "87f69ea1c6d27b3132035accfd1e999c8267316951d4a3ed94ec14413c66deaf": {
+        "title": "福建公安突出数智赋能支撑推动高效能治理 预警响应时..",
+        "link": "http://baijiahao.baidu.com/s?id=1873665303046878118",
+        "published_date": "Sun, 16 Aug 2026 08:36:00 GMT",
+        "first_seen": "2026-08-16T08:36:07.435712"
+      },
+      "227f8b28a65985a56061675cd399b4d21c21aa7d07e230685cf3fdd068416ddf": {
+        "title": "Storm's here！蓝猫带你玩转魅力上海",
+        "link": "http://baijiahao.baidu.com/s?id=1873658246838915602",
+        "published_date": "Sun, 16 Aug 2026 08:36:00 GMT",
+        "first_seen": "2026-08-16T08:36:07.435869"
+      },
+      "0a84109c1b28aa97a7fb997221cfc243a071fa727f08a0b2208c17ccb8188c6c": {
+        "title": "文旅新探｜广西贺州：一条古道，串起千年文脉",
+        "link": "http://baijiahao.baidu.com/s?id=1873663490561637511",
+        "published_date": "Sun, 16 Aug 2026 08:36:00 GMT",
+        "first_seen": "2026-08-16T08:36:07.436099"
       }
     }
   },
   "last_update": {
-    "AI": "2026-08-16T05:34:13.876604",
-    "Technology": "2026-08-16T05:34:13.711421",
-    "Finance": "2026-08-16T05:34:13.753884",
-    "Education": "2026-08-16T05:34:13.734807"
+    "AI": "2026-08-16T08:36:07.579443",
+    "Technology": "2026-08-16T08:36:07.420526",
+    "Finance": "2026-08-16T08:36:07.463191",
+    "Education": "2026-08-16T08:36:07.443642"
   }
 }
