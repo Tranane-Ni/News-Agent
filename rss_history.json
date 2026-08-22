@@ -1,60 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "0cd465df3a9c185f5fdc4700e39cdfce98aa278e48550985905e5b979dd4bb54": {
-        "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
-        "link": "https://www.qbitai.com/2026/07/457694.html",
-        "published_date": "Thu, 23 Jul 2026 06:58:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.671707"
-      },
-      "c6b99f51babcae751b6126805b5dbdcdc334ef1652e633f6c2624f3bd305a5f1": {
-        "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
-        "link": "https://www.qbitai.com/2026/07/457537.html",
-        "published_date": "Thu, 23 Jul 2026 06:36:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.671833"
-      },
-      "7b8074035dc86d3263f0228c7dfcde881bbbc47b9f91ece47b74965d7b6d7dfc": {
-        "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
-        "link": "https://www.qbitai.com/2026/07/457534.html",
-        "published_date": "Thu, 23 Jul 2026 04:42:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.671980"
-      },
-      "acb29848c94a468579028fcf49669d5825411aeadd55490c68cbf415d8a0824f": {
-        "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
-        "link": "https://www.qbitai.com/2026/07/457469.html",
-        "published_date": "Thu, 23 Jul 2026 03:28:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.672187"
-      },
-      "7edbf9319899ed6aa9b9a23e66a23a8ef49f173305a3c8932c789027ff099333": {
-        "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
-        "link": "https://www.qbitai.com/2026/07/457434.html",
-        "published_date": "Thu, 23 Jul 2026 02:40:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.672415"
-      },
-      "00fb8d3d777dc80040cc1b7e8b977ef5ea8324b3ad002494ad033516bfef1d02": {
-        "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
-        "link": "https://www.qbitai.com/2026/07/457405.html",
-        "published_date": "Thu, 23 Jul 2026 02:09:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.672626"
-      },
-      "8fc7b6eaeab4cd3021f0882450274ac025d700601b799067e8f1f90014b89a1a": {
-        "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
-        "link": "https://www.qbitai.com/2026/07/457359.html",
-        "published_date": "Thu, 23 Jul 2026 01:55:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.672936"
-      },
-      "73652532d9421a19b32fb2409c63bffeed5e457d6661db9ce82a4244dc6a8949": {
-        "title": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛",
-        "link": "https://www.qbitai.com/2026/07/457356.html",
-        "published_date": "Thu, 23 Jul 2026 01:43:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.673180"
-      },
-      "7e1db7c73a2922dcd6d451650f28143e2c0868ffff2ccdad0c09bf9b00cc4549": {
-        "title": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
-        "link": "https://www.qbitai.com/2026/07/457249.html",
-        "published_date": "Thu, 23 Jul 2026 00:35:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.673509"
-      },
       "76c83ea586357b3610fefc09c36602d5fe2476d69cbd887230371937b4ae08c6": {
         "title": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」",
         "link": "https://www.qbitai.com/2026/07/457698.html",
@@ -1359,174 +1305,6 @@
       }
     },
     "Technology": {
-      "069ca327aba2810c298ebd11966ed46571af0546255d414a74d861e083cdd788": {
-        "title": "巨资豪赌世界杯，小红书赢了吗？",
-        "link": "https://www.tmtpost.com/8076566.html",
-        "published_date": "Thu, 23 Jul 2026 15:12:00 GMT",
-        "first_seen": "2026-07-23T07:35:17.132296"
-      },
-      "11f69c98da69f4ee956042c8378e671f10e89e08761c9520649639ec4d7cc078": {
-        "title": "涨价的老套路失效了，奢侈品还能从哪儿找增长？",
-        "link": "https://www.tmtpost.com/8076400.html",
-        "published_date": "Thu, 23 Jul 2026 15:12:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.854552"
-      },
-      "f1d544b3a67ea6212a2228986aa01bf7a087d99bcd50549b9ea9c038b627d75d": {
-        "title": "谢贤离世：他的一亿港元遗产，是如何积累的？",
-        "link": "https://www.tmtpost.com/8076560.html",
-        "published_date": "Thu, 23 Jul 2026 15:11:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.854675"
-      },
-      "3e6f2207b6b14dfa5c4f9359cef39e032be3be6233542010e7248fc368e89186": {
-        "title": "2026光模块共识全押错：被淘汰的不是模块，是DSP",
-        "link": "https://www.tmtpost.com/8074133.html",
-        "published_date": "Thu, 23 Jul 2026 15:02:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.854799"
-      },
-      "572e1b10d5a22c5b2e46bfe12f1a2a2e13a694cea2bffeb341ba639b4fbc7daa": {
-        "title": "一年吸金18亿，李宁前CEO掌舵，即将冲刺上市",
-        "link": "https://www.tmtpost.com/8076384.html",
-        "published_date": "Thu, 23 Jul 2026 15:02:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.854942"
-      },
-      "30c2a60e4aba2e64bc8753ca6079b5be5271ef4175cd71c71d39e13bca69196c": {
-        "title": "PrimalVerse完成数亿元种子轮融资，主攻4D世界模型基模｜独家",
-        "link": "https://www.tmtpost.com/8076725.html",
-        "published_date": "Thu, 23 Jul 2026 14:45:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.855144"
-      },
-      "bb919baec409e08174fdb993ebfc771d518245c896a6993c56c4d155f28468db": {
-        "title": "3万店时代，鸣鸣很忙的增长确定性从何而来？",
-        "link": "https://www.tmtpost.com/8076582.html",
-        "published_date": "Thu, 23 Jul 2026 13:45:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.855329"
-      },
-      "86608f037f21d34b0af0e95fa0e5306cf6dd7892ae62da793f6b8fbc783035b7": {
-        "title": "懂知识、能执行，滴普科技选择做更“Work”的Agent",
-        "link": "https://www.tmtpost.com/8075680.html",
-        "published_date": "Thu, 23 Jul 2026 12:58:00 GMT",
-        "first_seen": "2026-07-23T07:35:17.132202"
-      },
-      "fd1f8689d93244a880fd9f3aec50e80ceb8abc6267e538b37cb44de6ce62bcfe": {
-        "title": "凌迪科技WAIC 2026：从服装仿真到具身智能，柔性引擎怎么做跨界",
-        "link": "https://www.tmtpost.com/8075832.html",
-        "published_date": "Thu, 23 Jul 2026 12:48:00 GMT",
-        "first_seen": "2026-07-23T07:35:17.132229"
-      },
-      "287d1839f06019cbd03ad44b9a32accb3450fdf7440ad71a965d975caaffe130": {
-        "title": "基金市场概况与资产配置观点（07.13—07.19）",
-        "link": "https://www.tmtpost.com/8076616.html",
-        "published_date": "Thu, 23 Jul 2026 12:36:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.856269"
-      },
-      "462ff5695765167ac13f3340e18e0f26743372c67bb4069aadce56ead01d4365": {
-        "title": "WAIC上，一家公司想给企业装上一颗会思考的大脑丨WAIC2026",
-        "link": "https://www.tmtpost.com/8076568.html",
-        "published_date": "Thu, 23 Jul 2026 12:19:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.856632"
-      },
-      "d05ed760a4b532fa3e1fb700d28a0e49942e7af608a25b878cc97791596357ff": {
-        "title": "面壁200亿，壁垒有多厚",
-        "link": "https://www.tmtpost.com/8076332.html",
-        "published_date": "Thu, 23 Jul 2026 12:12:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.856902"
-      },
-      "422f633ee55effbb2bd370d6119bd97797bf3ecd6ea16990d49d0ea276fc476e": {
-        "title": "净利润暴增3倍，谷歌让马斯克带着上天了",
-        "link": "https://www.tmtpost.com/8076383.html",
-        "published_date": "Thu, 23 Jul 2026 12:09:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.857210"
-      },
-      "8eb3e6bde58250a44d3a3d4b4af2f66382aa94282a22ec16f56423592d6ec9f3": {
-        "title": "3500万网约车司机助力滴滴充电市场登顶，特来电和星星充电们正在被“围剿”",
-        "link": "https://www.tmtpost.com/8076376.html",
-        "published_date": "Thu, 23 Jul 2026 12:02:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.857723"
-      },
-      "8d6f2fa79705579f4c7c2ace572bca843bb9e6b3990930de0cb9906ee30d409e": {
-        "title": "深圳项目闭店，文和友们的“光辉岁月”唱完了？",
-        "link": "https://www.tmtpost.com/8076369.html",
-        "published_date": "Thu, 23 Jul 2026 12:01:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.858186"
-      },
-      "8c00767ad0926f44264a245038623ac96fb0f45ea69d5773e6c756d5a8749185": {
-        "title": "48万辆交付撑不起利润：特斯拉的汽车业务，正在为AI“输血”",
-        "link": "https://www.tmtpost.com/8076405.html",
-        "published_date": "Thu, 23 Jul 2026 11:52:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.858763"
-      },
-      "8511e6f8fe4105be25b046d7eed78edeeb456d74ac46ecd45361f1e904a211d7": {
-        "title": "一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节",
-        "link": "https://www.tmtpost.com/8075805.html",
-        "published_date": "Thu, 23 Jul 2026 11:48:00 GMT",
-        "first_seen": "2026-07-23T07:35:17.132237"
-      },
-      "4b90eb55becf6c0d6d0d040c8f2e4f35875176588b1b5151add9f6338b9c6e30": {
-        "title": "郑纬民院士：国产算力的瓶颈不在芯片，在生态",
-        "link": "https://www.tmtpost.com/8075814.html",
-        "published_date": "Thu, 23 Jul 2026 11:47:00 GMT",
-        "first_seen": "2026-07-23T07:35:17.132243"
-      },
-      "4191c803e78c4cbf1d59290f0efa230307a855afabfe926e20d9f9bd61470841": {
-        "title": "日赚1300万却倒贴1.8亿现金流，天华新能的“纸面富贵”藏不住了",
-        "link": "https://www.tmtpost.com/8076381.html",
-        "published_date": "Thu, 23 Jul 2026 11:47:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.860746"
-      },
-      "6fab703a5b60a39d63a275552ef6f9df895cbb0720c98dd493ed2677571a839b": {
-        "title": "全球首个端侧驱动本体的世界模型来了！大晓机器人首创“信息密度定律”，重写物理AI训练逻辑",
-        "link": "https://www.infoq.cn/article/u0hD10fj7HWAfb10Dbr3?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Jul 2026 15:10:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.861535"
-      },
-      "51588f83e6773923e1816542f5301818b7ed27374920f41263f5c1e7720ecda8": {
-        "title": "Linkerd 2.20 发布：智能流量管理升级，资源占用大幅降低",
-        "link": "https://www.infoq.cn/article/TJL8TIiuD6Cev0Ig0AAS?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Jul 2026 13:25:00 GMT",
-        "first_seen": "2026-07-23T07:35:17.132253"
-      },
-      "22a6c0787a0dfce545ea9f8a1391706538a23e3e6e150d212e42a30e7e8117a4": {
-        "title": "Meta 开源 Brain2Qwerty v2：非侵入式脑机接口语句解码准确率达到 61%",
-        "link": "https://www.infoq.cn/article/39UvyRHmCOs2Emx9T8Hl?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Jul 2026 11:43:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.863394"
-      },
-      "5fd25340df4245400f8d7cd4f5e805aa9bdb1d9aa93a830e31584f0ec9dae27a": {
-        "title": "从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳",
-        "link": "https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-23T07:35:17.132263"
-      },
-      "8cb537cca8452eb78dd4bce86d6e4f754f0ea21c882a4623a2a03266ee8d8a8d": {
-        "title": "从全球化组织到 AI-Native 团队：Snowflake 营销 AI 委员会的转型实践 ｜ 技术实践",
-        "link": "https://www.infoq.cn/article/HwODT4jsAeL4iOCUFHVV?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-23T07:35:17.132290"
-      },
-      "7307ae8c9540ef0d16fda2155c034dd743420dd52d75c7fd213283e21ee9e304": {
-        "title": "谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制",
-        "link": "https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Jul 2026 09:48:00 GMT",
-        "first_seen": "2026-07-23T07:35:17.132273"
-      },
-      "4914af2008ab12711ec02884e0b9203852da7ab58addd1b097a1d803c2038ad8": {
-        "title": "30+ 家企业组团参展 WAIC，张江 AI 小镇藏不住了",
-        "link": "https://www.infoq.cn/article/cKrPV6EdBMEoOb2mBvju?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Jul 2026 09:00:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.868228"
-      },
-      "429bd75f3e7e9d7ba3ca2421c22390306f8e31403cce7c290db182084a00f59b": {
-        "title": "让 Windows 顺眼又省心：我的新设备配置经验",
-        "link": "https://sspai.com/post/111300",
-        "published_date": "Thu, 23 Jul 2026 10:57:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.869240"
-      },
-      "e4d0fff15817f7777619a7b6bbdc8b10ee84ef9d9700676226dd6830ac769f6e": {
-        "title": "派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等",
-        "link": "https://sspai.com/post/112647",
-        "published_date": "Thu, 23 Jul 2026 08:50:00 GMT",
-        "first_seen": "2026-07-23T07:35:17.132280"
-      },
       "b006754cbd0cdaf8e790debcae723d6742703048b78ae94a7c4fca50b756f870": {
         "title": "从能对话到能赚钱：一场关于Agent商业化的残酷坦白局｜ WAIC2026",
         "link": "https://www.tmtpost.com/8076659.html",
@@ -11456,52 +11234,22 @@
         "link": "http://www.geekpark.net/news/369206",
         "published_date": "Sat, 22 Aug 2026 08:23:00 GMT",
         "first_seen": "2026-08-22T05:33:18.449671"
+      },
+      "e2915014a41f36c9c18900da723f683354a9f781f5e4df80bc94a2db9b8389cc": {
+        "title": "【数智周报】阿里再调业务架构：电商合并、云芯片整合、千问分拆为独立子公司；宇树科技登陆科创板；传Anthropic年化营收突破650亿美元……",
+        "link": "https://www.tmtpost.com/8112858.html",
+        "published_date": "Sat, 22 Aug 2026 16:22:00 GMT",
+        "first_seen": "2026-08-22T08:38:41.183707"
+      },
+      "cc5bf657e08800563bbc618a2b7c9eb8e244d4db72710e54f882bc01ffadecfd": {
+        "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+        "link": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 22 Aug 2026 15:15:00 GMT",
+        "first_seen": "2026-08-22T08:38:41.183941"
       }
     },
     "Finance": {},
     "Education": {
-      "5d9978d8ce0dd345ca59d598d7e32ff2eb302720bfc83b0690b4d052cf5dd4dc": {
-        "title": "贵州遵义：暑期红色旅游热",
-        "link": "http://baijiahao.baidu.com/s?id=1871468473454258543",
-        "published_date": "Thu, 23 Jul 2026 07:35:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.798748"
-      },
-      "bc77b2ac38c72933644e463803c069c924644a808edabf5714699ddbb629754b": {
-        "title": "贵州花江峡谷大桥“桥旅融合”项目暑期体验热",
-        "link": "http://baijiahao.baidu.com/s?id=1871234748472742568",
-        "published_date": "Thu, 23 Jul 2026 07:35:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.798844"
-      },
-      "b0da2eef7e9a7bc58793633c540db91ba0595bcbdf231fc5077ab085daee9837": {
-        "title": "今日大暑，快来贵州吃冰咯！Today is Gre..",
-        "link": "http://baijiahao.baidu.com/s?id=1871476024370308855",
-        "published_date": "Thu, 23 Jul 2026 07:35:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.798954"
-      },
-      "13407a717dce9bc1170a182cd9f6b2aa483c20766175de1656c9ce6b37a949ef": {
-        "title": "乌蒙深处丨连续四年第一，六盘水做对了什么？",
-        "link": "http://baijiahao.baidu.com/s?id=1871385237602795546",
-        "published_date": "Thu, 23 Jul 2026 07:35:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.799057"
-      },
-      "754244a0f94fd6fe56ed4c96235daa24c6888df2e0c0d5d9dfe09c895c258241": {
-        "title": "申城荷花正值最佳观赏期～一文带你解锁各类小知识",
-        "link": "http://baijiahao.baidu.com/s?id=1871414372218545417",
-        "published_date": "Thu, 23 Jul 2026 07:35:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.799192"
-      },
-      "53f576ee0e8ce888326ccb1c0af3786accfd4c7db7cebe40627d940efc07d677": {
-        "title": "跨越千里！西双版纳带着农特产品、文旅康养资源来沪产..",
-        "link": "http://baijiahao.baidu.com/s?id=1871421003353975031",
-        "published_date": "Thu, 23 Jul 2026 07:35:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.799380"
-      },
-      "ce8a633195dd1c9a3b8b3bc9e76cef976e46919dff254c1b3b4ff87befb0c997": {
-        "title": "闽人新智｜闽江中下游的最后一道“滤芯”，守护方式“..",
-        "link": "http://baijiahao.baidu.com/s?id=1871462117818879586",
-        "published_date": "Thu, 23 Jul 2026 07:35:00 GMT",
-        "first_seen": "2026-07-23T07:35:07.799615"
-      },
       "ffacf7cface90a7c8f5a2d46f2839b5d5c48db04b6fc35f16a3b49aa398029c9": {
         "title": "央媒看福建｜人民日报聚焦福建：绿色越来越深 群众越..",
         "link": "http://baijiahao.baidu.com/s?id=1871495274732071324",
@@ -14585,13 +14333,43 @@
         "link": "http://baijiahao.baidu.com/s?id=1874191890718819858",
         "published_date": "Sat, 22 Aug 2026 05:33:00 GMT",
         "first_seen": "2026-08-22T05:33:27.899619"
+      },
+      "b8a9e65ddd6e1712d8d3a8cda934ff576845d0bd5d4015de3ce088e99b43e537": {
+        "title": "桂味入粤，珠江为证！2026“桂字号”农业品牌湾区..",
+        "link": "http://baijiahao.baidu.com/s?id=1874154235343642316",
+        "published_date": "Sat, 22 Aug 2026 08:38:00 GMT",
+        "first_seen": "2026-08-22T08:38:41.218237"
+      },
+      "f4ba4125f17709463edba2ad052154bb64376c4dc3fb6db6aff69772ed12d9fb": {
+        "title": "焦点访谈｜从“打卡”到“体验”解码暑期旅游新趋势",
+        "link": "http://baijiahao.baidu.com/s?id=1874186013114829525",
+        "published_date": "Sat, 22 Aug 2026 08:38:00 GMT",
+        "first_seen": "2026-08-22T08:38:41.218394"
+      },
+      "01be7008b9190613f0eaf0a689919b3fcd7efb71eeadcbca208528aa49d67f72": {
+        "title": "旅行社回应西安-上海火车旅游团2天1夜收费2900..",
+        "link": "http://baijiahao.baidu.com/s?id=1874210260661916630",
+        "published_date": "Sat, 22 Aug 2026 08:38:00 GMT",
+        "first_seen": "2026-08-22T08:38:41.218583"
+      },
+      "091b1c9b94bebd9426aeafa61c7548633ca533d4bdfdc374d784d5e53103537e": {
+        "title": "从“周家嘴”到“复兴岛”，一封跨越百年的岛岸长信",
+        "link": "http://baijiahao.baidu.com/s?id=1874200250392942789",
+        "published_date": "Sat, 22 Aug 2026 08:38:00 GMT",
+        "first_seen": "2026-08-22T08:38:41.218802"
+      },
+      "42ffe4ad6943f0ba1f52d7ff73690774cad2ee04ac2dad1058e951e9dbe82b83": {
+        "title": "「活力中国调研行」福建平潭：多业态海岛游让“流量”..",
+        "link": "http://baijiahao.baidu.com/s?id=1874093585864994565",
+        "published_date": "Sat, 22 Aug 2026 08:38:00 GMT",
+        "first_seen": "2026-08-22T08:38:41.219081"
       }
     }
   },
   "last_update": {
-    "AI": "2026-08-22T05:33:28.031508",
-    "Technology": "2026-08-22T05:33:27.884346",
-    "Finance": "2026-08-22T05:33:27.923176",
-    "Education": "2026-08-22T05:33:27.906171"
+    "AI": "2026-08-22T08:38:41.356828",
+    "Technology": "2026-08-22T08:38:41.203743",
+    "Finance": "2026-08-22T08:38:41.245769",
+    "Education": "2026-08-22T08:38:41.226848"
   }
 }
