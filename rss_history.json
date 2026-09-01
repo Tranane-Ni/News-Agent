@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "2936676384ea22c42df3b5854238551a363d9d7f8fc10800419412ccec1b5121": {
-        "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
-        "link": "https://www.qbitai.com/2026/08/464781.html",
-        "published_date": "Sat, 01 Aug 2026 10:45:00 GMT",
-        "first_seen": "2026-08-02T00:01:57.520941"
-      },
-      "4237100edd7c0f16e70e30b108a1a086ac1f5f585983e1b6523629282f02de89": {
-        "title": "获奖之后，王虹最想感谢的人",
-        "link": "https://www.qbitai.com/2026/08/464761.html",
-        "published_date": "Sat, 01 Aug 2026 10:38:00 GMT",
-        "first_seen": "2026-08-02T00:01:57.521124"
-      },
-      "68f32f7903ae379cc59fc553bb5b878900d390ce466808b93b081ccdd75a0048": {
-        "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
-        "link": "https://www.qbitai.com/2026/08/464713.html",
-        "published_date": "Sat, 01 Aug 2026 10:33:00 GMT",
-        "first_seen": "2026-08-02T00:01:57.521309"
-      },
       "b06c42bf827ecae63b0d591fa2f4d028049308a1691a027b55ee97de5c738157": {
         "title": "年薪百万抢电工，Meta急到自己办技校",
         "link": "https://www.qbitai.com/2026/08/465223.html",
@@ -1332,6 +1314,18 @@
         "link": "https://www.qbitai.com/2026/08/481475.html",
         "published_date": "Mon, 31 Aug 2026 03:01:00 GMT",
         "first_seen": "2026-08-31T11:30:08.386224"
+      },
+      "3fb8a8b70b29253a79f0e1acf3fed3c286433c7863ebd70b26e2a4a4dfb4edba": {
+        "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+        "link": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+        "published_date": "Mon, 31 Aug 2026 17:19:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.963732"
+      },
+      "62646d597a79ba191b217368998958880bf47bfc07f4a1d406437cf2c3d10fc7": {
+        "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+        "link": "https://www.qbitai.com/2026/08/481928.html",
+        "published_date": "Mon, 31 Aug 2026 13:20:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.963849"
       }
     },
     "Technology": {
@@ -10844,16 +10838,142 @@
         "link": "http://www.geekpark.net/news/369517",
         "published_date": "Mon, 31 Aug 2026 09:14:00 GMT",
         "first_seen": "2026-08-31T11:29:49.351098"
+      },
+      "0e76ae3cacd72ba0d85c25d09795a7ac37964af5c8ae979d5067a576d1aeb6f2": {
+        "title": "暑期档125亿，惊喜大于遗憾",
+        "link": "https://www.tmtpost.com/8123481.html",
+        "published_date": "Tue, 01 Sep 2026 09:35:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.559322"
+      },
+      "7bed6ff06a441d325cb084819fc21e9586409a41abf0b9e01b2ac4b609a19f93": {
+        "title": "3D NAND闪存，藏了三张底牌",
+        "link": "https://www.tmtpost.com/8123403.html",
+        "published_date": "Tue, 01 Sep 2026 09:26:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.559330"
+      },
+      "caaaa21d458b1bb6baaa05fb8fcdc5fe45b66af6ab55d84fdfeca83fe914d0ff": {
+        "title": "小盘股这波反弹开始显得有些过头了",
+        "link": "https://www.tmtpost.com/8123884.html",
+        "published_date": "Tue, 01 Sep 2026 09:20:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.559336"
+      },
+      "eece66d8394832e6a346f82901107c9ae4147000903a7e6049d21140359ee31b": {
+        "title": "利率上升环境下收益率最高的ETF推荐",
+        "link": "https://www.tmtpost.com/8123871.html",
+        "published_date": "Tue, 01 Sep 2026 09:13:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.559342"
+      },
+      "b853386c9002147186a2b8c2e94b5bbdcb105e32809498e6b19e74d50b0d0331": {
+        "title": "零售电商行业的AI落地困境",
+        "link": "https://www.tmtpost.com/8123378.html",
+        "published_date": "Tue, 01 Sep 2026 09:11:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.559348"
+      },
+      "5dc870a25add6617c4d5407c01bc48931e95abe3dc67d020477816cdb889a76d": {
+        "title": "你看，连银行都很难在震荡行情中赚到钱",
+        "link": "https://www.tmtpost.com/8123351.html",
+        "published_date": "Tue, 01 Sep 2026 09:04:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.559354"
+      },
+      "294c9aa95819a0f97965fcc46f00c421c4fff4844b5471c068e2b6c2946e2d7e": {
+        "title": "“生产力市场”大博弈",
+        "link": "https://www.tmtpost.com/8123293.html",
+        "published_date": "Tue, 01 Sep 2026 08:51:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.559359"
+      },
+      "4c4b9e10b41c789126371c81770520c1cba82324cae3e01d84ee251503da12bf": {
+        "title": "一周砸出140亿美元，黄仁勋的千亿AI版图",
+        "link": "https://www.tmtpost.com/8123117.html",
+        "published_date": "Tue, 01 Sep 2026 08:44:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.559365"
+      },
+      "2667e2c52a67d395c5dc13fb4df1dd7228d3f082aa3897ef27b449b033170434": {
+        "title": "OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了",
+        "link": "https://www.tmtpost.com/8123802.html",
+        "published_date": "Tue, 01 Sep 2026 08:40:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.240608"
+      },
+      "4abc3e18c19f672f24ffa5353b181a543ba076acd83d92d9e85f32ee3e9f1121": {
+        "title": "家电三巨头，集体“造人”",
+        "link": "https://www.tmtpost.com/8123261.html",
+        "published_date": "Tue, 01 Sep 2026 08:40:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.240813"
+      },
+      "2469211fc744db2a291dd913502de7a419eb1a8fc77d5350cb85e28e343dfd6a": {
+        "title": "马斯克还不愁中国内地的新车订单吗？",
+        "link": "https://www.tmtpost.com/8123252.html",
+        "published_date": "Tue, 01 Sep 2026 08:33:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.241000"
+      },
+      "9de9af4f8d2035f2ca59b147e650e3d79e39774793804d0186283971a7f8a9d1": {
+        "title": "Edge AI Daily 早报（9月1日）",
+        "link": "https://www.tmtpost.com/8123640.html",
+        "published_date": "Tue, 01 Sep 2026 08:28:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.241300"
+      },
+      "7db8c4f020e136bf80b0b886cfccd3b0227137aa3eabf6cebebf18ce0b4e4f32": {
+        "title": "比亚迪，把便宜卖贵了",
+        "link": "https://www.tmtpost.com/8123250.html",
+        "published_date": "Tue, 01 Sep 2026 08:26:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.241532"
+      },
+      "c084d58f269de6bbfd8a4cd36b59ed548edc98f28822c578c2beb3e48a6f3e36": {
+        "title": "新茶饮红利退潮后：蜜雪向左、古茗向下、霸王茶姬向右",
+        "link": "https://www.tmtpost.com/8123120.html",
+        "published_date": "Tue, 01 Sep 2026 08:15:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.241889"
+      },
+      "ad21302660d602e2b4f16d823f23c9b2cea1a8528b15ce848ad44dc322fbc2ae": {
+        "title": "煤、镍、棕榈油告急：印尼的“黑天鹅”为何成群起飞？",
+        "link": "https://www.tmtpost.com/8123095.html",
+        "published_date": "Tue, 01 Sep 2026 08:01:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.242331"
+      },
+      "240c67e9bba15cfd2b84a9feaf3b83f443485acc837c7d051b1d54a605c2aaaf": {
+        "title": "【钛晨报】七部门打出扩消费“组合拳”：破汽车限购、推适老机器人、建AI消费场景等；华为上半年收入4678亿增9.55%，研发投入1213.8亿创新高；燧原科技发行价确定",
+        "link": "https://www.tmtpost.com/8123455.html",
+        "published_date": "Tue, 01 Sep 2026 07:26:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.559286"
+      },
+      "00d944b770c1b90eeeb42806a3cfac7c559b51c4dad3f3fe0989b7c383e61e00": {
+        "title": "库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道",
+        "link": "http://www.geekpark.net/news/369634",
+        "published_date": "Tue, 01 Sep 2026 08:20:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.559315"
+      },
+      "caf6c380b7d60925af4ef6e4ed85a6d5efd77697b15aad17a66e4278df6aad16": {
+        "title": "流量红利退潮，快手想用 AI 和老友们破局",
+        "link": "http://www.geekpark.net/news/369631",
+        "published_date": "Mon, 31 Aug 2026 20:01:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.244651"
+      },
+      "745e549d3a010c5119db0df2c40b581a5e00b4e41d2bb731f8d0130c9f5bcc48": {
+        "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
+        "link": "https://sspai.com/post/114055",
+        "published_date": "Tue, 01 Sep 2026 08:17:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.245456"
+      },
+      "d94e766df45a6c8beac31090cde481c9e93ae7c18732b74551dd5e4d989e05f0": {
+        "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
+        "link": "https://sspai.com/post/114043",
+        "published_date": "Mon, 31 Aug 2026 18:48:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.246216"
+      },
+      "570e60dc2031ecf24ac6a2c3370048bbdde8c758f32b9f842e8d003f55209d15": {
+        "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
+        "link": "https://sspai.com/prime/story/home-made-beverages-4",
+        "published_date": "Mon, 31 Aug 2026 17:09:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.247040"
+      },
+      "204abf436035542d61b5dbd95cd4c181f0ce74e3ae2e1d6b6acd7801dbea9e87": {
+        "title": "智能体请求暴增9.4倍，token账单却没涨：Uber 公开AI软件工厂省钱方法",
+        "link": "https://www.infoq.cn/article/WGj2Jx0K2sbP3dhUXeC5?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 01 Sep 2026 07:00:00 GMT",
+        "first_seen": "2026-09-01T01:46:02.247988"
       }
     },
     "Finance": {},
     "Education": {
-      "1e1923de6e130b80cf80c2b045463a2f4a3afb3abe43fa2dc9d2495441525408": {
-        "title": "从练兵场到田间——退役军人胡祖红的粤桂协作三年",
-        "link": "http://baijiahao.baidu.com/s?id=1872303508855843650",
-        "published_date": "Sun, 02 Aug 2026 00:01:00 GMT",
-        "first_seen": "2026-08-02T00:01:57.561541"
-      },
       "7c81115bc26fe9161c5ed10ed7e7833caad3c4a9fa703705337e38260696226f": {
         "title": "2026赛季粤BA留下什么，答案藏在4个字里",
         "link": "http://baijiahao.baidu.com/s?id=1872380936608536521",
@@ -14015,13 +14135,85 @@
         "link": "http://baijiahao.baidu.com/s?id=1875027737027563089",
         "published_date": "Mon, 31 Aug 2026 11:29:00 GMT",
         "first_seen": "2026-08-31T11:29:58.880986"
+      },
+      "828f72f786aa2863fb5aad58e85c70c1adae0a4209dce146dc5584be2bcc179d": {
+        "title": "媒体聚焦 | 文旅新乡村，“远方”就在家乡",
+        "link": "http://baijiahao.baidu.com/s?id=1875047809292825315",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.845113"
+      },
+      "906a2d68c348be22b9b622a44a117935eca1b977605948aa6a825393293dd6cb": {
+        "title": "广东41岁爸爸送21岁女儿出嫁，被误认为新娘哥哥，..",
+        "link": "http://baijiahao.baidu.com/s?id=1874918583587544799",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.845136"
+      },
+      "3adb9be644f0f70017ae3001fdc34f1fe83f09991c6b33aa2187d2c321e1b26b": {
+        "title": "广东佛山一老板高调停业9天送女儿北大报到，店铺的L..",
+        "link": "http://baijiahao.baidu.com/s?id=1874831779411829078",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.845144"
+      },
+      "168bc88740195ab5080b650aff8beb4d9e87e6aaaa3619f14adaad5c83a32120": {
+        "title": "你好，新学期！| 185万名中小学生喜迎新学年！上..",
+        "link": "http://baijiahao.baidu.com/s?id=1875089200229447809",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.845153"
+      },
+      "b607dde93e871ea0bf893bdc528458c8d46fd1c552ef76d3387fccb4345ddc7a": {
+        "title": "首航！天津开启邮轮“无目的地海上游”",
+        "link": "http://baijiahao.baidu.com/s?id=1874914021075144137",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.845160"
+      },
+      "6f88a4a3ac3c38b1cdad47b1bf1ec81228b65483d58617a88ddbe434d6f1239f": {
+        "title": "闽人智慧丨“三下五除二”，福建人的数学功底原来这么..",
+        "link": "http://baijiahao.baidu.com/s?id=1875090966551656573",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.845168"
+      },
+      "7301e0b4e344b8e7bd2ebfa373d4c6eec36e3cf6cbf759a5114ee1756b32d61a": {
+        "title": "票房与创作双第一，消费持续“破圈”！广东电影暑期档..",
+        "link": "http://baijiahao.baidu.com/s?id=1875053330775413887",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.845175"
+      },
+      "458d73655ef949a16cb69f127f4e94690da3f049db80cc38af1f7442ab6fc727": {
+        "title": "「贵圈绘」山路弯弯，从交通短板到文旅风景",
+        "link": "http://baijiahao.baidu.com/s?id=1875043783066146175",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.845182"
+      },
+      "161f45f5a452b4c982f24162980e4d54250d4b471f10c08175f165c861e15251": {
+        "title": "徐佳允：繁华魔都里的童趣秘境",
+        "link": "http://baijiahao.baidu.com/s?id=1875088588118741609",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.845188"
+      },
+      "6f5f59ddde1a71717a892b4aa254624cb543dbe81e3039137194d629a9885b86": {
+        "title": "政协记忆｜隐蔽战线的英雄张唯一",
+        "link": "http://baijiahao.baidu.com/s?id=1875047767876333970",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:20.845194"
+      },
+      "3975a49564c8a3d13dc85ecac1d81112c8815bbdde05494ed7e14bdd0f40e85e": {
+        "title": "（申城风景线）在全球咖啡馆最多的城市感受“慈善温度..",
+        "link": "http://baijiahao.baidu.com/s?id=1875043161546417481",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.587160"
+      },
+      "6916aa7a2746e7cbf285329f792ec4fb14a25051c0abbc442146cbd4c4cba3a8": {
+        "title": "广东紫金救护3只珍稀领角鸮 已顺利放归野外",
+        "link": "http://baijiahao.baidu.com/s?id=1875046751878580883",
+        "published_date": "Tue, 01 Sep 2026 01:46:00 GMT",
+        "first_seen": "2026-09-01T01:46:11.587444"
       }
     }
   },
   "last_update": {
-    "AI": "2026-08-31T11:30:08.393448",
-    "Technology": "2026-08-31T11:29:58.863332",
-    "Finance": "2026-08-31T11:30:08.245531",
-    "Education": "2026-08-31T11:30:08.227099"
+    "AI": "2026-09-01T01:46:20.968468",
+    "Technology": "2026-09-01T01:46:11.574117",
+    "Finance": "2026-09-01T01:46:20.860013",
+    "Education": "2026-09-01T01:46:20.846450"
   }
 }
