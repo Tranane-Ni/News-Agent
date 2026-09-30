@@ -1302,69 +1302,21 @@
         "link": "https://www.qbitai.com/2026/09/499135.html",
         "published_date": "Tue, 29 Sep 2026 07:10:00 GMT",
         "first_seen": "2026-09-29T11:14:50.447324"
+      },
+      "62241e5cf4e9c73d8aa54f9aaf7732e91522ebf0ca2d028642decc7b1b9ab0f7": {
+        "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+        "link": "https://www.qbitai.com/2026/09/499246.html",
+        "published_date": "Tue, 29 Sep 2026 23:01:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.973915"
+      },
+      "300a3d3792220bc0b127261cf285dae858c128f1e214c22d2ef88c7c37a3b862": {
+        "title": "How Diffusion Controller unifies and simplifies AI image generation",
+        "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+        "published_date": "Tue, 29 Sep 2026 18:38:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.974126"
       }
     },
     "Technology": {
-      "fb4943eae24ad8465109f96d5628d455c071c651eaa9e16d816a711ff3d67452": {
-        "title": "Edge AI Daily 早报（8月31日）",
-        "link": "https://www.tmtpost.com/8122304.html",
-        "published_date": "Mon, 31 Aug 2026 08:51:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.306315"
-      },
-      "acc3968382cdffa643624159826c1455fcf7f75484564bb9a19d9042eabd438d": {
-        "title": "【钛晨报】个人住房贷款政策有大变化，个人房贷期限延至最长40年；OpenAI将终止向Cursor提供模型服务，马斯克回应；报告称AI公司每赚100美元近40美元流向云巨头",
-        "link": "https://www.tmtpost.com/8122212.html",
-        "published_date": "Mon, 31 Aug 2026 07:20:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.306541"
-      },
-      "bfe727838c2d9e8d411fd628dde853e3feee0873948458b258e6aacc16245775": {
-        "title": "优必选走进窄门",
-        "link": "https://www.tmtpost.com/8121851.html",
-        "published_date": "Sun, 30 Aug 2026 18:49:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.306657"
-      },
-      "2b71be559d7b63d17136c1e4d571d14471e0ec897db931bcf0f61086eed36aae": {
-        "title": "人形机器人还撑不起极智嘉",
-        "link": "https://www.tmtpost.com/8122055.html",
-        "published_date": "Sun, 30 Aug 2026 18:48:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.306782"
-      },
-      "b7e275838dc157a02a07959d498cc47bb38843c1b507f5732660098fcff58686": {
-        "title": "自动驾驶入法后，罚单还得车主交?",
-        "link": "https://www.tmtpost.com/8122093.html",
-        "published_date": "Sun, 30 Aug 2026 18:45:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.306947"
-      },
-      "6c974df36bee40d95c93a6ebfe16ac396b1c03628c5b8216f1d84938c88669db": {
-        "title": "天数智芯盈利了，但钱不是卖芯片赚的",
-        "link": "https://www.tmtpost.com/8122018.html",
-        "published_date": "Sun, 30 Aug 2026 18:45:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.307127"
-      },
-      "e182b668239b9ede1e9fca83e572f754b2417d34ed23b144f27d410a95f80122": {
-        "title": "派早报：GTA 6 引发请假玩游戏热潮",
-        "link": "https://sspai.com/post/114022",
-        "published_date": "Mon, 31 Aug 2026 06:59:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.307346"
-      },
-      "6435a872d61b159e099701723e795ce17725bf1aea5b501a97e94943ba2a246e": {
-        "title": "折叠屏的尽头，是不折叠：华为 Pura X View 体验",
-        "link": "http://www.geekpark.net/news/369558",
-        "published_date": "Mon, 31 Aug 2026 04:25:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.307689"
-      },
-      "e1d382bc9a1aec20cc79515aa705da6b5e091ee19768d10a52b8dd74e5863a47": {
-        "title": "造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌",
-        "link": "http://www.geekpark.net/news/369556",
-        "published_date": "Sun, 30 Aug 2026 18:58:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.308214"
-      },
-      "748dca960c28a599aaa125d71cc978c0b147cc82952f4cf5a967c382b0840947": {
-        "title": "OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了",
-        "link": "http://www.geekpark.net/news/369555",
-        "published_date": "Sun, 30 Aug 2026 18:53:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.308641"
-      },
       "fd3a0abd0e2211eab59bdc6af51be366473ad6d3a91023fe35fe9848b7bc0f14": {
         "title": "Hy4Preview，更“姚顺雨”了",
         "link": "https://www.tmtpost.com/8122948.html",
@@ -10100,34 +10052,100 @@
         "link": "https://sspai.com/post/115134",
         "published_date": "Tue, 29 Sep 2026 08:09:00 GMT",
         "first_seen": "2026-09-29T11:14:50.309435"
+      },
+      "f7452935943dd28af253a0c26466186e9eb56c20815d725a7487cf63a03da056": {
+        "title": "南北丰田格局生变，一汽和广汽开始跨区域组队",
+        "link": "https://www.tmtpost.com/8156661.html",
+        "published_date": "Wed, 30 Sep 2026 09:38:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.796931"
+      },
+      "4ae3de730e0e8d8393ab583b32b5342ca5ebdff404a1e0b9504c266e65308a38": {
+        "title": "物理AI深海养巨鲸",
+        "link": "https://www.tmtpost.com/8156666.html",
+        "published_date": "Wed, 30 Sep 2026 09:38:00 GMT",
+        "first_seen": "2026-09-30T01:56:27.365860"
+      },
+      "e439ddf16224eb12694669c1983aa4ad78eaffb43bfc93897d26e2f3f02e383a": {
+        "title": "当“AI饲料”，我都被AI嫌弃了？",
+        "link": "https://www.tmtpost.com/8155815.html",
+        "published_date": "Wed, 30 Sep 2026 09:34:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.796943"
+      },
+      "85939497e8d3fe7ad6d135120fb8d17f0400eb491e555daefee8aff7a8f31fc2": {
+        "title": "Edge AI Daily 早报（9月30日）",
+        "link": "https://www.tmtpost.com/8156593.html",
+        "published_date": "Wed, 30 Sep 2026 08:23:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.796954"
+      },
+      "d9c4dc4b2c08d7ddfc99833c332a511bacc7ed734475456fd630db7f679b6183": {
+        "title": "【钛晨报】重大利好！央行“四箭齐发”，房贷贴息政策落地；中行回应万事达信用卡遭盗刷；英伟达欲拉保险公司入场，为AI芯片融资风险兜底",
+        "link": "https://www.tmtpost.com/8156446.html",
+        "published_date": "Wed, 30 Sep 2026 07:20:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.796869"
+      },
+      "46d08765f1fec1fe9a1eafb464ba0f5e4a5e26560ff84bf9e5f9c594d5656145": {
+        "title": "删除储能相关，川润股份大幅下调定增募资额，“瘦身”过冬押注液冷",
+        "link": "https://www.tmtpost.com/8156522.html",
+        "published_date": "Tue, 29 Sep 2026 23:24:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.796965"
+      },
+      "f6d3d14b9d30f8147b3b090a2a0d7594e49489f0a36ef3a2166d87f8107066f3": {
+        "title": "8.25亿增资、8.26亿转让：迈威生物TCE管线分拆至新公司联威创元",
+        "link": "https://www.tmtpost.com/8156362.html",
+        "published_date": "Tue, 29 Sep 2026 21:49:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.796977"
+      },
+      "2f13740576d2589ea96a9a567886e0c55c3f8ceed9f8282bf3ac460e4581dc54": {
+        "title": "押注固态电池设备“三年后”：金银河15亿定增卡位",
+        "link": "https://www.tmtpost.com/8156391.html",
+        "published_date": "Tue, 29 Sep 2026 21:43:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.796987"
+      },
+      "b4b10155145b4219f29263fbd63897149f6d48d7d6adf3162b9db9f155d9e9ed": {
+        "title": "跨界医疗梦碎，永和智控持续甩卖资产",
+        "link": "https://www.tmtpost.com/8156335.html",
+        "published_date": "Tue, 29 Sep 2026 20:32:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.796996"
+      },
+      "991aeda9f6d748d6e4f0b8cee02a47adfd666ab0dea633baf282dd23a03a3f3b": {
+        "title": "ARR真的是大模型企业的黄金指标吗？",
+        "link": "https://www.tmtpost.com/8154376.html",
+        "published_date": "Tue, 29 Sep 2026 19:13:00 GMT",
+        "first_seen": "2026-09-30T01:56:27.368254"
+      },
+      "69cd0e72a98d914a8299618baeb8dc6e7166893ff0ab8b3acc3ac914f04bd818": {
+        "title": "Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+        "link": "https://www.infoq.cn/article/dbOwzu6l6Tr8NAhCQRC8?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 30 Sep 2026 09:00:00 GMT",
+        "first_seen": "2026-09-30T01:56:27.368841"
+      },
+      "0c81ae1678004beb70b33ae350a6f705eedab56f848bcfc96ff6b3df1ee599a0": {
+        "title": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
+        "link": "http://www.geekpark.net/news/372005",
+        "published_date": "Wed, 30 Sep 2026 08:25:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.796902"
+      },
+      "c177ea7c5aae7f53bc350d9764d5aeeba11dac5c7eb380141081c2b632b61eb2": {
+        "title": "除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」",
+        "link": "http://www.geekpark.net/news/372003",
+        "published_date": "Wed, 30 Sep 2026 02:59:00 GMT",
+        "first_seen": "2026-09-30T01:56:27.370494"
+      },
+      "c7924ecf26e504b122b5dac66c0a3e362a6fed35f01e98e565dd005db2df89d0": {
+        "title": "AMD 82 亿美元收购 World Labs，买的不只是世界模型",
+        "link": "http://www.geekpark.net/news/372000",
+        "published_date": "Tue, 29 Sep 2026 19:21:00 GMT",
+        "first_seen": "2026-09-30T01:56:27.371305"
+      },
+      "b41555ba6c283eaa702a54dd5a42aa0c7c7ed8c1f336412eed496e21e1f470a1": {
+        "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+        "link": "https://sspai.com/post/115197",
+        "published_date": "Wed, 30 Sep 2026 07:39:00 GMT",
+        "first_seen": "2026-09-30T01:56:36.796918"
       }
     },
     "Finance": {},
     "Education": {
-      "da51a1dff6b10f2c77acd72c5c72212940958059ff0c854a0901e0ae2bc39a51": {
-        "title": "福建漳州一1米8的15岁男生在1.2米深的浅水区跳..",
-        "link": "http://baijiahao.baidu.com/s?id=1874960187041819227",
-        "published_date": "Mon, 31 Aug 2026 01:15:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.343553"
-      },
-      "86ce9d8d70e33d3ed5b5258bb2b42675ce6a1a75c096020627c8b523f93a57ad": {
-        "title": "这场跨越2000多公里的研学之旅，让他们收获满满→",
-        "link": "http://baijiahao.baidu.com/s?id=1874949525008026475",
-        "published_date": "Mon, 31 Aug 2026 01:15:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.343712"
-      },
-      "8a80e3309738582668b9153025fb4c635e106f13ebe72978cd5019a8fc40228a": {
-        "title": "今天傍晚你拍到上海的双彩虹了吗？",
-        "link": "http://baijiahao.baidu.com/s?id=1874863260686641936",
-        "published_date": "Mon, 31 Aug 2026 01:15:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.343835"
-      },
-      "dbc66461f9f7b266da21911d905e038bc114b60bc73ab681a625ec80e9a7e7cd": {
-        "title": "福建烟火气，消费新动能｜活力中国调研行",
-        "link": "http://baijiahao.baidu.com/s?id=1874935936605880671",
-        "published_date": "Mon, 31 Aug 2026 01:15:00 GMT",
-        "first_seen": "2026-08-31T01:15:28.343966"
-      },
       "de55ec6c3c6edc8079da7e19bee8ed355610b6cac2ba8eb5abea3f3bbce17025": {
         "title": "“远东第一鱼市”在复兴岛开市，吆喝声、汽笛声，交织..",
         "link": "http://baijiahao.baidu.com/s?id=1875008120978755120",
@@ -13397,13 +13415,55 @@
         "link": "http://baijiahao.baidu.com/s?id=1877654137740151476",
         "published_date": "Tue, 29 Sep 2026 11:14:00 GMT",
         "first_seen": "2026-09-29T11:14:50.488366"
+      },
+      "9bc66094d33d5903f975927209e8874c7a4fd74ddca548a897087bd959210c66": {
+        "title": "雨线向北｜步入“年迈”的中小型水库：68岁水库改造..",
+        "link": "http://baijiahao.baidu.com/s?id=1877716739778631546",
+        "published_date": "Wed, 30 Sep 2026 01:56:00 GMT",
+        "first_seen": "2026-09-30T01:56:37.015041"
+      },
+      "99ed55195b1232f08b639028876350391ccdcec00ef14572a22322e97703f7db": {
+        "title": "国漫游园会、互动影游线下体验、国风夜游，10大上影..",
+        "link": "http://baijiahao.baidu.com/s?id=1877706619147342952",
+        "published_date": "Wed, 30 Sep 2026 01:56:00 GMT",
+        "first_seen": "2026-09-30T01:56:37.015174"
+      },
+      "2be658ae6af7ec4c576aeb83d2df4a94b235751f9a3ee7f934b5361d31ec4fee": {
+        "title": "从“烟火气”到“国际范”，这场摄影展记录上海奋斗故..",
+        "link": "http://baijiahao.baidu.com/s?id=1877715837228872076",
+        "published_date": "Wed, 30 Sep 2026 01:56:00 GMT",
+        "first_seen": "2026-09-30T01:56:37.015367"
+      },
+      "c892de70f07209a27a0ee0bc0e283a1e5a9207e9e2fe3a8c79a7df2f37432765": {
+        "title": "百万蔗田里，有颗“福建芯”",
+        "link": "http://baijiahao.baidu.com/s?id=1877714851461458875",
+        "published_date": "Wed, 30 Sep 2026 01:56:00 GMT",
+        "first_seen": "2026-09-30T01:56:37.015567"
+      },
+      "937176aead85a1b2fe6f53f85f16f184bfc57322c3ebd42b2fe5daf05bb689f1": {
+        "title": "明日施行，广东明确：外卖未封口或封口损坏，配送员有..",
+        "link": "http://baijiahao.baidu.com/s?id=1877718406367389574",
+        "published_date": "Wed, 30 Sep 2026 01:56:00 GMT",
+        "first_seen": "2026-09-30T01:56:37.015833"
+      },
+      "6b7da342dda623a3fcdf030cec89d2e01364ebcf303ce6480f769ce896d30e69": {
+        "title": "为“东方味道”留步的伦敦人，循着香气走进上海",
+        "link": "http://baijiahao.baidu.com/s?id=1877614834250768673",
+        "published_date": "Wed, 30 Sep 2026 01:56:00 GMT",
+        "first_seen": "2026-09-30T01:56:37.016170"
+      },
+      "bea8e45fa41389064f04a21996cc8097fa66f09e7f9e7e0d542a4f7668419932": {
+        "title": "丰收节游贵州｜一棵刺梨树，开出文旅新花",
+        "link": "http://baijiahao.baidu.com/s?id=1877631899391225156",
+        "published_date": "Wed, 30 Sep 2026 01:56:00 GMT",
+        "first_seen": "2026-09-30T01:56:37.016469"
       }
     }
   },
   "last_update": {
-    "AI": "2026-09-29T11:14:50.453848",
-    "Technology": "2026-09-29T11:14:50.325441",
-    "Finance": "2026-09-29T11:14:50.343948",
-    "Education": "2026-09-29T11:14:50.494930"
+    "AI": "2026-09-30T01:56:36.981361",
+    "Technology": "2026-09-30T01:56:36.848141",
+    "Finance": "2026-09-30T01:56:36.868166",
+    "Education": "2026-09-30T01:56:37.023876"
   }
 }
