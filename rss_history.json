@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "a4da48e3859a8e09171373f1f4ecb2f73af04fdafe501f9612abddfcd8c49480": {
-        "title": "Mapping global methane emissions from space with deep learning",
-        "link": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
-        "published_date": "Tue, 01 Sep 2026 18:40:00 GMT",
-        "first_seen": "2026-09-02T00:59:09.023060"
-      },
-      "62a5d92e1fafc6229c20c9b12e7e954bb271b6af27e6cba37774a3789b48a9e6": {
-        "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-        "link": "https://www.qbitai.com/2026/09/482512.html",
-        "published_date": "Tue, 01 Sep 2026 12:02:00 GMT",
-        "first_seen": "2026-09-02T00:59:09.023195"
-      },
       "a7c9c80008a2b813b9b1d2859f60837439056cf61a810320e8b341169627bc88": {
         "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
         "link": "https://www.qbitai.com/2026/09/483104.html",
@@ -1278,165 +1266,21 @@
         "link": "https://www.qbitai.com/2026/09/499605.html",
         "published_date": "Wed, 30 Sep 2026 12:11:00 GMT",
         "first_seen": "2026-10-01T01:56:15.834004"
+      },
+      "d0d27d5a4db804d39bd0930428f3b8b7f9ac50fea43e5c554b5bb50917a0e842": {
+        "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+        "link": "https://www.qbitai.com/2026/10/499812.html",
+        "published_date": "Thu, 01 Oct 2026 15:06:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.922070"
+      },
+      "57aae95d2547feeb06abf46b35af40dd206d553642dcd570fd06fdc050218f4e": {
+        "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+        "link": "https://www.qbitai.com/2026/10/499663.html",
+        "published_date": "Thu, 01 Oct 2026 15:02:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.922228"
       }
     },
     "Technology": {
-      "b0a7bd747c2d734d6b431b1660c8ce4384514105438eb735b23f032e5e92d680": {
-        "title": "Edge AI Daily 早报（9月2日）",
-        "link": "https://www.tmtpost.com/8125234.html",
-        "published_date": "Wed, 02 Sep 2026 08:47:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.862755"
-      },
-      "34b3b8e6791f08dd2f916333aa8e32c15c4b81f01755c74e9c1f41998da2c3cf": {
-        "title": "海淀的血脉和中关村的接力——万千气象看北京",
-        "link": "https://www.tmtpost.com/8125165.html",
-        "published_date": "Wed, 02 Sep 2026 08:06:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.862764"
-      },
-      "38839a8dd683747a0746e661161dcf4d76fa69b34331b2322efef43ad5613bb3": {
-        "title": "一个人，十五年，他想重写医疗AI的底层逻辑",
-        "link": "https://www.tmtpost.com/8125079.html",
-        "published_date": "Wed, 02 Sep 2026 07:41:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.862771"
-      },
-      "a5c2829b3b6f598d89e9ca2a07b09a3cbffacd9744dbb1e4eee5e7dca895de3f": {
-        "title": "【钛晨报】引导汽车企业规范境外竞争行为，三部门发文；Anthropic同英伟达支持的Lambda签署350亿美元云计算协议；电影暑期档收官，票房超124亿元",
-        "link": "https://www.tmtpost.com/8125054.html",
-        "published_date": "Wed, 02 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.862780"
-      },
-      "2f220edd8be156ad59c7fb6bc01544e8bb7cc00518c1809746893aaab750ca13": {
-        "title": "歌礼制药半年亏3.2亿：押注GLP‑1赛道，烧钱阵痛与专利风险双双袭来丨看财报",
-        "link": "https://www.tmtpost.com/8124983.html",
-        "published_date": "Tue, 01 Sep 2026 22:20:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.862788"
-      },
-      "37334e75bf9c07451495f3ed2dc9a38b3a09f46db598f91623516ccadf731641": {
-        "title": "从 Token 到扭矩，AI 落地东盟的四道「硬」关｜SEA Frontline",
-        "link": "https://www.tmtpost.com/8124037.html",
-        "published_date": "Tue, 01 Sep 2026 22:07:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.862796"
-      },
-      "94aae6e52260a315a6442597c82bd505c1938cb0887221ee71252d871f1a52c7": {
-        "title": "A Moment of Truth for Sony in China After Black Myth: Wukong",
-        "link": "https://www.tmtpost.com/8125008.html",
-        "published_date": "Tue, 01 Sep 2026 20:54:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.862804"
-      },
-      "d4ce2d6c9af856fd846770ac47464a145a0f4bdc059a6605eea8adaac75236c1": {
-        "title": "当玛雅与安第斯来到北京#万千气象看北京#",
-        "link": "https://www.tmtpost.com/8123551.html",
-        "published_date": "Tue, 01 Sep 2026 20:46:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.487156"
-      },
-      "c2162877f72383fda8057502b18bf442913ea69b35522405c8e48a9f70d1ba61": {
-        "title": "中国汽车出海，最难的已经不是把车卖出去",
-        "link": "https://www.tmtpost.com/8124780.html",
-        "published_date": "Tue, 01 Sep 2026 18:58:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.487409"
-      },
-      "77440ee18df162116905992cf485a6df16c29749b2c343df79efc73bd8e368f4": {
-        "title": "2000亿，淄博首富刚刚敲钟了",
-        "link": "https://www.tmtpost.com/8124157.html",
-        "published_date": "Tue, 01 Sep 2026 18:04:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.487630"
-      },
-      "fc0eb555844757688191bb098413a4127e6dd18e82eb1af1a8bec3b02cf86020": {
-        "title": "智飞生物这次可能抱不上默沙东的大腿了",
-        "link": "https://www.tmtpost.com/8124758.html",
-        "published_date": "Tue, 01 Sep 2026 18:04:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.487842"
-      },
-      "bcdd482778ae68dc816f0014b2fc56b329004f6958d722813243bee5af5526c7": {
-        "title": "美团终于赚钱了，但有一半或是友商“送”的",
-        "link": "https://www.tmtpost.com/8123622.html",
-        "published_date": "Tue, 01 Sep 2026 18:00:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.488195"
-      },
-      "357100755789a1a95bee30f9057e04dd20faa1838f1db2883ff222bb11264015": {
-        "title": "比亚迪终于等来业绩拐点？",
-        "link": "https://www.tmtpost.com/8123435.html",
-        "published_date": "Tue, 01 Sep 2026 18:00:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.488415"
-      },
-      "d5acef292961f8fbdea09e9af7557495cfeae431324d3d6d94070117e224f951": {
-        "title": "马年里小马智行的隐忧",
-        "link": "https://www.tmtpost.com/8124144.html",
-        "published_date": "Tue, 01 Sep 2026 17:59:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.488657"
-      },
-      "b0fccca35289df74c2f9627ed5d807cca9af71f90ea29d00716328722691244e": {
-        "title": "宇树“腰斩”，智元凭什么开价更高？",
-        "link": "https://www.tmtpost.com/8124107.html",
-        "published_date": "Tue, 01 Sep 2026 17:58:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.489006"
-      },
-      "0e3555d59f819e49fb981f6627212c0dc7c41be50104d1e5eeb884cbbcece014": {
-        "title": "升级后的DeepSeek，为何总爱深思熟虑？",
-        "link": "https://www.tmtpost.com/8124043.html",
-        "published_date": "Tue, 01 Sep 2026 17:58:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.489406"
-      },
-      "23436d654f60cba1a0a3341843d555bbbc08278d0abff1c62d0a4d34dd8ec081": {
-        "title": "苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线",
-        "link": "http://www.geekpark.net/news/369690",
-        "published_date": "Wed, 02 Sep 2026 08:13:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.490331"
-      },
-      "9d6d1716b1c5dca0bb2aad4ef533e933d829402d851d1ff1bbe8f72300932e5e": {
-        "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
-        "link": "https://sspai.com/post/114093",
-        "published_date": "Wed, 02 Sep 2026 07:58:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.862710"
-      },
-      "1a47da7e44cf4fe1718e0e7f9bf35b90881f4df8b5000521c441f78e1121c749": {
-        "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
-        "link": "https://sspai.com/post/114078",
-        "published_date": "Tue, 01 Sep 2026 17:00:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.491820"
-      },
-      "742a9e5b0f4116678c0cda5e3b9eb63c8d1b77b5e369e2b90394b392b3c6383e": {
-        "title": "云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？",
-        "link": "https://www.infoq.cn/video/QflJXpVJK5DqeoOgsY3D?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 21:24:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.492541"
-      },
-      "238ef97514cb2e13d97360e680f7be7aa0e3a0e6103d7aea571f2f744052850c": {
-        "title": "OpenClaw 迎来史上最大更新：933 名贡献者、超 1.6万次 PR 提交！打开浏览器就能用",
-        "link": "https://www.infoq.cn/article/9RS84kmpRvz4IqRUbNoe?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 20:03:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.493629"
-      },
-      "4a96090f3eec1da91a084a17f63e3af5b8b85066c91dfcdc1d696a6504275de1": {
-        "title": "3名开发者做出来的副业项目，半年冲进 4万人！亚马逊云科技把内部 Agent 工作台开源了",
-        "link": "https://www.infoq.cn/article/Um4rVTweSFXAiwdGLFVB?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 19:57:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.862735"
-      },
-      "6c055b3ba4ab86fc049e954ae8d3096adab131733971e9dd09828445d69964f8": {
-        "title": "压缩不再只是归档：从直接计算到在线更新",
-        "link": "https://www.infoq.cn/video/SjoEujMNOJphYVSMtGCK?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 19:54:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.495259"
-      },
-      "b6359bb964bd2a7644d9438082b33f88db4b8b8d901af8ebb1e941274317172c": {
-        "title": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
-        "link": "https://www.infoq.cn/article/s8dvlxO3lh3CEDgcsUEi?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 19:54:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.496543"
-      },
-      "41da30a94fbe722e44d037e50309646bb2850023f1fcf8290ebb9331c98c8945": {
-        "title": "谷歌 HEIR 项目旨在让同态加密推理成为可以一键实现的功能",
-        "link": "https://www.infoq.cn/article/S6ATgchCiYMHpPaTPzer?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 19:34:00 GMT",
-        "first_seen": "2026-09-02T00:58:59.497474"
-      },
-      "b3a721e59eaccb40d17eb6800b67723998a1ed4a97694363bd7fdd8113eb4022": {
-        "title": "VoidZero 发布 Vite+ Beta 版：通过单条命令即可调用的一体化 Web 工具链",
-        "link": "https://www.infoq.cn/article/u57OGmqCgNX26LClSDef?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 18:00:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.862746"
-      },
       "a0ea9cf40fc89fb64424ff43ca6f8982293390b43351f47f1d4e75418b11b264": {
         "title": "盖茨用6000字劝AI慢一点，却劝来了7500亿的油门",
         "link": "https://www.tmtpost.com/8124978.html",
@@ -9980,52 +9824,34 @@
         "link": "http://www.geekpark.net/news/372065",
         "published_date": "Thu, 01 Oct 2026 11:21:00 GMT",
         "first_seen": "2026-10-01T11:33:26.572090"
+      },
+      "7c5d317a58e8582c5c37f0cff9df9beea30856ca59505491a80d8c2e4d8c0521": {
+        "title": "deepseek为什么要在此时拥抱华为？",
+        "link": "https://www.tmtpost.com/8158082.html",
+        "published_date": "Fri, 02 Oct 2026 09:56:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.776282"
+      },
+      "fab7485521c221898b2f0ea0e6a31b9e0d656aa5a516910d7f4950f7cc9ef78e": {
+        "title": "Mate90登场，能打苹果的还得是华为",
+        "link": "https://www.tmtpost.com/8158094.html",
+        "published_date": "Fri, 02 Oct 2026 09:56:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.776436"
+      },
+      "22c154cf5288ebc9a4330e3062929bfea55775daa7a8031d10451f79fdb17fe1": {
+        "title": "领导层洗牌后，Argon能否助谷歌重回前沿？",
+        "link": "https://www.tmtpost.com/8158081.html",
+        "published_date": "Fri, 02 Oct 2026 09:29:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.776572"
+      },
+      "21699407bd7b8147703973cd9b096a51c452782b86484d5e6e02a1624c03beff": {
+        "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
+        "link": "http://www.geekpark.net/news/372069",
+        "published_date": "Fri, 02 Oct 2026 08:28:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.776811"
       }
     },
     "Finance": {},
     "Education": {
-      "ebb6bcf500130af0ffbcf459b9cd4e5c8dbd7418e488371e47732dce3d3129c0": {
-        "title": "众多明星大咖现身西岸！百年老站旧址焕新，解锁未来出..",
-        "link": "http://baijiahao.baidu.com/s?id=1875125111726110673",
-        "published_date": "Wed, 02 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.892653"
-      },
-      "a8eab1b7f22a7a8001a22e74b76b74ff56b293474f7f5f0f5a128014395cc9e2": {
-        "title": "山海携手育新苗，交融共生促成长——玛多县青少年“手..",
-        "link": "http://baijiahao.baidu.com/s?id=1875134641273216872",
-        "published_date": "Wed, 02 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.892750"
-      },
-      "6f2a114a56a6704210710c3f57000690f24c37657593851d7c37e8d09215f300": {
-        "title": "台胞暑期赴闽寻根热：“再大的风雨，也挡不住我们回来..",
-        "link": "http://baijiahao.baidu.com/s?id=1875138217432099824",
-        "published_date": "Wed, 02 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.892861"
-      },
-      "cd5a12a88dd854eaf21a5a06b11a402247ae58272e0eeba802d13777737c6483": {
-        "title": "夜读｜福建人的“龙餐馆”，在异乡升起烟火",
-        "link": "http://baijiahao.baidu.com/s?id=1875134724438147905",
-        "published_date": "Wed, 02 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.893019"
-      },
-      "2c3f9cfe179c831e8de8abfe9f35fbd27758312eb5cad67a61bf0e8ac0a3630d": {
-        "title": "广东首次完整记录彩鹮筑巢繁殖全过程",
-        "link": "http://baijiahao.baidu.com/s?id=1875133764071917095",
-        "published_date": "Wed, 02 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.893107"
-      },
-      "b02e0255335a85a65d660b0d3d5a236c72f4fdfb688c416fe145e83de6d11c00": {
-        "title": "视频丨停编后又加强为台风 “沙德尔”还将如何影响我..",
-        "link": "http://baijiahao.baidu.com/s?id=1875178891291474045",
-        "published_date": "Wed, 02 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.893287"
-      },
-      "0ec251a0acd6bf18d73011748b602c9924050700956c9ce2a74bc947802817d4": {
-        "title": "老字号来了位“国际讲解员”！竟然会10种语言！",
-        "link": "http://baijiahao.baidu.com/s?id=1875127032857858163",
-        "published_date": "Wed, 02 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-02T00:59:08.893468"
-      },
       "746c60ad619dad824bf7056113fc92e98820b80e4f9243cd96d1928328ba0dea": {
         "title": "福建福鼎“中国白茶第一镇”遭遇极端暴雨，有茶商百万..",
         "link": "http://baijiahao.baidu.com/s?id=1875210255152165718",
@@ -13301,13 +13127,67 @@
         "link": "http://baijiahao.baidu.com/s?id=1877770657124985674",
         "published_date": "Thu, 01 Oct 2026 11:33:00 GMT",
         "first_seen": "2026-10-01T11:33:36.196288"
+      },
+      "1bf401bb4d7680687a4537e4cbd68da22fe6e5ad21bf5e984d0223e0dd89f856": {
+        "title": "77年前的今天，上海第一面五星红旗在这里升起",
+        "link": "http://baijiahao.baidu.com/s?id=1877895830555293925",
+        "published_date": "Fri, 02 Oct 2026 02:06:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.945226"
+      },
+      "ea7340765ab26008dedab4ffa2f8a11c088fa42992e23c83f2ecd5d2f215c285": {
+        "title": "光影，点“靓”一座城！",
+        "link": "http://baijiahao.baidu.com/s?id=1877855881668244473",
+        "published_date": "Fri, 02 Oct 2026 02:06:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.945337"
+      },
+      "c668d71d2c6f39a0188a7ff3edaf0645dd82462b62270a278f0f9c1853c1f40e": {
+        "title": "山地织密护学网 平安相伴求学路｜贵州交警护学纪实",
+        "link": "http://baijiahao.baidu.com/s?id=1877726553286563447",
+        "published_date": "Fri, 02 Oct 2026 02:06:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.945476"
+      },
+      "717b5cfea737b48d6256437321c330237e981ce8b9568c65be7f355c52b1d2b0": {
+        "title": "贵州荔波：七孔碧水映秋光",
+        "link": "http://baijiahao.baidu.com/s?id=1877810042556899333",
+        "published_date": "Fri, 02 Oct 2026 02:06:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.945615"
+      },
+      "85e4b5cb23caf3e7e825cd1fbe9a9437440481db951bf0ecc3aea1a7f9c74a86": {
+        "title": "观音桥商圈焕新 探索存量商业改造新路径",
+        "link": "http://baijiahao.baidu.com/s?id=1877841627282355136",
+        "published_date": "Fri, 02 Oct 2026 02:06:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.945799"
+      },
+      "cedb0403254185b76638bfa9eabd3ee9afd9aa3dee9826670ccc4b92317b5dd3": {
+        "title": "这首84字的歌，为什么让所有中国人都有股力量？",
+        "link": "http://baijiahao.baidu.com/s?id=1877815861650590905",
+        "published_date": "Fri, 02 Oct 2026 02:06:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.946014"
+      },
+      "64f5304a5a9592f5511ae586cca26f917b13934e9602b499ed9bb8b8771208da": {
+        "title": "老百货装“新内容” 上海南京路把“流量”变“留量”",
+        "link": "http://baijiahao.baidu.com/s?id=1877803307693530179",
+        "published_date": "Fri, 02 Oct 2026 02:06:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.946347"
+      },
+      "e7ae3e195113a795738efd45ff48e7d3a26e68fd223256bedbc6b8e299afebcc": {
+        "title": "上海古镇｜朱家角：淀山湖畔的“江南明珠”",
+        "link": "http://baijiahao.baidu.com/s?id=1877851344526817376",
+        "published_date": "Fri, 02 Oct 2026 02:06:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.946679"
+      },
+      "2f8825c6dca64314cbf4fe08de2ce33619849fe078cdc2b74544858f7e75f489": {
+        "title": "“黄金周”开启 上海假日经济热力十足",
+        "link": "http://baijiahao.baidu.com/s?id=1877847075775685214",
+        "published_date": "Fri, 02 Oct 2026 02:06:00 GMT",
+        "first_seen": "2026-10-02T02:06:27.947000"
       }
     }
   },
   "last_update": {
-    "AI": "2026-10-01T11:33:36.155659",
-    "Technology": "2026-10-01T11:33:36.018656",
-    "Finance": "2026-10-01T11:33:36.038228",
-    "Education": "2026-10-01T11:33:45.544580"
+    "AI": "2026-10-02T02:06:27.929466",
+    "Technology": "2026-10-02T02:06:27.797986",
+    "Finance": "2026-10-02T02:06:27.816410",
+    "Education": "2026-10-02T02:06:27.956459"
   }
 }
