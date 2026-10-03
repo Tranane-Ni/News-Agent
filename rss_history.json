@@ -1248,141 +1248,15 @@
         "link": "https://www.qbitai.com/2026/10/499958.html",
         "published_date": "Fri, 02 Oct 2026 06:46:00 GMT",
         "first_seen": "2026-10-02T10:59:03.579336"
+      },
+      "675b66bdb2d212db8bb293f7911ffe6069118494264e88d2501ad154aac93402": {
+        "title": "Toward provably private learning from federated data",
+        "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+        "published_date": "Fri, 02 Oct 2026 14:57:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.138124"
       }
     },
     "Technology": {
-      "185f7136acc9cc6bbca8559ffaa9e37683c2d138731622c768aaedaf007fae4a": {
-        "title": "方向盘消失之后",
-        "link": "https://www.tmtpost.com/8126110.html",
-        "published_date": "Thu, 03 Sep 2026 08:51:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.975621"
-      },
-      "7c6ea58f45ca5481583b72ddc8c36f34f4b3855c12308e67fdb2c8c20c85a2ff": {
-        "title": "AI的两个世界：高门槛的产业，低门槛的致富故事",
-        "link": "https://www.tmtpost.com/8126269.html",
-        "published_date": "Thu, 03 Sep 2026 08:46:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.379433"
-      },
-      "061e7e76ff8a788a525778edbdf75ecc6cf4a6aa53092817ef688395492c46a1": {
-        "title": "存力接棒算力：AI智能体把存储推上主战场",
-        "link": "https://www.tmtpost.com/8123421.html",
-        "published_date": "Thu, 03 Sep 2026 08:29:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.379443"
-      },
-      "0a4e09043d4bc6cc9d66c0f2d2d5fb8fe07d3ce98565c58ee84c4fbac3b21a2d": {
-        "title": "Edge AI Daily 早报（9月3日）",
-        "link": "https://www.tmtpost.com/8126450.html",
-        "published_date": "Thu, 03 Sep 2026 08:13:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.379453"
-      },
-      "13f56be580c5fce00e5d5a22919ec49d919f1e0cc970b5f74fa1cc8694abb970": {
-        "title": "【钛晨报】央行行长潘功胜出席G20财长和央行行长会议，强调继续实施好适度宽松的货币政策；CrowdStrike与OpenAI扩大合作；港股通买入Minimax规模超越阿里巴巴和腾讯",
-        "link": "https://www.tmtpost.com/8126299.html",
-        "published_date": "Thu, 03 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.379464"
-      },
-      "c16119211e0bc487e017dc406f319215f20ec60b7e67c35d9e98084b4b789f93": {
-        "title": "渠道库存加速去化，线上营收增长15%，古井贡酒“挤水分”信号明确 | 看财报",
-        "link": "https://www.tmtpost.com/8125053.html",
-        "published_date": "Wed, 02 Sep 2026 21:49:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.379473"
-      },
-      "f869b3b2c76d67417ef7d466227492cdc6c545db06ac441b6234e86c07d06d19": {
-        "title": "China's Humanoid Robots Industry Enters the Era of “Public Infrastructure”",
-        "link": "https://www.tmtpost.com/8126318.html",
-        "published_date": "Wed, 02 Sep 2026 21:37:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.379483"
-      },
-      "b582be63a3461b25d7e1435a69aa8f5bc4185c7443aea4c8c1191bb0f828ba05": {
-        "title": "AI 落地东盟，30% 是技术和算法，70% 是人 | AIMX Singapore 2026 现场观察",
-        "link": "https://www.tmtpost.com/8124464.html",
-        "published_date": "Wed, 02 Sep 2026 21:34:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.379377"
-      },
-      "636c2a220762678086cb0afe1e32546df89672f9d20732bf86784e7f84cef0f3": {
-        "title": "Humanoid Robots Still Can’t Prop up Geek+",
-        "link": "https://www.tmtpost.com/8126302.html",
-        "published_date": "Wed, 02 Sep 2026 21:31:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.379492"
-      },
-      "a909fe3cbf8bc0b245fdce5b02c42a01034fcb4d9be499ff64149c140a297925": {
-        "title": "库克和特努斯谁更难？",
-        "link": "https://www.tmtpost.com/8124886.html",
-        "published_date": "Wed, 02 Sep 2026 18:55:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.978727"
-      },
-      "a81a0f471c746ae55414eaac706e0cc75e71665ad0c369d06a56f2a85fa01b38": {
-        "title": "Claude Desktop 被 Ollama 偷梁换柱",
-        "link": "https://www.tmtpost.com/8125118.html",
-        "published_date": "Wed, 02 Sep 2026 18:54:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.979315"
-      },
-      "c17ea226027acac4d1441826fea79d448c81a052418648b969fc857ad12ab924": {
-        "title": "库克最后一天，和他的苹果15年",
-        "link": "https://www.tmtpost.com/8125977.html",
-        "published_date": "Wed, 02 Sep 2026 18:53:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.979693"
-      },
-      "5a0ca279cc89d69904292bcf92e8979470fa4f0d9cea1662cbd45bc478decc87": {
-        "title": "苹果新任CEO特努斯的四张考卷",
-        "link": "https://www.tmtpost.com/8125937.html",
-        "published_date": "Wed, 02 Sep 2026 18:53:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.980054"
-      },
-      "2fff80a0b52c0850b673ec4ee28c9a34761ec19a053f0108d8ac6844a72e9caa": {
-        "title": "大A正从互联网大厂偷偷挖公关",
-        "link": "https://www.tmtpost.com/8125931.html",
-        "published_date": "Wed, 02 Sep 2026 18:53:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.980388"
-      },
-      "6a75c8d82ed1cca65fa5ffab13678b4185d97b960c8cb6ce262bf0d6408a286b": {
-        "title": "Keep的AI棋局",
-        "link": "https://www.tmtpost.com/8125756.html",
-        "published_date": "Wed, 02 Sep 2026 18:53:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.980754"
-      },
-      "a0d8c2e9d61643f022a1ddc161f2451bd77871f6edeacb8b3facdccfa7f7ce07": {
-        "title": "AI公司请达人说好话，得加钱了",
-        "link": "https://www.tmtpost.com/8125729.html",
-        "published_date": "Wed, 02 Sep 2026 17:58:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.981223"
-      },
-      "eafadcc6bcce7f97eb8bcb8964d70cafac66e0232f31966121a634583a2c09fb": {
-        "title": "Claude Fable 5.1发布：跑分翻倍是面子，思考块\"上锁\"才是里子",
-        "link": "https://www.tmtpost.com/8125528.html",
-        "published_date": "Wed, 02 Sep 2026 17:58:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.379408"
-      },
-      "40b152135b22682b28dad1c08605a16f5820922c5acae19459ba62e0e43386f6": {
-        "title": "制造业有了本体，大模型就能落地吗 | 智造观察",
-        "link": "https://www.tmtpost.com/8125160.html",
-        "published_date": "Wed, 02 Sep 2026 17:52:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.982807"
-      },
-      "71e4f2c4ebc24a8f1d789e9f56f09010072d2956d7d636aad96a0ec567682e93": {
-        "title": "马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道",
-        "link": "http://www.geekpark.net/news/369745",
-        "published_date": "Thu, 03 Sep 2026 08:03:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.984409"
-      },
-      "add807198aeb3396f19786ab92d77d29f1b7f96edeb5606728acf238d9daf06d": {
-        "title": "Nuxt 4.5：实验性 SSR 流式传输、Vite 8 以及基于 Rsbuild 的 Rspack 构建器",
-        "link": "https://www.infoq.cn/article/kggVXP7XclvALPskmSdq?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 02 Sep 2026 23:44:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.985978"
-      },
-      "aabe8440b9fac5e02eb707c63cf5f01d596d8fdc2c00baa74015b0a5cd2cae41": {
-        "title": "当 AI 开始重写负载，数据库该如何重新设计？",
-        "link": "https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 02 Sep 2026 18:07:00 GMT",
-        "first_seen": "2026-09-03T01:03:51.986872"
-      },
-      "70ddebffd1e21a7d691e1e66f8f10042aca9b81bd77ec41b7bae6494566a50ca": {
-        "title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
-        "link": "https://sspai.com/post/114084",
-        "published_date": "Wed, 02 Sep 2026 17:40:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.379423"
-      },
       "8d55960a9f5b554edcd960566c85773bd09fecbdb168b40797c6ae217481c5bd": {
         "title": "百利天恒MNC速成实验：“囤钱”冲动、巨亏隐忧与跨国豪赌 | 深度",
         "link": "https://www.tmtpost.com/8127300.html",
@@ -9710,70 +9584,22 @@
         "link": "https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 02 Oct 2026 10:00:00 GMT",
         "first_seen": "2026-10-02T10:58:54.064551"
+      },
+      "7b28707859ae16823663b8c82db8194fe01cfdeead7b4bea561339deebd406aa": {
+        "title": "Edge AI Daily 早报（10月3日）",
+        "link": "https://www.tmtpost.com/8158562.html",
+        "published_date": "Sat, 03 Oct 2026 09:30:00 GMT",
+        "first_seen": "2026-10-03T01:50:19.995168"
+      },
+      "bca7220203f5f51e24443349cb772e4040e4b4598a32475205e856bda101369e": {
+        "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文",
+        "link": "http://www.geekpark.net/news/372070",
+        "published_date": "Sat, 03 Oct 2026 09:17:00 GMT",
+        "first_seen": "2026-10-03T01:50:19.995408"
       }
     },
     "Finance": {},
     "Education": {
-      "5f4efc800852332e1f460f35f8e38446fb9b64ec0ad86558c2c8ba51cf5d600a": {
-        "title": "秋养气韵，冬蓄精神！2026广东“艺术晚课堂”秋冬..",
-        "link": "http://baijiahao.baidu.com/s?id=1875223202897738857",
-        "published_date": "Thu, 03 Sep 2026 01:03:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.411208"
-      },
-      "fd9f175db077b92ea6c42abe41552edabc5bc1afe826ef6a47f97b89d58592d7": {
-        "title": "海定波宁（人民家书）",
-        "link": "http://baijiahao.baidu.com/s?id=1875262002845721351",
-        "published_date": "Thu, 03 Sep 2026 01:03:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.411312"
-      },
-      "a28ec7d29297f0e0e1eccc86646b532fd01256a5b71abd2846d21adc66e09f15": {
-        "title": "第三届粤港澳大湾区博士博士后创新创业大赛首场复赛举..",
-        "link": "http://baijiahao.baidu.com/s?id=1875264738557845574",
-        "published_date": "Thu, 03 Sep 2026 01:03:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.411406"
-      },
-      "cba88c960a58ef802b54125b38a37f91d8683be1edd17a63d0fec14274af7fd0": {
-        "title": "黄中俊：交织与相遇",
-        "link": "http://baijiahao.baidu.com/s?id=1875119530058485506",
-        "published_date": "Thu, 03 Sep 2026 01:03:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.411512"
-      },
-      "17cb6d8b3e4bdfa74891cb9826351c6c78418ebdf0fe3eccbd67bae373def327": {
-        "title": "从产业协同到民生相融——两岸标准共通赋能融合发展",
-        "link": "http://baijiahao.baidu.com/s?id=1875082349653125793",
-        "published_date": "Thu, 03 Sep 2026 01:03:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.411667"
-      },
-      "aa36bf0a79fbd7ac0f5e7e0d09eec34857dcbfe9ae2784d4f8afa491cdbd0887": {
-        "title": "“CHIIKAWA DAYS特展”中国内地首展即将..",
-        "link": "http://baijiahao.baidu.com/s?id=1875140163754911054",
-        "published_date": "Thu, 03 Sep 2026 01:03:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.411870"
-      },
-      "44268818aaca8f724febb130abc285dd783b2cbfe4c2d0ac803c450d5091f6b9": {
-        "title": "重庆文旅亮相泰国北部国际旅游展",
-        "link": "http://baijiahao.baidu.com/s?id=1875202514649195759",
-        "published_date": "Thu, 03 Sep 2026 01:03:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.412057"
-      },
-      "b682aafbb0cab96ace85cf9a879608eae596e9fb097553fafb0401bf98c042c6": {
-        "title": "《目瑙纵歌》从网络“跳”到贡水河畔！这场民族大联欢..",
-        "link": "http://baijiahao.baidu.com/s?id=1875217354221382354",
-        "published_date": "Thu, 03 Sep 2026 01:03:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.412356"
-      },
-      "cc7c56b96343664a48a8bde623071e63bb645bb41f7370ebe6cd296dfd8d92d6": {
-        "title": "视频丨受“沙德尔”影响福建多条道路中断 抢通抢险持..",
-        "link": "http://baijiahao.baidu.com/s?id=1875269617129665527",
-        "published_date": "Thu, 03 Sep 2026 01:03:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.412677"
-      },
-      "0d35bcf0c71223fce35b3a99460e4ff00531cb97412a8d37e29512d3fbee2e81": {
-        "title": "受台风“沙德尔”影响 福建多地启动“三停一休”，即..",
-        "link": "http://baijiahao.baidu.com/s?id=1875268706334339974",
-        "published_date": "Thu, 03 Sep 2026 01:03:00 GMT",
-        "first_seen": "2026-09-03T01:04:01.413102"
-      },
       "491b2ad76681d13ac354c64f7ec5129769b19f97c92d8c61b01364e1225e820d": {
         "title": "中国游、中国购新意足 做衣服、看中医、配眼镜……外..",
         "link": "http://baijiahao.baidu.com/s?id=1875296952178018957",
@@ -13025,13 +12851,73 @@
         "link": "http://baijiahao.baidu.com/s?id=1877927943257446337",
         "published_date": "Fri, 02 Oct 2026 10:58:00 GMT",
         "first_seen": "2026-10-02T10:59:03.615853"
+      },
+      "6d3e3b24950ea0c6da24712807d774b1f1f56b9586b53c4d48bf6e34897bf34c": {
+        "title": "「深圳特区报」2026年广东形象片《风起南粤》发布..",
+        "link": "http://baijiahao.baidu.com/s?id=1877897479717208000",
+        "published_date": "Sat, 03 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.161214"
+      },
+      "9e8b7799c60e2e290d8fedc085515e8bff8b7bb32b930e4074744afaf3987a35": {
+        "title": "可看可玩可带走！多彩贵州城“一城千面·多彩奇遇夜”..",
+        "link": "http://baijiahao.baidu.com/s?id=1877946126798968905",
+        "published_date": "Sat, 03 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.161363"
+      },
+      "434c4b36fb8e26159e21d454d123a2a163cc3f88f669ffc89c4942ff24067242": {
+        "title": "视频丨九州山河各有风华 在一城一景中见中国范儿",
+        "link": "http://baijiahao.baidu.com/s?id=1877943670555312101",
+        "published_date": "Sat, 03 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.161522"
+      },
+      "f57a2176982c7d50c32bf7dd528442e6c0e2f0f2b3e03e5a7c6dcdc9fa05ba8a": {
+        "title": "当百年马路披上光影，长宁的夜有了新故事……",
+        "link": "http://baijiahao.baidu.com/s?id=1877944927722045502",
+        "published_date": "Sat, 03 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.161694"
+      },
+      "b4eda2a72d6104fd5a11934ebd7ed29a3943cb2143ff6a33c831927033c6dec3": {
+        "title": "手帐盛会遇上甜品狂欢，上海久光中心国庆人气爆棚！",
+        "link": "http://baijiahao.baidu.com/s?id=1877990245803996882",
+        "published_date": "Sat, 03 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.161907"
+      },
+      "dac0a73304a58d4b7f65fd100a406112abf03b724f49b2b69e79183c6a845b2f": {
+        "title": "今年前三季度上海口岸出入境人员超3270万人次，入..",
+        "link": "http://baijiahao.baidu.com/s?id=1877945687294965079",
+        "published_date": "Sat, 03 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.162203"
+      },
+      "ff3dfbf29e73ba9ca70fa50c85746770f6b19f74faadce6a2d8fd45a6445fa78": {
+        "title": "上海：游客夜间感受城市光影魅力",
+        "link": "http://baijiahao.baidu.com/s?id=1877943072955890067",
+        "published_date": "Sat, 03 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.162466"
+      },
+      "31fea634521df3c393724beb6860097db9887872f25c99dcedec1a5ad641f031": {
+        "title": "码住！国庆假期游玩攻略来啦~丨长宁好白相",
+        "link": "http://baijiahao.baidu.com/s?id=1877760600459652970",
+        "published_date": "Sat, 03 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.162788"
+      },
+      "1f97b7fcfa61f1aa7a7e21ee167c848724c94caa1d5f5817f8f2c930792e987a": {
+        "title": "申知沪志 | 为什么说三林塘是上海最重要的古镇之一",
+        "link": "http://baijiahao.baidu.com/s?id=1877905325226241033",
+        "published_date": "Sat, 03 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.163160"
+      },
+      "36e8862d448d937560663f426b0cd2e447ddcd3005223031339acf98848bdac0": {
+        "title": "江海之约，遇见诗与远方",
+        "link": "http://baijiahao.baidu.com/s?id=1877803698498362057",
+        "published_date": "Sat, 03 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-03T01:50:20.163488"
       }
     }
   },
   "last_update": {
-    "AI": "2026-10-02T10:59:03.583534",
-    "Technology": "2026-10-02T10:59:03.511414",
-    "Finance": "2026-10-02T10:59:03.522141",
-    "Education": "2026-10-02T10:59:03.620003"
+    "AI": "2026-10-03T01:50:20.145153",
+    "Technology": "2026-10-03T01:50:20.015743",
+    "Finance": "2026-10-03T01:50:20.033949",
+    "Education": "2026-10-03T01:50:20.170908"
   }
 }
