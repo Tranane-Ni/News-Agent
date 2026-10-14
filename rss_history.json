@@ -1161,66 +1161,6 @@
       }
     },
     "Technology": {
-      "80d9c84ebf73b344a1388831f6585d4020f0700dafeb874594b7e2d6ffd0ce33": {
-        "title": "Edge AI Daily 早报（9月14日）",
-        "link": "https://www.tmtpost.com/8138614.html",
-        "published_date": "Mon, 14 Sep 2026 08:04:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.510365"
-      },
-      "f66dd673538ff94af2409ac88865d3ae4f07a01f462bc4fee623abd133d0a562": {
-        "title": "【钛晨报】事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途",
-        "link": "https://www.tmtpost.com/8138491.html",
-        "published_date": "Mon, 14 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.510545"
-      },
-      "0b36f6a5f91e8b7b1ef54251e503acbb3337b9036c7de5451eb617c6ad8cadf9": {
-        "title": "老板电器，不能靠燃气灶“点火”了？",
-        "link": "https://www.tmtpost.com/8134632.html",
-        "published_date": "Sun, 13 Sep 2026 20:22:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.510763"
-      },
-      "b0acb8de5dfc8df63049627433b9cd7f49465f31f45a4d5d07773259a82308c2": {
-        "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车",
-        "link": "https://www.tmtpost.com/8138378.html",
-        "published_date": "Sun, 13 Sep 2026 20:20:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.510968"
-      },
-      "2fdbbd89b8a34651c8f6093f8ca6267ccbce1355b935a590dc062d48e529be02": {
-        "title": "感受到了时代的摇摆",
-        "link": "https://www.tmtpost.com/8138279.html",
-        "published_date": "Sun, 13 Sep 2026 20:20:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.511113"
-      },
-      "b489bccf67fd394b063ebef5113f42f5c9617810d8ca5b1c14bce23f58df9e94": {
-        "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
-        "link": "https://www.tmtpost.com/8138350.html",
-        "published_date": "Sun, 13 Sep 2026 20:19:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.511411"
-      },
-      "cb10c73400f4db1310801ac92f1f6d914f331650bacb00c20cc877bdd3701009": {
-        "title": "50亿美元融资背后，智谱在赌一个怎样的未来？丨钛快讯",
-        "link": "https://www.tmtpost.com/8138516.html",
-        "published_date": "Sun, 13 Sep 2026 20:17:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.511749"
-      },
-      "936cd95feb8da85666f39e55c205fbcb8fba92430ccbf6370a855839ec3c2013": {
-        "title": "【数智周报】DeepSeek扩招150人，为史上单次最大规模招聘；月之暗面报案：网传关于创始人及员工信息系恶意造谣；英伟达斥资129亿美元收购HuggingFace",
-        "link": "https://www.tmtpost.com/8138480.html",
-        "published_date": "Sun, 13 Sep 2026 18:32:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.512371"
-      },
-      "21b09d3736286270e5b9d8e925a490ec6de38ec6094f3d017f3b62b9c1ce6f85": {
-        "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
-        "link": "https://sspai.com/post/114539",
-        "published_date": "Mon, 14 Sep 2026 06:55:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.512839"
-      },
-      "f9a75a2c73e293b10487ef3f6f1d5df7628ed10f7e8e1f26bbdaabd97a189fef": {
-        "title": "苹果的折叠屏等了十五年，体验还差临门一脚",
-        "link": "http://www.geekpark.net/news/370231",
-        "published_date": "Mon, 14 Sep 2026 01:24:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.513210"
-      },
       "fc1ed47bb2e309ea2cc27682ae088e0f4720b43099dfce168706aca61e2d2e86": {
         "title": "纳入港股通后，谁是Biotech最大赢家？",
         "link": "https://www.tmtpost.com/8139265.html",
@@ -8702,46 +8642,100 @@
         "link": "https://sspai.com/post/114561",
         "published_date": "Tue, 13 Oct 2026 11:09:00 GMT",
         "first_seen": "2026-10-13T12:34:06.816757"
+      },
+      "149d6e1175634c1affbc6cfe6058e287dbea3f58d8807acdf130ce4694c0b945": {
+        "title": "Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+        "link": "https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 14 Oct 2026 09:21:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.730601"
+      },
+      "40a27eeabae13a584c654bade8fc1f5ad7cb2bb80e49dfaff7888aafd3984ca8": {
+        "title": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+        "link": "https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Oct 2026 22:26:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.730609"
+      },
+      "77630f3c6aebe77466a1cc8f9f2ce79dca47d514968b4fb211a44c55f9696231": {
+        "title": "30 名工程师、一个宏大愿景，却没有真实需求：谷歌高管反思产品开发狂热",
+        "link": "https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Oct 2026 21:34:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.730510"
+      },
+      "cd858434ea1e7a5e77f40ecea6a8e5f2bf3aa5e3f1b9c552a81a48ab5c9e27df": {
+        "title": "星巴克，重新学做中国生意",
+        "link": "https://www.tmtpost.com/8167760.html",
+        "published_date": "Wed, 14 Oct 2026 09:03:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.730615"
+      },
+      "49641ec4462b171b104f50561588b00544efd1cbf398c93d30012a314e9edf8a": {
+        "title": "双11大变天：有人掉队，就有人超车",
+        "link": "https://www.tmtpost.com/8167622.html",
+        "published_date": "Wed, 14 Oct 2026 09:03:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.730622"
+      },
+      "7ec220a9e6aa8bb33a834359e1dc5d3239c4e1f31d81ade8f6e0c084613651c3": {
+        "title": "所有App都在塞AI，但用户已经烦了",
+        "link": "https://www.tmtpost.com/8167377.html",
+        "published_date": "Wed, 14 Oct 2026 09:02:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.730629"
+      },
+      "85b5514577e22f8ebfc7e5b110084b77ba876ec2318f4145f99791d31b1a092e": {
+        "title": "Edge AI Daily 早报（10月14日）",
+        "link": "https://www.tmtpost.com/8167796.html",
+        "published_date": "Wed, 14 Oct 2026 08:51:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.730636"
+      },
+      "a5f23103c80118224aaf3a1a5be74beccab5f0664bc2b94346860e7ed17392cb": {
+        "title": "【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资",
+        "link": "https://www.tmtpost.com/8167674.html",
+        "published_date": "Wed, 14 Oct 2026 07:20:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.730573"
+      },
+      "2f0fcc8acfc3ae0fe0d3eba3422284119ede385e2f1343de88755a5a4f364f80": {
+        "title": "Shopify有望凭借AI智能体大获成功，但这可能需要时间",
+        "link": "https://www.tmtpost.com/8167702.html",
+        "published_date": "Tue, 13 Oct 2026 21:46:00 GMT",
+        "first_seen": "2026-10-14T01:44:06.317719"
+      },
+      "f249ea7ce8157b803c7bb750652995ec60aafccc62dd6ebb3eb7a3122a92c19b": {
+        "title": "Vertiv及另外5只工业股：财报发布前的投资标的",
+        "link": "https://www.tmtpost.com/8167697.html",
+        "published_date": "Tue, 13 Oct 2026 21:43:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.730583"
+      },
+      "4b0dc0c53ee92b74bd1da5394bf673fb9a069ed8a2984011f3806303eab9209b": {
+        "title": "一只18A“超购王”的停摆：停牌半年、调出港股通，中慧生物年内第三位董事辞任",
+        "link": "https://www.tmtpost.com/8167657.html",
+        "published_date": "Tue, 13 Oct 2026 21:37:00 GMT",
+        "first_seen": "2026-10-14T01:44:06.318596"
+      },
+      "97a53cb2b61643d20c518abaa24f24fd857d646ef5334dbd51a467469edb5d9c": {
+        "title": "天价离婚落定，猪周期未醒：神农集团站上关口",
+        "link": "https://www.tmtpost.com/8167612.html",
+        "published_date": "Tue, 13 Oct 2026 20:48:00 GMT",
+        "first_seen": "2026-10-14T01:44:06.318955"
+      },
+      "d8ba45d878658d3bf579d9b5fcb450cee40242c45afdd6deb88f2343f8ebbade": {
+        "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
+        "link": "https://sspai.com/post/116138",
+        "published_date": "Wed, 14 Oct 2026 08:40:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.730593"
+      },
+      "7044bca82c09eb8eb506419b41af6389744a8c3414d2d6bc5be8b95bea78ac9d": {
+        "title": "超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线",
+        "link": "http://www.geekpark.net/news/372304",
+        "published_date": "Wed, 14 Oct 2026 08:28:00 GMT",
+        "first_seen": "2026-10-14T01:44:06.320623"
+      },
+      "a1bcc8f9e37c1ccdf6c44bff9489ed61b3bede1babdfb1d10c30150d0142350c": {
+        "title": "苹果给 Siri 做了一块能认出全家人的屏幕，售价 299 美元",
+        "link": "http://www.geekpark.net/news/372302",
+        "published_date": "Tue, 13 Oct 2026 21:51:00 GMT",
+        "first_seen": "2026-10-14T01:44:06.321330"
       }
     },
     "Finance": {},
     "Education": {
-      "7b971091947790d8930b32a41fa57ea2d1835ca9dc6c1d81688e5e6e2c5f6536": {
-        "title": "1935年《彭浦区图》",
-        "link": "http://baijiahao.baidu.com/s?id=1876263185773263676",
-        "published_date": "Mon, 14 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.685658"
-      },
-      "0ef73d3668cb58c50cfdcec89a2bbb2571c5bca042d01226c154c8b6756b4983": {
-        "title": "峡谷云渡舞飞扬，全国民族民间舞蹈交流展演暨2026..",
-        "link": "http://baijiahao.baidu.com/s?id=1876236012572518084",
-        "published_date": "Mon, 14 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.685773"
-      },
-      "763dd36a308311065ce1c224880c96779e35b51dae721eed0305069c8560623f": {
-        "title": "文化种子落进年轻心田——福建坚持以文化人促教育提质..",
-        "link": "http://baijiahao.baidu.com/s?id=1876249791810016897",
-        "published_date": "Mon, 14 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.685910"
-      },
-      "b186f345d8d56ab12e8bb5a3312f9abd53c8570ff35f49dd9db7c045f4b407be": {
-        "title": "申城好游趣｜大巡游点亮外滩，共赴“上海有约”",
-        "link": "http://baijiahao.baidu.com/s?id=1876223338927986746",
-        "published_date": "Mon, 14 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.686064"
-      },
-      "eae96c5e4ec0e06bf3d6910663acdb6a95fe668bf24be22613b2d53562fb8c0c": {
-        "title": "文旅新探｜在溶洞深处，解锁多样“地心之旅”",
-        "link": "http://baijiahao.baidu.com/s?id=1876118393770499968",
-        "published_date": "Mon, 14 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.686272"
-      },
-      "8cae49c1545654203d7a14a4029f3f18a92c038f0d045fdc88076fae9bcf004e": {
-        "title": "外贸出口，广东保持全国第一",
-        "link": "http://baijiahao.baidu.com/s?id=1876175016992280354",
-        "published_date": "Mon, 14 Sep 2026 00:58:00 GMT",
-        "first_seen": "2026-09-14T00:58:02.686483"
-      },
       "1d2730211a749c43fd28b1f1b6a922bd4de02114c21541b84fc79b87fd07b179": {
         "title": "贵州遵义这样走出高质量发展新路",
         "link": "http://baijiahao.baidu.com/s?id=1876284330991454534",
@@ -11999,13 +11993,61 @@
         "link": "http://baijiahao.baidu.com/s?id=1878664839060887211",
         "published_date": "Tue, 13 Oct 2026 12:34:00 GMT",
         "first_seen": "2026-10-13T12:34:16.339022"
+      },
+      "ac8bb323e68bae99fafbd9f08ac5ce7f88a9c29d45753cbb00c48a3013a00f14": {
+        "title": "津冀首批“肯家驿站”发布 推动本地文商旅融合发展",
+        "link": "http://baijiahao.baidu.com/s?id=1878942410491116170",
+        "published_date": "Wed, 14 Oct 2026 01:44:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.892395"
+      },
+      "a1caa35fa99e4b4ac0403f23d74640e97b59a17b99fbe2e4ae0e8b3e6abc077b": {
+        "title": "稻田咖啡之后，上海郊区乡村还能怎么玩？市农业农村委..",
+        "link": "http://baijiahao.baidu.com/s?id=1878986226825695118",
+        "published_date": "Wed, 14 Oct 2026 01:44:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.892497"
+      },
+      "2b035335d6ed5acdb5ec35872f739193a08506f2f6a578107c512e7b4033b37f": {
+        "title": "闻香识桂，上海秋天的三种甜",
+        "link": "http://baijiahao.baidu.com/s?id=1878981768233518835",
+        "published_date": "Wed, 14 Oct 2026 01:44:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.892592"
+      },
+      "5f59f8955cc94d20dba03b69c9b4e30206a2182c27411a8e838b722f16aa0e42": {
+        "title": "客家祖地福建宁化：秋日田野色彩斑斓",
+        "link": "http://baijiahao.baidu.com/s?id=1878940017552250937",
+        "published_date": "Wed, 14 Oct 2026 01:44:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.892701"
+      },
+      "1447d5a4939f40a102ebe4281afdc2e2370e276b16b391506eab8bfab1d31ab4": {
+        "title": "全域全景打造都市旅游新格局",
+        "link": "http://baijiahao.baidu.com/s?id=1878987202935755263",
+        "published_date": "Wed, 14 Oct 2026 01:44:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.892795"
+      },
+      "89a4dd8058866cc524e1b62c5e2f0e726dcc1553d269ad456e84012590ab8c3b": {
+        "title": "125.8万座山头，藏着贵州的奋斗足迹",
+        "link": "http://baijiahao.baidu.com/s?id=1878938727138660763",
+        "published_date": "Wed, 14 Oct 2026 01:44:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.892944"
+      },
+      "b11738fee294c767e6ad42ac35ff9471b1ee6ff0c8b027f18f943cf95e4d5a22": {
+        "title": "第八批中国重要农业文化遗产名单公布！福建4项入选",
+        "link": "http://baijiahao.baidu.com/s?id=1878905666286883965",
+        "published_date": "Wed, 14 Oct 2026 01:44:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.893110"
+      },
+      "19f830a5310d32c87b17657546227b27e883990eb5f1c44223ffef9410fd30b1": {
+        "title": "弹硌路群堪称上海之最的江南古镇，就在这里！",
+        "link": "http://baijiahao.baidu.com/s?id=1878900050972721834",
+        "published_date": "Wed, 14 Oct 2026 01:44:00 GMT",
+        "first_seen": "2026-10-14T01:44:15.893287"
       }
     }
   },
   "last_update": {
-    "AI": "2026-10-13T12:34:16.298074",
-    "Technology": "2026-10-13T12:34:16.159185",
-    "Finance": "2026-10-13T12:34:16.177998",
-    "Education": "2026-10-13T12:34:16.346529"
+    "AI": "2026-10-14T01:44:15.879384",
+    "Technology": "2026-10-14T01:44:15.749593",
+    "Finance": "2026-10-14T01:44:15.764045",
+    "Education": "2026-10-14T01:44:15.898985"
   }
 }
